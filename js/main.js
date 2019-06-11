@@ -150,7 +150,9 @@ function initPlayCtrl(){
         var len = $list.length;
         var randNum = Math.floor(Math.random()*len);
         console.log(randNum);
-        $($list[randNum]).addClass('selected')
+        musicList.find(".selected").removeClass("selected");
+        $($list[randNum]).addClass('selected');
+        $($list[randNum]).trigger("click");
         /*if($player.music){
             $player.play($player.music);
         }else{
@@ -158,12 +160,16 @@ function initPlayCtrl(){
         }*/
     });
     playCtrl.find(".collect").bind("click",function(){
-        console.log("红心")
-        $(this).removeClass("collect").addClass("collected");
+        if ($(this).style.backgroundImage == url("images/pcrl/collected.png") {
+            console.log("红心")
+            $(this).style.backgroundImage = url("images/pcrl/collect.png");
+        } else {
+            console.log("去除红心")
+            $(this).style.backgroundImage = url("images/pcrl/collected.png");
+        }
     });
     playCtrl.find(".collected").bind("click",function(){
-        console.log("去除红心")
-        $(this).removeClass("collected").addClass("collect");
+
     });
     playCtrl.find(".play").bind("click",function(){
         if($player.music){
