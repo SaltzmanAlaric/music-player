@@ -145,6 +145,26 @@ function getPlayList(){
 }
 
 function initPlayCtrl(){
+    playCtrl.find(".loop").bind("click",function(){
+        var $list = $("#music_list").find("li")
+        var len = $list.length;
+        var randNum = Math.floor(Math.random()*len);
+        console.log(randNum);
+        $($list[randNum]).addClass('selected')
+        /*if($player.music){
+            $player.play($player.music);
+        }else{
+            musicList.find("li:first-child").trigger("click");
+        }*/
+    });
+    playCtrl.find(".collect").bind("click",function(){
+        console.log("红心")
+        $(this).removeClass("collect").addClass("collected");
+    });
+    playCtrl.find(".collected").bind("click",function(){
+        console.log("去除红心")
+        $(this).removeClass("collected").addClass("collect");
+    });
     playCtrl.find(".play").bind("click",function(){
         if($player.music){
             $player.play($player.music);
