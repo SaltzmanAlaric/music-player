@@ -28,6 +28,7 @@
 },{
   "name":"Girls",
   "singer":"MARiA",
+  "type":"未知",
   "cover":"demo/res/MARiA - Girls.jpg",
   "link_url":"demo/res/MARiA - Girls.mp3"
 }]
