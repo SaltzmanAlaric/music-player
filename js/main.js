@@ -65,7 +65,7 @@ function renderInfo(music){
     playInfo.find(".songName").html(music.name);
     playInfo.find(".singer").html(music.singer);
     album_art.addClass("active");
-    album_art.find(".cover").attr("src",music.cover || 'demo/res/ccnn/0e2442a7d933c8953ee45510d21373f0830200c7.jpg');
+    album_art.find(".cover").attr("src",music.cover || 'res/images/bg-song-disc.png');
     var infoTemp = _.template($("#music_info").html());
     $(".music_info").html(infoTemp(music));
 }
