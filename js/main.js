@@ -160,12 +160,12 @@ function initPlayCtrl(){
         }*/
     });
     playCtrl.find(".collect").bind("click",function(){
-        if ($(this).style.background == "url(images/pcrl/collected.png)") {
+        if ($(this).style.backgroundImage == "url(images/pcrl/collected.png)") {
             console.log("红心")
-            $(this).style.background = "url(images/pcrl/collect.png)";
+            $(this).style.backgroundImage = "url(images/pcrl/collect.png)";
         } else {
             console.log("去除红心")
-            $(this).style.background = "url(images/pcrl/collected.png)";
+            $(this).style.backgroundImage = "url(images/pcrl/collected.png)";
         }
     });
     playCtrl.find(".collected").bind("click",function(){
