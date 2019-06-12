@@ -1,0 +1,30 @@
+﻿[
+  {
+  "id": "002SPy0035WGXQ",
+  "name": "ambiguous",
+  "singer": "GARNiDELiA",
+  "album": "ambiguous",
+  "source": "qq",
+  "link_url": "audio/ambiguous - GARNiDELiA.mp3",
+  "link_lrc": "audio/ambiguous - GARNiDELiA.mp3",
+  },
+  {
+    "id": "001M0D9X1V2ELp",
+    "name": "ASH",
+    "singer": "LiSA",
+    "album": "ASH(通常盤)",
+    "source": "qq",
+    "link_url": "audio/ASH - LiSA.mp3",
+    "link_lrc": "audio/ASH - LiSA.mp3"
+  },
+  {
+    "id": "004O51DB4A2mmX",
+    "name": "Bi-Li-Li Emotion",
+    "singer": "Superfly",
+    "album": "LOVE, PEACE & FIRE",
+    "source": "qq",
+    "link_url": "audio/Bi-Li-Li Emotion - Superfly.mp3",
+    "link_lrc": "audio/Bi-Li-Li Emotion - Superfly.mp3"
+  }
+
+]

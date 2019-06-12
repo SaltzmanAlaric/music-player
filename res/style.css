@@ -113,9 +113,6 @@ footer #playerCtrl > div .button.next {
 footer #playerCtrl > div .button.collect {
   background-image: url("images/pcrl/collect.png");
 }
-footer #playerCtrl > div .button.collected {
-  background-image: url("images/pcrl/collected.png");
-}
 header .playing_info {
   width: 100%;
   overflow: hidden;

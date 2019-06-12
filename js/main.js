@@ -95,7 +95,7 @@ function renderInfo(music){
     playInfo.find(".songName").html(music.name);
     playInfo.find(".singer").html(music.singer);
     album_art.addClass("active");
-    album_art.find(".cover").attr("src",music.cover || 'res/images/bg-disc1.jpg');
+    album_art.find(".cover").attr("src",music.cover || 'res/images/bg-disc2.jpg');
     var infoTemp = _.template($("#music_info").html());
     $(".music_info").html(infoTemp(music));
 }
@@ -149,8 +149,8 @@ function updateLyric(){
 function getPlayList(){
     var list = $("#music_list");
     $.ajax({
-        url:"demo/music.json",
-        cache:false,
+        url: "music.json",
+        cache: true,
         success:function(data){
             list.empty();
             $player.playList.add(data);
