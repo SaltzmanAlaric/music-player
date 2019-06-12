@@ -216,17 +216,22 @@ function initPlayCtrl(){
         prev.trigger("click");
     });
     playCtrl.find(".next").bind("click",function(){
-        var $list = $("#music_list").find("li")
-        var nextIndex = getAutoNextSongIndex($list.length);
-        musicList.find(".selected").removeClass("selected");
-        $($list[nextIndex]).addClass('selected');
-        $($list[nextIndex]).trigger("click");
-        /*var next = musicList.find(".selected").next("li");
-        if (next.length>0) {
-            next.trigger("click");
+        if (mode == 1) {
+            var $list = $("#music_list").find("li")
+            var nextIndex = getAutoNextSongIndex($list.length);
+            musicList.find(".selected").removeClass("selected");
+            $($list[nextIndex]).addClass('selected');
+            $($list[nextIndex]).trigger("click");
         } else {
-            musicList.find("li:first-child").trigger("click");
-        }*/
+            var next = musicList.find(".selected").next("li");
+            if (next.length>0) {
+                next.trigger("click");
+            } else {
+                musicList.find("li:first-child").trigger("click");
+            }
+        }
+
+
     });
 }
 
