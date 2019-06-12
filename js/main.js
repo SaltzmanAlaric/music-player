@@ -160,7 +160,7 @@ function initPlayCtrl(){
         }*/
     });
     playCtrl.find(".collect").bind("click",function(){
-        if ($(this).css("backgroundImage") == "url(res/images/pcrl/collect.png)") {
+        if ($(this).css("background").includes("res/images/pcrl/collect.png")) {
             console.log("红心")
             $(this).css("backgroundImage", "url(res/images/pcrl/collected.png)");
         } else {
