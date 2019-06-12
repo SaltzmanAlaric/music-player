@@ -43,7 +43,12 @@ function initPlayerProgress(){
             $progressbar.slideable = false;
             $player.unbind("timeupdate",updateLyric);
             text_temp = undefined;
-            playCtrl.find(".next").trigger("click");
+            var $list = $("#music_list").find("li")
+            var nextIndex = getAutoNextSongIndex($list.length);
+            console.log(nextIndex);
+            musicList.find(".selected").removeClass("selected");
+            $($list[nextIndex]).addClass('selected');
+            $($list[nextIndex]).trigger("click");
         }
     });
     $progressbar.bind("change",function(){
@@ -62,11 +67,36 @@ function initPlayerProgress(){
     }
 }
 
+// 自动播放获取下一首的下标
+function getAutoNextSongIndex(len) {
+    if (len == 1) {
+        return 0;
+    }
+    // 列表循环
+    var loopMode = playCtrl.find(".loop").css("background").includes("res/images/pcrl/loop.png");
+    // 随机播放
+    var randomMode = playCtrl.find(".loop").css("background").includes("res/images/pcrl/random.png");
+    // 单曲循环
+    var circleMode = playCtrl.find(".loop").css("background").includes("res/images/pcrl/circle.jpg");
+    var currIndex = 0;
+    musicList.find("li").forEach(function(item,index){
+        if (!!item.getAttribute("class")) {
+            currIndex = index;
+        }
+    })
+    if (loopMode) {
+        return currIndex == (len-1) ? 0: currIndex + 1;
+    } else if (randomMode) {
+        return  Math.floor(Math.random()*len);
+    } else {
+        return currIndex;
+}
+
 function renderInfo(music){
     playInfo.find(".songName").html(music.name);
     playInfo.find(".singer").html(music.singer);
     album_art.addClass("active");
-    album_art.find(".cover").attr("src",music.cover || 'res/images/bg-song-disc.png');
+    album_art.find(".cover").attr("src",music.cover || 'res/images/bg-disc1.jpg');
     var infoTemp = _.template($("#music_info").html());
     $(".music_info").html(infoTemp(music));
 }
@@ -147,25 +177,21 @@ function getPlayList(){
 
 function initPlayCtrl(){
     playCtrl.find(".loop").bind("click",function(){
-        var $list = $("#music_list").find("li")
-        var len = $list.length;
-        var randNum = Math.floor(Math.random()*len);
-        console.log(randNum);
-        musicList.find(".selected").removeClass("selected");
-        $($list[randNum]).addClass('selected');
-        $($list[randNum]).trigger("click");
-        /*if($player.music){
-            $player.play($player.music);
-        }else{
-            musicList.find("li:first-child").trigger("click");
-        }*/
+        // 列表循环
+        if ($(this).css("background").includes("res/images/pcrl/loop.png")) {
+            $(this).css("backgroundImage", "url(res/images/pcrl/random.png)");
+        // 随机播放
+        } else if ($(this).css("background").includes("res/images/pcrl/random.png")) {
+            $(this).css("backgroundImage", "url(res/images/pcrl/circle.jpg)");
+        // 单曲循环
+        } else {
+            $(this).css("backgroundImage", "url(res/images/pcrl/loop.png)");
+        }
     });
     playCtrl.find(".collect").bind("click",function(){
         if ($(this).css("background").includes("res/images/pcrl/collect.png")) {
-            console.log("红心")
             $(this).css("backgroundImage", "url(res/images/pcrl/collected.png)");
         } else {
-            console.log("去除红心")
             $(this).css("backgroundImage", "url(res/images/pcrl/collect.png)");
         }
     });
@@ -184,10 +210,18 @@ function initPlayCtrl(){
         prev.trigger("click");
     });
     playCtrl.find(".next").bind("click",function(){
+        var $list = $("#music_list").find("li")
+        var nextIndex = getAutoNextSongIndex($list.length);
+        musicList.find(".selected").removeClass("selected");
+        $($list[nextIndex]).addClass('selected');
+        $($list[nextIndex]).trigger("click");
         var next = musicList.find(".selected").next("li");
-        if(next.length>0)next.trigger("click");
-        else{
+        if (next.length>0) {
+            next.trigger("click");
+        } else {
             musicList.find("li:first-child").trigger("click");
         }
     });
+}
+
 }
