@@ -8,6 +8,7 @@ var playCtrl = $("#playerCtrl"),
     album_art = $(".album_art"),
     lyric_wrap = $(".lyric_wrap"),
     lyric = lyric_wrap.find("#lyric");
+var mode = 0;
 $(document).ready(onReady);
 function onReady(){
     getPlayList();
@@ -72,22 +73,19 @@ function getAutoNextSongIndex(len) {
     if (len == 1) {
         return 0;
     }
-    // 列表循环
-    var loopMode = playCtrl.find(".loop").css("background").includes("res/images/pcrl/loop.png");
-    // 随机播放
-    var randomMode = playCtrl.find(".loop").css("background").includes("res/images/pcrl/random.png");
-    // 单曲循环
-    var circleMode = playCtrl.find(".loop").css("background").includes("res/images/pcrl/circle.jpg");
     var currIndex = 0;
     musicList.find("li").forEach(function(item,index){
         if (!!item.getAttribute("class")) {
             currIndex = index;
         }
     })
-    if (loopMode) {
+    // 列表循环
+    if (mode == 0) {
         return currIndex == (len-1) ? 0: currIndex + 1;
-    } else if (randomMode) {
+    // 随机播放
+    } else if (mode == 1) {
         return  Math.floor(Math.random()*len);
+    // 单曲循环
     } else {
         return currIndex;
     }
@@ -178,16 +176,23 @@ function getPlayList(){
 
 function initPlayCtrl(){
     playCtrl.find(".loop").bind("click",function(){
-        // 列表循环
-        if ($(this).css("background").includes("res/images/pcrl/loop.png")) {
-            $(this).css("backgroundImage", "url(res/images/pcrl/random.png)");
-        // 随机播放
-        } else if ($(this).css("background").includes("res/images/pcrl/random.png")) {
-            $(this).css("backgroundImage", "url(res/images/pcrl/circle.jpg)");
-        // 单曲循环
-        } else {
-            $(this).css("backgroundImage", "url(res/images/pcrl/loop.png)");
+        switch (mode) {
+            // 列表循环
+            case 0:
+                $(this).css("backgroundImage", "url(res/images/pcrl/random.png)");
+                break;
+            // 随机播放
+            case 1:
+                $(this).css("backgroundImage", "url(res/images/pcrl/circle.jpg)");
+                break;
+            // 单曲循环
+            case 2:
+                $(this).css("backgroundImage", "url(res/images/pcrl/loop.png)");
+                break;
+            default:
+                break;
         }
+        mode = (mode == 2) ? 0: mode+1;
     });
     playCtrl.find(".collect").bind("click",function(){
         if ($(this).css("background").includes("res/images/pcrl/collect.png")) {
@@ -216,12 +221,12 @@ function initPlayCtrl(){
         musicList.find(".selected").removeClass("selected");
         $($list[nextIndex]).addClass('selected');
         $($list[nextIndex]).trigger("click");
-        var next = musicList.find(".selected").next("li");
+        /*var next = musicList.find(".selected").next("li");
         if (next.length>0) {
             next.trigger("click");
         } else {
             musicList.find("li:first-child").trigger("click");
-        }
+        }*/
     });
 }
 
