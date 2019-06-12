@@ -6,7 +6,7 @@
   "album": "ambiguous",
   "source": "qq",
   "link_url": "audio/ambiguous - GARNiDELiA.mp3",
-  "link_lrc": "audio/ambiguous - GARNiDELiA.mp3"
+  "link_lrc": "audio/ambiguous - GARNiDELiA.lrc"
   },
   {
     "id": "001M0D9X1V2ELp",
@@ -15,7 +15,7 @@
     "album": "ASH(通常盤)",
     "source": "qq",
     "link_url": "audio/ASH - LiSA.mp3",
-    "link_lrc": "audio/ASH - LiSA.mp3"
+    "link_lrc": "audio/ASH - LiSA.lrc"
   },
   {
     "id": "004O51DB4A2mmX",
@@ -24,6 +24,6 @@
     "album": "LOVE, PEACE & FIRE",
     "source": "qq",
     "link_url": "audio/Bi-Li-Li Emotion - Superfly.mp3",
-    "link_lrc": "audio/Bi-Li-Li Emotion - Superfly.mp3"
+    "link_lrc": "audio/Bi-Li-Li Emotion - Superfly.lrc"
   }
 ]
