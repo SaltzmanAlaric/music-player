@@ -90,6 +90,7 @@ function getAutoNextSongIndex(len) {
         return  Math.floor(Math.random()*len);
     } else {
         return currIndex;
+    }
 }
 
 function renderInfo(music){
@@ -224,4 +225,3 @@ function initPlayCtrl(){
     });
 }
 
-}
