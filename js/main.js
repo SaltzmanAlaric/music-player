@@ -1,14 +1,14 @@
 ﻿_.templateSettings = {
     interpolate: /\{\{(.+?)\}\}/g
 };
-const playCtrl = $("#playerCtrl"),
+var playCtrl = $("#playerCtrl"),
     musicList = $("#music_list"),
     playerProgress = $("#playerProgress"),
     playInfo = $(".playing_info"),
     album_art = $(".album_art"),
     lyric_wrap = $(".lyric_wrap"),
     lyric = lyric_wrap.find("#lyric");
-const mode = 0;
+var mode = 0;
 $(document).ready(onReady);
 function onReady(){
     getPlayList();
@@ -157,7 +157,7 @@ function getPlayList(){
             $player.playList.add(data);
             var template = _.template($("#music_list_item").html());
             $.each($player.playList.all(),function(i,m){
-                m["name"] = (i+1) + m["name"];
+                m["name"] = (i+1) + ". " + m["name"];
                 if(m["link_lrc"])m.lyric = new Lyrics(m["link_lrc"]);
                 var dom = $(template(m)).get(0);
                 dom.index = i;
