@@ -150,9 +150,10 @@ function getPlayList(){
     var list = $("#music_list");
     $.ajax({
         url: "music.json",
-        cache: true,
+        cache: false,
         success:function(data){
             list.empty();
+            console.log(data);
             $player.playList.add(data);
             var template = _.template($("#music_list_item").html());
             $.each($player.playList.all(),function(i,m){
@@ -162,6 +163,8 @@ function getPlayList(){
                 dom.music = m;
                 list.append(dom);
             })
+            console.log("data");
+
         },
         error:function(){
             list.html('<li style="text-align: center;display: block;">音乐列表获取失败！</li>');
