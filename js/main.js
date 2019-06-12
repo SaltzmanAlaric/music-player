@@ -150,13 +150,14 @@ function getPlayList(){
     var list = $("#music_list");
     $.ajax({
         url: "music.json",
-        cache: false,
+        cache: true,
         success:function(data){
             list.empty();
             console.log(data);
             $player.playList.add(data);
             var template = _.template($("#music_list_item").html());
             $.each($player.playList.all(),function(i,m){
+                m["name"] = (i+1) + m["name"];
                 if(m["link_lrc"])m.lyric = new Lyrics(m["link_lrc"]);
                 var dom = $(template(m)).get(0);
                 dom.index = i;
