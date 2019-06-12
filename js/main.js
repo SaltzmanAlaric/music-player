@@ -1,14 +1,14 @@
 ﻿_.templateSettings = {
     interpolate: /\{\{(.+?)\}\}/g
 };
-var playCtrl = $("#playerCtrl"),
+const playCtrl = $("#playerCtrl"),
     musicList = $("#music_list"),
     playerProgress = $("#playerProgress"),
     playInfo = $(".playing_info"),
     album_art = $(".album_art"),
     lyric_wrap = $(".lyric_wrap"),
     lyric = lyric_wrap.find("#lyric");
-var mode = 0;
+const mode = 0;
 $(document).ready(onReady);
 function onReady(){
     getPlayList();
