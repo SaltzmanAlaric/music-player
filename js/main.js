@@ -166,7 +166,7 @@ function getPlayList(){
             console.log("data");
 
         },
-        error:function(){
+        error:function(e){
             list.html('<li style="text-align: center;display: block;">音乐列表获取失败！</li>');
         }
     });
