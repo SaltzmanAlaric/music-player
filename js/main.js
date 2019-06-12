@@ -43,6 +43,7 @@ function initPlayerProgress(){
             $progressbar.slideable = false;
             $player.unbind("timeupdate",updateLyric);
             text_temp = undefined;
+            playCtrl.find(".next").trigger("click");
         }
     });
     $progressbar.bind("change",function(){
