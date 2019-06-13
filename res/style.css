@@ -161,6 +161,10 @@ header .playing_info .singer {
 }
 .panel.playlist .music_list {
   color: #ffffff;
+  /*height: fit-content;*/
+  min-height:300px;
+  overflow-y:auto;
+  max-height:720px;
 }
 .panel.playlist .music_list li {
   display: -webkit-box;

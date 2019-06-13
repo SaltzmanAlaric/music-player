@@ -11,7 +11,8 @@
 <body>
 <header>
     <div class="playing_info">
-        <marquee scrollamount="1" behavior="alternate" direction= left width="100%" height="20px">
+        <div hidden id="searchWrapper" align="center"><input id="searchName" oninput="searchNow(this);" placeholder="输入歌曲名或歌手名"/></div>
+        <marquee id="scrollWrapper" scrollamount="1" behavior="alternate" direction= left width="100%" height="20px">
             <span class="songName">我的音乐</span>  <span class="singer">我做主！</span>
         </marquee>
     </div>
@@ -56,7 +57,7 @@
 <script type="text/html" id="music_list_item">
     <li>
         <div class="left">
-            <div class="songName">{{name}}</div>
+            <div class="songName">{{index + ". " + name}}</div>
             <div class="singer">{{singer}}</div>
         </div>
         <div class="right">

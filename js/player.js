@@ -23,6 +23,10 @@ $player.playList = new function(){
     this.all = function(){
         return list;
     };
+    this.remove = function(){
+        list = [];
+        return list;
+    };
 };
 
 $player.play = function(music){

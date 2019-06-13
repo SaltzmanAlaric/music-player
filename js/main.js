@@ -9,6 +9,8 @@ var playCtrl = $("#playerCtrl"),
     lyric_wrap = $(".lyric_wrap"),
     lyric = lyric_wrap.find("#lyric");
 var mode = 0;
+var origin_json = [];
+var music_json = [];
 $(document).ready(onReady);
 function onReady(){
     getPlayList();
@@ -148,24 +150,14 @@ function updateLyric(){
 
 function getPlayList(){
     var list = $("#music_list");
+
     $.ajax({
         url: "music.json",
         cache: true,
         success:function(data){
-            list.empty();
-            console.log(data);
-            $player.playList.add(data);
-            var template = _.template($("#music_list_item").html());
-            $.each($player.playList.all(),function(i,m){
-                m["name"] = (i+1) + ". " + m["name"];
-                if(m["link_lrc"])m.lyric = new Lyrics(m["link_lrc"]);
-                var dom = $(template(m)).get(0);
-                dom.index = i;
-                dom.music = m;
-                list.append(dom);
-            })
-            console.log("data");
-
+            origin_json = data;
+            music_json = origin_json;
+            fillDom();
         },
         error:function(e){
             list.html('<li style="text-align: center;display: block;">音乐列表获取失败！</li>');
@@ -194,15 +186,23 @@ function initPlayCtrl(){
                 $(this).css("backgroundImage", "url(res/images/pcrl/loop.png)");
                 break;
             default:
+                mode = 2;
                 break;
         }
         mode = (mode == 2) ? 0: mode+1;
     });
     playCtrl.find(".collect").bind("click",function(){
         if ($(this).css("background").includes("res/images/pcrl/collect.png")) {
+            $("#scrollWrapper").hide();
+            $("#searchWrapper").show();
             $(this).css("backgroundImage", "url(res/images/pcrl/collected.png)");
         } else {
             $(this).css("backgroundImage", "url(res/images/pcrl/collect.png)");
+            music_json = origin_json;
+            fillDom();
+            $("#searchName").val("");
+            $("#scrollWrapper").show();
+            $("#searchWrapper").hide();
         }
     });
     playCtrl.find(".collected").bind("click",function(){
@@ -237,5 +237,33 @@ function initPlayCtrl(){
 
 
     });
+}
+
+function searchNow(obj) {
+    var search = obj.value;
+    music_json = origin_json;
+    if (search){
+        search = search.toLowerCase();
+        music_json = music_json.filter(function(item){
+            return item["name"].toLowerCase().includes(search) || item["singer"].toLowerCase().includes(search);
+        });
+    }
+    fillDom();
+}
+
+function fillDom() {
+    var list = $("#music_list");
+    list.empty();
+    $player.playList.remove();
+    $player.playList.add(music_json);
+    var template = _.template($("#music_list_item").html());
+    $.each($player.playList.all(),function(i,m){
+        m["index"] = (i+1);
+        if(m["link_lrc"])m.lyric = new Lyrics(m["link_lrc"]);
+        var dom = $(template(m)).get(0);
+        dom.index = i;
+        dom.music = m;
+        list.append(dom);
+    })
 }
 
