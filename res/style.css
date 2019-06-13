@@ -173,11 +173,7 @@ header .playing_info .singer {
   -webkit-box-shadow: inset 0 0 5px rgba(0,0,0,0.2);
   background: #535353;
 }
-.music_list::-webkit-scrollbar-track {/*滚动条里面轨道*/
-  -webkit-box-shadow: inset 0 0 5px rgba(0,0,0,0.2);
-  border-radius: 10px;
-  background: #EDEDED;
-}
+
 .panel.playlist .music_list li {
   display: -webkit-box;
   height: 65px;
