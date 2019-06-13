@@ -164,7 +164,7 @@ header .playing_info .singer {
   /*height: fit-content;*/
   min-height:300px;
   overflow-y:auto;
-  max-height:720px;
+  max-height:420px;
 }
 .panel.playlist .music_list li {
   display: -webkit-box;
