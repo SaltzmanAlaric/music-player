@@ -97,7 +97,7 @@ function renderInfo(music){
     playInfo.find(".songName").html(music.name);
     playInfo.find(".singer").html(music.singer);
     album_art.addClass("active");
-    album_art.find(".cover").attr("src",music.cover || 'res/images/bg-disc2.jpg');
+    album_art.find(".cover").attr("src",music.cover || 'res/images/bg-disc3.jpg');
     var infoTemp = _.template($("#music_info").html());
     $(".music_info").html(infoTemp(music));
 }
@@ -179,7 +179,7 @@ function initPlayCtrl(){
                 break;
             // 随机播放
             case 1:
-                $(this).css("backgroundImage", "url(res/images/pcrl/circle.jpg)");
+                $(this).css("backgroundImage", "url(res/images/pcrl/circle.png)");
                 break;
             // 单曲循环
             case 2:
