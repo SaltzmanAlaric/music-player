@@ -175,15 +175,18 @@ function initPlayCtrl(){
         switch (mode) {
             // 列表循环
             case 0:
-                $(this).css("backgroundImage", "url(res/images/pcrl/random.png)");
+                $(this).css("background", "url(res/images/pcrl/playbar.png) no-repeat -66px -248px;");
+                //console.log("random");
                 break;
             // 随机播放
             case 1:
-                $(this).css("backgroundImage", "url(res/images/pcrl/circle.png)");
+                $(this).css("background", "url(res/images/pcrl/playbar.png) no-repeat -93px -344px;");
+                //console.log("circle");
                 break;
             // 单曲循环
             case 2:
-                $(this).css("backgroundImage", "url(res/images/pcrl/loop.png)");
+                $(this).css("background", "url(res/images/pcrl/playbar.png) no-repeat -3px -344px;");
+                //console.log("loop");
                 break;
             default:
                 mode = 2;

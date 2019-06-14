@@ -96,7 +96,10 @@ footer #playerCtrl > div .button:active {
   -webkit-box-shadow: 0 0 1px 2px #f9f5fa;
 }
 footer #playerCtrl > div .button.loop {
-  background-image: url("images/pcrl/loop.png");
+  background: url("images/pcrl/playbar.png") no-repeat -3px -344px;
+  width: 25px;
+  height: 25px;
+  margin: 8px auto;
 }
 footer #playerCtrl > div .button.prev {
   background-image: url("images/pcrl/prev.png");
