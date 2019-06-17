@@ -1,5 +1,8 @@
 # 辅助脚本
 
+### 参考
+forked by ```https://github.com/TivonJJ/html5-music-player```
+
 ### 转music.json的js
 ```
 window.document.write('[');
