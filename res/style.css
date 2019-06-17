@@ -78,6 +78,7 @@ footer #playerCtrl {
   display: -webkit-box;
   width: 100%;
   padding: 15px 0;
+  border: 1px solid red;
 }
 footer #playerCtrl > div {
   -webkit-box-flex: 1;
@@ -86,7 +87,7 @@ footer #playerCtrl > div .button {
   display: block;
   margin: auto;
   width: 58px;
-  height: 48px;
+  height: 58px;
   background-size: cover;
   background-position: center;
   border-radius: 30px;
@@ -99,22 +100,46 @@ footer #playerCtrl > div .button.loop {
   background: url("images/pcrl/playbar.png") no-repeat -3px -344px;
   width: 25px;
   height: 25px;
-  margin: 8px auto;
+  margin-top: 16px;
+  margin-left: 42px;
+  float: left;
+
 }
 footer #playerCtrl > div .button.prev {
-  background-image: url("images/pcrl/prev.png");
+  background: url("images/pcrl/playbar.png") no-repeat 0 -130px;
+  width: 28px;
+  height: 28px;
+  float: left;
+  margin-top: 13px;
+  margin-left: 18px;
 }
 footer #playerCtrl > div .button.play {
-  background-image: url("images/pcrl/play.png");
+  background: url("images/pcrl/playbar.png") no-repeat  0 -204px;
+  float: left;
+  width: 36px;
+  height: 36px;
+  margin-top: 10px;
+  margin-left: 18px;
 }
 footer #playerCtrl > div .button.play.playing {
-  background-image: url("images/pcrl/pause.png");
+  background: url("images/pcrl/playbar.png") no-repeat  -40px -165px;
+  float: left;
+  width: 36px;
+  height: 36px;
+  margin-top: 10px;
+  margin-left: 18px;
 }
 footer #playerCtrl > div .button.next {
-  background-image: url("images/pcrl/next.png");
+  background: url("images/pcrl/playbar.png") no-repeat -110px -130px;
+  float: left;
+  width: 28px;
+  height: 28px;
+  margin-top: 13px;
+  margin-left: 18px;
 }
 footer #playerCtrl > div .button.collect {
   background-image: url("images/pcrl/collect.png");
+  float: left;
 }
 header .playing_info {
   width: 100%;
