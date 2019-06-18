@@ -75,14 +75,6 @@
         <li>下载：<a href='{{link_url}}' download="{{name + ' - ' + singer + '.mp3'}}">歌曲</a> | <a href='{{link_lrc}}' download="{{name + ' - ' + singer + '.lrc'}}">歌词</a></li>
     </ul>
 </script>
-<script>
-    function downloadFile(fileName,downloadName){
-        fileName=encodeURI(encodeURI(fileName));
-        downloadName=encodeURI(encodeURI(downloadName));
-        window.location.href='../api/v1/file/downloadTemplate？templateFileName='+fileName+'&downloadFileName='+downloadName;
-
-    }
-</script>
 <script src="js/progessbar.js"></script>
 <script src="js/player.js"></script>
 <script src="js/slidePage.js"></script>
