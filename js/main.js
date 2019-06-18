@@ -262,10 +262,9 @@ function fillDom() {
     var template = _.template($("#music_list_item").html());
     $.each($player.playList.all(),function(i,m){
         m["index"] = (i+1);
-        if (!m["link_lrc"]) {
-            m["link_lrc"] = "audio/unknow.lrc";
+        if (m["link_lrc"]) {
+            m.lyric = new Lyrics(m["link_lrc"]);
         }
-        m.lyric = new Lyrics(m["link_lrc"]);
         var dom = $(template(m)).get(0);
         dom.index = i;
         dom.music = m;
