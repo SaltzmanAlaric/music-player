@@ -478,5 +478,15 @@
     "link_url": "audio/蒼空のモノローグ - 日笠陽子.mp3",
     "link_lrc": "audio/蒼空のモノローグ - 日笠陽子.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "4876565",
+    "name": "曾经最美",
+    "singer": "朱铭捷",
+    "album": "水晶之恋 偶像剧原声带",
+    "source": "wy",
+    "link_url": "audio/曾经最美 - 朱铭捷.mp3",
+    "link_lrc": "audio/曾经最美 - 朱铭捷.lrc",
+    "format": "mp3"
   }
 ]
