@@ -158,5 +158,15 @@
     "link_url": "audio/我只在乎你 - 邓丽君.mp3",
     "link_lrc": "audio/我只在乎你 - 邓丽君.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "66282",
+    "name": "浮夸",
+    "singer": "陈奕迅",
+    "album": "U-87",
+    "source": "wy",
+    "link_url": "audio/浮夸 - 陈奕迅.mp3",
+    "link_lrc": "audio/浮夸 - 陈奕迅.lrc",
+    "format": "mp3"
   }
 ]
