@@ -8,5 +8,15 @@
     "link_url": "audio/TORCH - Lia.mp3",
     "link_lrc": "audio/TORCH - Lia.lrc",
     "format": "flac"
+  },
+  {
+    "id": "210042",
+    "name": "说爱你",
+    "singer": "蔡依林",
+    "album": "看我72变",
+    "source": "wy",
+    "link_url": "audio/说爱你 - 蔡依林.mp3",
+    "link_lrc": "audio/说爱你 - 蔡依林.lrc",
+    "format": "mp3"
   }
 ]
