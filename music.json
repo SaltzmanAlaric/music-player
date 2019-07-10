@@ -228,5 +228,15 @@
     "link_url": "audio/多情种 - 胡杨林.mp3",
     "link_lrc": "audio/多情种 - 胡杨林.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "305475",
+    "name": "对花",
+    "singer": "吴琼",
+    "album": "仙女",
+    "source": "wy",
+    "link_url": "audio/对花 - 吴琼.mp3",
+    "link_lrc": "audio/对花 - 吴琼.lrc",
+    "format": "mp3"
   }
 ]
