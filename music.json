@@ -18,5 +18,14 @@
     "link_url": "audio/说爱你 - 蔡依林.mp3",
     "link_lrc": "audio/说爱你 - 蔡依林.lrc",
     "format": "mp3"
-  }
+  },{
+  "id": "404543842",
+  "name": "さようならへさよなら!",
+  "singer": "μ's",
+  "album": "MOMENT RING",
+  "source": "wy",
+  "link_url": "audio/さようならへさよなら! - μ's.mp3",
+  "link_lrc": "audio/さようならへさよなら! - μ's.lrc",
+  "format": "flac"
+}
 ]
