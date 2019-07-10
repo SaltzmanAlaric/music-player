@@ -508,5 +508,15 @@
     "link_url": "audio/Cynic - 闇音レンリ.mp3",
     "link_lrc": "audio/Cynic - 闇音レンリ.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "26851338",
+    "name": "Stay Here Forever",
+    "singer": "Jewel",
+    "album": "Promo Only: Country Radio, March 2010",
+    "source": "wy",
+    "link_url": "audio/Stay Here Forever - Jewel.mp3",
+    "link_lrc": "audio/Stay Here Forever - Jewel.lrc",
+    "format": "mp3"
   }
 ]
