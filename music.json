@@ -538,5 +538,15 @@
     "link_url": "audio/database feat.TAKUMA(10-FEET) - MAN WITH A MISSION.mp3",
     "link_lrc": "audio/database feat.TAKUMA(10-FEET) - MAN WITH A MISSION.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "26083430",
+    "name": "Be My Friend",
+    "singer": "隣人部",
+    "album": "Be My Friend",
+    "source": "wy",
+    "link_url": "audio/Be My Friend - 隣人部.mp3",
+    "link_lrc": "audio/Be My Friend - 隣人部.lrc",
+    "format": "mp3"
   }
 ]
