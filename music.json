@@ -138,5 +138,15 @@
     "link_url": "audio/おうちに帰りたい - 雨宮天&高橋李依&茅野愛衣.mp3",
     "link_lrc": "audio/おうちに帰りたい - 雨宮天&高橋李依&茅野愛衣.lrc",
     "format": "flac"
+  },
+  {
+    "id": "456185191",
+    "name": "TOMORROW",
+    "singer": "Machico",
+    "album": "TOMORROW",
+    "source": "wy",
+    "link_url": "audio/TOMORROW - Machico.mp3",
+    "link_lrc": "audio/TOMORROW - Machico.lrc",
+    "format": "flac"
   }
 ]
