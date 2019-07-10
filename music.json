@@ -38,5 +38,15 @@
     "link_url": "audio/天黑黑 - 孙燕姿.mp3",
     "link_lrc": "audio/天黑黑 - 孙燕姿.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "201449",
+    "name": "威风时刻",
+    "singer": "孙耀威",
+    "album": "怀玉公主 主题曲全记录",
+    "source": "wy",
+    "link_url": "audio/威风时刻 - 孙耀威.mp3",
+    "link_lrc": "audio/威风时刻 - 孙耀威.lrc",
+    "format": "mp3"
   }
 ]
