@@ -58,5 +58,15 @@
     "link_url": "audio/Sold Out - Hawk Nelson.mp3",
     "link_lrc": "audio/Sold Out - Hawk Nelson.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "29764215",
+    "name": "キラリ☆ONE WAY LOVE",
+    "singer": "雨宮天",
+    "album": "キラリ☆ONE WAY LOVE",
+    "source": "wy",
+    "link_url": "audio/キラリ☆ONE WAY LOVE - 雨宮天.mp3",
+    "link_lrc": "audio/キラリ☆ONE WAY LOVE - 雨宮天.lrc",
+    "format": "flac"
   }
 ]
