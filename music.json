@@ -498,5 +498,15 @@
     "link_url": "audio/コミュニケーション - Perfume.mp3",
     "link_lrc": "audio/コミュニケーション - Perfume.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "419596411",
+    "name": "Cynic",
+    "singer": "闇音レンリ",
+    "album": "Cynic",
+    "source": "wy",
+    "link_url": "audio/Cynic - 闇音レンリ.mp3",
+    "link_lrc": "audio/Cynic - 闇音レンリ.lrc",
+    "format": "mp3"
   }
 ]
