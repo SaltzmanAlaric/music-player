@@ -428,5 +428,15 @@
     "link_url": "audio/Say Forever - JS.mp3",
     "link_lrc": "audio/Say Forever - JS.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "238658",
+    "name": "High歌",
+    "singer": "黄龄",
+    "album": "痒",
+    "source": "wy",
+    "link_url": "audio/High歌 - 黄龄.mp3",
+    "link_lrc": "audio/High歌 - 黄龄.lrc",
+    "format": "mp3"
   }
 ]
