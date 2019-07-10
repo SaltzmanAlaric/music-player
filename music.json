@@ -88,5 +88,15 @@
     "link_url": "audio/Skyreach - 雨宮天.mp3",
     "link_lrc": "audio/Skyreach - 雨宮天.lrc",
     "format": "flac"
+  },
+  {
+    "id": "28838179",
+    "name": "ずるいよMagnetic today",
+    "singer": "徳井青空&Pile",
+    "album": "ずるいよMagnetic today",
+    "source": "wy",
+    "link_url": "audio/ずるいよMagnetic today - 徳井青空&Pile.mp3",
+    "link_lrc": "audio/ずるいよMagnetic today - 徳井青空&Pile.lrc",
+    "format": "mp3"
   }
 ]
