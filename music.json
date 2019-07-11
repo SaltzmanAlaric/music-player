@@ -758,5 +758,15 @@
     "link_url": "audio/NO,Thank You! - 放課後ティータイム.mp3",
     "link_lrc": "audio/NO,Thank You! - 放課後ティータイム.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "26201885",
+    "name": "Don't say _lazy_",
+    "singer": "桜高軽音部",
+    "album": "K-ON! Music History's Box",
+    "source": "wy",
+    "link_url": "audio/Don't say _lazy_ - 桜高軽音部.mp3",
+    "link_lrc": "audio/Don't say _lazy_ - 桜高軽音部.lrc",
+    "format": "mp3"
   }
 ]
