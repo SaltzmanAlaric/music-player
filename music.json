@@ -948,5 +948,15 @@
     "link_url": "audio/NARUTO Main Theme - 六三四.mp3",
     "link_lrc": "audio/unknow.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "3950546",
+    "name": "It's My Life",
+    "singer": "Bon Jovi",
+    "album": "It's My Life",
+    "source": "wy",
+    "link_url": "audio/It's My Life - Bon Jovi.mp3",
+    "link_lrc": "audio/It's My Life - Bon Jovi.lrc",
+    "format": "mp3"
   }
 ]
