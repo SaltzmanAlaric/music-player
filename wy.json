@@ -1,25 +1,5 @@
 [
   {
-    "id": "592473",
-    "name": "PSI-missing",
-    "singer": "川田まみ",
-    "album": "PSI-missing",
-    "source": "wy",
-    "link_url": "audio/PSI-missing - 川田まみ.mp3",
-    "link_lrc": "audio/PSI-missing - 川田まみ.lrc",
-    "format": "mp3"
-  },
-  {
-    "id": "592541",
-    "name": "JOINT",
-    "singer": "川田まみ",
-    "album": "JOINT",
-    "source": "wy",
-    "link_url": "audio/JOINT - 川田まみ.mp3",
-    "link_lrc": "audio/JOINT - 川田まみ.lrc",
-    "format": "mp3"
-  },
-  {
     "id": "167942",
     "name": "王妃",
     "singer": "萧敬腾",
@@ -1558,7 +1538,7 @@
     "link_url": "audio/ファティマ - いとうかなこ.mp3",
     "link_lrc": "audio/ファティマ - いとうかなこ.lrc",
     "format": "mp3"
-  }
+  },
   {
     "id": "26608719",
     "name": "紅蓮の弓矢",
@@ -4097,6 +4077,16 @@
     "source": "wy",
     "link_url": "audio/のんのん姉妹 - 佐倉綾音&阿澄佳奈.mp3",
     "link_lrc": "audio/のんのん姉妹 - 佐倉綾音&阿澄佳奈.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "592473",
+    "name": "PSI-missing",
+    "singer": "川田まみ",
+    "album": "PSI-missing",
+    "source": "wy",
+    "link_url": "audio/PSI-missing - 川田まみ.mp3",
+    "link_lrc": "audio/PSI-missing - 川田まみ.lrc",
     "format": "mp3"
   }
 ]
