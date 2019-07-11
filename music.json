@@ -768,5 +768,15 @@
     "link_url": "audio/Don't say _lazy_ - 桜高軽音部.mp3",
     "link_lrc": "audio/Don't say _lazy_ - 桜高軽音部.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "33252967",
+    "name": "こだまことだま",
+    "singer": "nano.RIPE",
+    "album": "こだまことだま",
+    "source": "wy",
+    "link_url": "audio/こだまことだま - nano.RIPE.mp3",
+    "link_lrc": "audio/こだまことだま - nano.RIPE.lrc",
+    "format": "mp3"
   }
 ]
