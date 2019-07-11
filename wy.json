@@ -1,25 +1,5 @@
 [
   {
-    "id": "760533",
-    "name": "だんご大家族",
-    "singer": "真理絵&茶太&Morrigan&Rio",
-    "album": "メグメル/だんご大家族",
-    "source": "wy",
-    "link_url": "audio/だんご大家族 - 真理絵&茶太&Morrigan&Rio.mp3",
-    "link_lrc": "audio/だんご大家族 - 真理絵&茶太&Morrigan&Rio.lrc",
-    "format": "mp3"
-  },
-  {
-    "id": "258679",
-    "name": "诺言",
-    "singer": "李翊君",
-    "album": "诺言",
-    "source": "wy",
-    "link_url": "audio/诺言 - 李翊君.mp3",
-    "link_lrc": "audio/诺言 - 李翊君.lrc",
-    "format": "mp3"
-  },
-  {
     "id": "640295",
     "name": "梦笑顔 ",
     "singer": "茶太",
