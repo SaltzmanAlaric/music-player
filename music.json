@@ -1158,5 +1158,15 @@
     "link_url": "audio/Still - 茶太.mp3",
     "link_lrc": "audio/Still - 茶太.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "640790",
+    "name": "呜咽",
+    "singer": "茶太",
+    "album": "茶太 Works Best",
+    "source": "wy",
+    "link_url": "audio/呜咽 - 茶太.mp3",
+    "link_lrc": "audio/呜咽 - 茶太.lrc",
+    "format": "flac"
   }
 ]
