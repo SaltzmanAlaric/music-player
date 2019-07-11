@@ -958,5 +958,15 @@
     "link_url": "audio/It's My Life - Bon Jovi.mp3",
     "link_lrc": "audio/It's My Life - Bon Jovi.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "4017240",
+    "name": "Intro: The Dawn",
+    "singer": "Dreamtale",
+    "album": "Beyond Reality",
+    "source": "wy",
+    "link_url": "audio/Intro: The Dawn - Dreamtale.mp3",
+    "link_lrc": "audio/Intro: The Dawn - Dreamtale.lrc",
+    "format": "mp3"
   }
 ]
