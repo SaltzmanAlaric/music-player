@@ -1118,5 +1118,15 @@
     "link_url": "audio/ヒトリゴト - ClariS.mp3",
     "link_lrc": "audio/ヒトリゴト - ClariS.lrc",
     "format": "flac"
+  },
+  {
+    "id": "DC2AF6C29F33996332F04E1049523D87",
+    "name": "Everybody",
+    "singer": "Backstreet Boys",
+    "album": "BillBoard Top 100 Of 1998",
+    "source": "kg",
+    "link_url": "audio/Everybody - Backstreet Boys.mp3",
+    "link_lrc": "audio/Everybody - Backstreet Boys.lrc",
+    "format": "mp3"
   }
 ]
