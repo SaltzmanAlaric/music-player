@@ -678,5 +678,15 @@
     "link_url": "audio/青い栞 - Galileo Galilei.mp3",
     "link_lrc": "audio/青い栞 - Galileo Galilei.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "223842",
+    "name": "往前飞",
+    "singer": "戴佩妮",
+    "album": "爱疯了",
+    "source": "wy",
+    "link_url": "audio/往前飞 - 戴佩妮.mp3",
+    "link_lrc": "audio/往前飞 - 戴佩妮.lrc",
+    "format": "mp3"
   }
 ]
