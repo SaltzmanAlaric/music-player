@@ -1138,5 +1138,15 @@
     "link_url": "audio/ジャスミン - 牧野由依.mp3",
     "link_lrc": "audio/ジャスミン - 牧野由依.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "656958",
+    "name": "Over The Future feat.SHIHO",
+    "singer": "戸松遥",
+    "album": "絶対可怜チルドレン キャラクターCD 3rd session 三宫紫穂",
+    "source": "wy",
+    "link_url": "audio/Over The Future feat.SHIHO - 戸松遥.mp3",
+    "link_lrc": "audio/Over The Future feat.SHIHO - 戸松遥.lrc",
+    "format": "mp3"
   }
 ]
