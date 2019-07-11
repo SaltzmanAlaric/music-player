@@ -1148,5 +1148,15 @@
     "link_url": "audio/Over The Future feat.SHIHO - 戸松遥.mp3",
     "link_lrc": "audio/Over The Future feat.SHIHO - 戸松遥.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "36025613",
+    "name": "Still",
+    "singer": "茶太",
+    "album": "Wish feat.茶太&中恵光城",
+    "source": "wy",
+    "link_url": "audio/Still - 茶太.mp3",
+    "link_lrc": "audio/Still - 茶太.lrc",
+    "format": "mp3"
   }
 ]
