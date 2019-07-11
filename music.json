@@ -918,5 +918,15 @@
     "link_url": "audio/brave heart - 宮崎歩.mp3",
     "link_lrc": "audio/brave heart - 宮崎歩.lrc",
     "format": "flac"
+  },
+  {
+    "id": "393695",
+    "name": "市集",
+    "singer": "胡伟立",
+    "album": "武侠音乐精装特辑",
+    "source": "wy",
+    "link_url": "audio/市集 - 胡伟立.mp3",
+    "link_lrc": "audio/unknow.lrc",
+    "format": "mp3"
   }
 ]
