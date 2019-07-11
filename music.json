@@ -778,5 +778,15 @@
     "link_url": "audio/こだまことだま - nano.RIPE.mp3",
     "link_lrc": "audio/こだまことだま - nano.RIPE.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "566226",
+    "name": "Real Force",
+    "singer": "ELISA",
+    "album": "Real Force",
+    "source": "wy",
+    "link_url": "audio/Real Force - ELISA.mp3",
+    "link_lrc": "audio/Real Force - ELISA.lrc",
+    "format": "mp3"
   }
 ]
