@@ -248,7 +248,8 @@ function searchNow(obj) {
     if (search){
         search = search.toLowerCase();
         music_json = music_json.filter(function(item){
-            return item["name"].toLowerCase().includes(search) || item["singer"].toLowerCase().includes(search);
+            var searchValue= search ? search.replace(/[\/?<>*|]/g, '_') : search;
+            return item["name"].toLowerCase().includes(searchValue) || item["singer"].toLowerCase().includes(searchValue);
         });
     }
     fillDom();
