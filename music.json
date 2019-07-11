@@ -658,5 +658,15 @@
     "link_url": "audio/ティアドロップス ～Acoustic Ver.～ - 愛美.mp3",
     "link_lrc": "audio/ティアドロップス ～Acoustic Ver.～ - 愛美.lrc",
     "format": "flac"
+  },
+  {
+    "id": "776039",
+    "name": "ONE's hope",
+    "singer": "やなぎなぎ",
+    "album": "Colorful Parade",
+    "source": "wy",
+    "link_url": "audio/ONE's hope - やなぎなぎ.mp3",
+    "link_lrc": "audio/ONE's hope - やなぎなぎ.lrc",
+    "format": "flac"
   }
 ]
