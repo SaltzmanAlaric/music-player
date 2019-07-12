@@ -1228,5 +1228,15 @@
     "link_url": "audio/ふたりのきもちのほんとのひみつ - 愛殺寶貝.mp3",
     "link_lrc": "audio/ふたりのきもちのほんとのひみつ - 愛殺寶貝.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "22441762",
+    "name": "Teenage Dream",
+    "singer": "Katy Perry",
+    "album": "Teenage Dream",
+    "source": "wy",
+    "link_url": "audio/Teenage Dream - Katy Perry.mp3",
+    "link_lrc": "audio/Teenage Dream - Katy Perry.lrc",
+    "format": "mp3"
   }
 ]
