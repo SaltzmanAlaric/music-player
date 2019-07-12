@@ -1318,5 +1318,15 @@
     "link_url": "audio/ラヴァーズ - 7!!.mp3",
     "link_lrc": "audio/ラヴァーズ - 7!!.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "3560369",
+    "name": "Floorfiller",
+    "singer": "A_Teens",
+    "album": "A-Teens: Greatest Hits 1999-2004",
+    "source": "wy",
+    "link_url": "audio/Floorfiller - A_Teens.mp3",
+    "link_lrc": "audio/Floorfiller - A_Teens.lrc",
+    "format": "mp3"
   }
 ]
