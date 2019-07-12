@@ -1538,5 +1538,15 @@
     "link_url": "audio/Butterfly - Smile. DK.mp3",
     "link_lrc": "audio/Butterfly - Smile. DK.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "003XPmiG3eMglL",
+    "name": "寂寞沙洲冷",
+    "singer": "周传雄",
+    "album": "星空下的传说",
+    "source": "qq",
+    "link_url": "audio/寂寞沙洲冷 - 周传雄.mp3",
+    "link_lrc": "audio/寂寞沙洲冷 - 周传雄.lrc",
+    "format": "mp3"
   }
 ]
