@@ -1448,5 +1448,15 @@
     "link_url": "audio/Magic Melody - Befour.mp3",
     "link_lrc": "audio/Magic Melody - Befour.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "16501053",
+    "name": "Barbie Girl",
+    "singer": "Aqua",
+    "album": "Aquarium",
+    "source": "wy",
+    "link_url": "audio/Barbie Girl - Aqua.mp3",
+    "link_lrc": "audio/Barbie Girl - Aqua.lrc",
+    "format": "mp3"
   }
 ]
