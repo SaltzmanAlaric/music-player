@@ -1168,5 +1168,15 @@
     "link_url": "audio/呜咽 - 茶太.mp3",
     "link_lrc": "audio/呜咽 - 茶太.lrc",
     "format": "flac"
+  },
+  {
+    "id": "28126251",
+    "name": "ずっと、",
+    "singer": "AYUSE KOZUE",
+    "album": "ずっと、",
+    "source": "wy",
+    "link_url": "audio/ずっと、 - AYUSE KOZUE.mp3",
+    "link_lrc": "audio/ずっと、 - AYUSE KOZUE.lrc",
+    "format": "mp3"
   }
 ]
