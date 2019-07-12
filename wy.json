@@ -1,25 +1,5 @@
 [
   {
-    "id": "22200079",
-    "name": "我的未来式",
-    "singer": "郭采洁",
-    "album": "隐形超人",
-    "source": "wy",
-    "link_url": "audio/我的未来式 - 郭采洁.mp3",
-    "link_lrc": "audio/我的未来式 - 郭采洁.lrc",
-    "format": "mp3"
-  },
-  {
-    "id": "25643359",
-    "name": "龙的传人",
-    "singer": "王力宏",
-    "album": "音乐进化论",
-    "source": "wy",
-    "link_url": "audio/龙的传人 - 王力宏.mp3",
-    "link_lrc": "audio/龙的传人 - 王力宏.lrc",
-    "format": "mp3"
-  },
-  {
     "id": "376824",
     "name": "为你而活",
     "singer": "神木与瞳",
