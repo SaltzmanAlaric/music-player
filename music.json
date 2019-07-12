@@ -1688,5 +1688,25 @@
     "link_url": "audio/いのちの名前 - 泠鸢yousa.mp3",
     "link_lrc": "audio/いのちの名前 - 泠鸢yousa.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "473440587",
+    "name": "上下上下",
+    "singer": "洛天依",
+    "album": "上下上下",
+    "source": "wy",
+    "link_url": "audio/上下上下 - 洛天依.mp3",
+    "link_lrc": "audio/上下上下 - 洛天依.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "212253",
+    "name": "人生何处不相逢",
+    "singer": "陈慧娴",
+    "album": "今天的爱人是谁",
+    "source": "wy",
+    "link_url": "audio/人生何处不相逢 - 陈慧娴.mp3",
+    "link_lrc": "audio/人生何处不相逢 - 陈慧娴.lrc",
+    "format": "mp3"
   }
 ]
