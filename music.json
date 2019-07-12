@@ -1278,5 +1278,15 @@
     "link_url": "audio/蜀绣 - 李宇春.mp3",
     "link_lrc": "audio/蜀绣 - 李宇春.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "101913",
+    "name": "闯将令",
+    "singer": "于会咏&胡登桃",
+    "album": "功夫 电影原声大碟",
+    "source": "wy",
+    "link_url": "audio/闯将令 - 于会咏&胡登桃.mp3",
+    "link_lrc": "audio/unknow.lrc",
+    "format": "flac"
   }
 ]
