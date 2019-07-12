@@ -1268,5 +1268,15 @@
     "link_url": "audio/ゴールデンタイムラバー - スキマスイッチ.mp3",
     "link_lrc": "audio/ゴールデンタイムラバー - スキマスイッチ.lrc",
     "format": "flac"
+  },
+  {
+    "id": "30621618",
+    "name": "蜀绣",
+    "singer": "李宇春",
+    "album": "蜀绣",
+    "source": "wy",
+    "link_url": "audio/蜀绣 - 李宇春.mp3",
+    "link_lrc": "audio/蜀绣 - 李宇春.lrc",
+    "format": "mp3"
   }
 ]
