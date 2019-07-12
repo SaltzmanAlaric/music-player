@@ -1638,5 +1638,15 @@
     "link_url": "audio/Only Happy When It Rains - Garbage.mp3",
     "link_lrc": "audio/Only Happy When It Rains - Garbage.lrc",
     "format": "flac"
+  },
+  {
+    "id": "003GxI1D05L89F",
+    "name": "Come And Get Your Love",
+    "singer": "Redbone",
+    "album": "Guardians of the Galaxy: Awesome Mix Vol. 1 (Original Motion Picture Soundtrack)",
+    "source": "qq",
+    "link_url": "audio/Come And Get Your Love - Redbone.mp3",
+    "link_lrc": "audio/Come And Get Your Love - Redbone.lrc",
+    "format": "flac"
   }
 ]
