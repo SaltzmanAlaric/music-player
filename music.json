@@ -2198,5 +2198,15 @@
     "link_url": "audio/刀马旦 - 李玟&周杰伦.mp3",
     "link_lrc": "audio/刀马旦 - 李玟&周杰伦.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "115502",
+    "name": "红日",
+    "singer": "李克勤",
+    "album": "红日",
+    "source": "wy",
+    "link_url": "audio/红日 - 李克勤.mp3",
+    "link_lrc": "audio/红日 - 李克勤.lrc",
+    "format": "mp3"
   }
 ]
