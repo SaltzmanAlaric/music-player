@@ -2338,5 +2338,15 @@
     "link_url": "audio/オレンジ - Machico.mp3",
     "link_lrc": "audio/オレンジ - Machico.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "33111738",
+    "name": "Future style ",
+    "singer": "新田恵海&内田彩&三森すずこ",
+    "album": "僕たちはひとつの光 / Future style",
+    "source": "wy",
+    "link_url": "audio/Future style - 新田恵海&内田彩&三森すずこ.mp3",
+    "link_lrc": "audio/Future style - 新田恵海&内田彩&三森すずこ.lrc",
+    "format": "flac"
   }
 ]
