@@ -2048,5 +2048,15 @@
     "link_url": "audio/グンマー☆ ザ ミラクル - 桃箱.mp3",
     "link_lrc": "audio/グンマー☆ ザ ミラクル - 桃箱.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "29777035",
+    "name": "嘟嘟噜",
+    "singer": "花澤香菜",
+    "album": "最新热歌慢摇87",
+    "source": "wy",
+    "link_url": "audio/嘟嘟噜 - 花澤香菜.mp3",
+    "link_lrc": "audio/嘟嘟噜 - 花澤香菜.lrc",
+    "format": "mp3"
   }
 ]
