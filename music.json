@@ -2088,5 +2088,15 @@
     "link_url": "audio/蝴蝶泉边 - 黄雅莉.mp3",
     "link_lrc": "audio/蝴蝶泉边 - 黄雅莉.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "26110531",
+    "name": "Suki Kirai ! Suki !!!",
+    "singer": "釘宮理恵",
+    "album": "Suki Kirai ! Suki !!!",
+    "source": "wy",
+    "link_url": "audio/Suki Kirai ! Suki !!! - 釘宮理恵.mp3",
+    "link_lrc": "audio/Suki Kirai ! Suki !!! - 釘宮理恵.lrc",
+    "format": "mp3"
   }
 ]
