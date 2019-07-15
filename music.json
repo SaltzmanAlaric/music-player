@@ -1928,5 +1928,15 @@
     "link_url": "audio/Just Dance - Lady Gaga&Colby O'Donis&RedOne.mp3",
     "link_lrc": "audio/Just Dance - Lady Gaga&Colby O'Donis&RedOne.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "3019798",
+    "name": "Zombies on Your Lawn",
+    "singer": "Laura Shigihara",
+    "album": "Plants vs. Zombies",
+    "source": "wy",
+    "link_url": "audio/Zombies on Your Lawn - Laura Shigihara.mp3",
+    "link_lrc": "audio/Zombies on Your Lawn - Laura Shigihara.lrc",
+    "format": "flac"
   }
 ]
