@@ -2358,5 +2358,15 @@
     "link_url": "audio/狐言 - 河图&洛天依.mp3",
     "link_lrc": "audio/狐言 - 河图&洛天依.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "554241230",
+    "name": "ファティマ",
+    "singer": "いとうかなこ",
+    "album": "ファティマ",
+    "source": "wy",
+    "link_url": "audio/ファティマ - いとうかなこ.mp3",
+    "link_lrc": "audio/ファティマ - いとうかなこ.lrc",
+    "format": "mp3"
   }
 ]
