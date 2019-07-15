@@ -1938,5 +1938,15 @@
     "link_url": "audio/Zombies on Your Lawn - Laura Shigihara.mp3",
     "link_lrc": "audio/Zombies on Your Lawn - Laura Shigihara.lrc",
     "format": "flac"
+  },
+  {
+    "id": "457053283",
+    "name": "China-Opera",
+    "singer": "小悦悦",
+    "album": "China-Opera",
+    "source": "wy",
+    "link_url": "audio/China-Opera - 小悦悦.mp3",
+    "link_lrc": "audio/unknow.lrc",
+    "format": "mp3"
   }
 ]
