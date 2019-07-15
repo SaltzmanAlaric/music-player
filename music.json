@@ -1798,5 +1798,15 @@
     "link_url": "audio/追梦赤子心 - GALA.mp3",
     "link_lrc": "audio/追梦赤子心 - GALA.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "22340835",
+    "name": "We Belong",
+    "singer": "Pat Benatar",
+    "album": "Best Shots",
+    "source": "wy",
+    "link_url": "audio/We Belong - Pat Benatar.mp3",
+    "link_lrc": "audio/We Belong - Pat Benatar.lrc",
+    "format": "mp3"
   }
 ]
