@@ -1808,5 +1808,15 @@
     "link_url": "audio/We Belong - Pat Benatar.mp3",
     "link_lrc": "audio/We Belong - Pat Benatar.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "1298797994",
+    "name": "Ashes (from _Deadpool 2_ Motion Picture Soundtrack)",
+    "singer": "Celine Dion",
+    "album": "Deadpool 2 (Original Motion Picture Soundtrack) [Deluxe - Super Duper Cut]",
+    "source": "wy",
+    "link_url": "audio/Ashes (from _Deadpool 2_ Motion Picture Soundtrack) - Celine Dion.mp3",
+    "link_lrc": "audio/Ashes (from _Deadpool 2_ Motion Picture Soundtrack) - Celine Dion.lrc",
+    "format": "mp3"
   }
 ]
