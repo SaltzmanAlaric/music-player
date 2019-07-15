@@ -1918,5 +1918,15 @@
     "link_url": "audio/ピカチュウのうた - 大谷育江.mp3",
     "link_lrc": "audio/ピカチュウのうた - 大谷育江.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "21038559",
+    "name": "Just Dance",
+    "singer": "Lady Gaga&Colby O'Donis&RedOne",
+    "album": "The Fame",
+    "source": "wy",
+    "link_url": "audio/Just Dance - Lady Gaga&Colby O'Donis&RedOne.mp3",
+    "link_lrc": "audio/Just Dance - Lady Gaga&Colby O'Donis&RedOne.lrc",
+    "format": "mp3"
   }
 ]
