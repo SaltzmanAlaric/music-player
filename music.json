@@ -2258,5 +2258,15 @@
     "link_url": "audio/心里有鬼（Cover 洛天依） - Hanser.mp3",
     "link_lrc": "audio/心里有鬼（Cover 洛天依） - Hanser.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "28830337",
+    "name": "I LOVE U",
+    "singer": "阿良良木健&洛天依",
+    "album": "末日DISCO",
+    "source": "wy",
+    "link_url": "audio/I LOVE U - 阿良良木健&洛天依.mp3",
+    "link_lrc": "audio/I LOVE U - 阿良良木健&洛天依.lrc",
+    "format": "mp3"
   }
 ]
