@@ -1898,5 +1898,15 @@
     "link_url": "audio/Gotta Have You - The Weepies.mp3",
     "link_lrc": "audio/Gotta Have You - The Weepies.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "29178366",
+    "name": "ルフィ猛攻!",
+    "singer": "浜口史郎",
+    "album": "ONE PIECE Log Collection \"SABAODY\" サウンドトラック",
+    "source": "wy",
+    "link_url": "audio/ルフィ猛攻! - 浜口史郎.mp3",
+    "link_lrc": "audio/unknow.lrc",
+    "format": "mp3"
   }
 ]
