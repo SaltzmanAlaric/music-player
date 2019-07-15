@@ -1,25 +1,5 @@
 [
   {
-    "id": "000f2q1W2cA3Wp",
-    "name": "Rising Hope",
-    "singer": "LiSA",
-    "album": "Rising Hope",
-    "source": "qq",
-    "link_url": "audio/Rising Hope - LiSA.mp3",
-    "link_lrc": "audio/Rising Hope - LiSA.lrc",
-    "format": "mp3"
-  },
-  {
-    "id": "1317623797",
-    "name": "东方不败 feat.洛天依",
-    "singer": "Bana-X&筠箫",
-    "album": "东方不败【VOCALOID】",
-    "source": "wy",
-    "link_url": "audio/东方不败 feat.洛天依 - Bana-X&筠箫.mp3",
-    "link_lrc": "audio/东方不败 feat.洛天依 - Bana-X&筠箫.lrc",
-    "format": "mp3"
-  },
-  {
     "id": "34609107",
     "name": "恋愛サーキュレーション (双声道版)",
     "singer": "花澤香菜&釘宮理恵",
