@@ -2828,5 +2828,15 @@
     "link_url": "audio/下辈子如果我还记得你 - 马郁.mp3",
     "link_lrc": "audio/下辈子如果我还记得你 - 马郁.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "301474",
+    "name": "飞舞",
+    "singer": "王冰洋",
+    "album": "飞舞",
+    "source": "wy",
+    "link_url": "audio/飞舞 - 王冰洋.mp3",
+    "link_lrc": "audio/飞舞 - 王冰洋.lrc",
+    "format": "mp3"
   }
 ]
