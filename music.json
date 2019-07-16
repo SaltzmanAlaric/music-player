@@ -2738,5 +2738,15 @@
     "link_url": "audio/城里的月光 - 许美静.mp3",
     "link_lrc": "audio/城里的月光 - 许美静.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "190381",
+    "name": "水手",
+    "singer": "郑智化",
+    "album": "私房歌",
+    "source": "wy",
+    "link_url": "audio/水手 - 郑智化.mp3",
+    "link_lrc": "audio/水手 - 郑智化.lrc",
+    "format": "mp3"
   }
 ]
