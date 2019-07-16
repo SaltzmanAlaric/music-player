@@ -3168,5 +3168,15 @@
     "link_url": "audio/美丽的神话 - 胡歌&白冰.mp3",
     "link_lrc": "audio/美丽的神话 - 胡歌&白冰.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "5276250",
+    "name": "归去来",
+    "singer": "希莉娜依&胡兵",
+    "album": "红星六号",
+    "source": "wy",
+    "link_url": "audio/归去来 - 希莉娜依&胡兵.mp3",
+    "link_lrc": "audio/归去来 - 希莉娜依&胡兵.lrc",
+    "format": "mp3"
   }
 ]
