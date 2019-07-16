@@ -2758,5 +2758,15 @@
     "link_url": "audio/一剪梅 - 费玉清.mp3",
     "link_lrc": "audio/一剪梅 - 费玉清.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "176403",
+    "name": "我相信",
+    "singer": "杨培安",
+    "album": "午夜两点半的我",
+    "source": "wy",
+    "link_url": "audio/我相信 - 杨培安.mp3",
+    "link_lrc": "audio/我相信 - 杨培安.lrc",
+    "format": "mp3"
   }
 ]
