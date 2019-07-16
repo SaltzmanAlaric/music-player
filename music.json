@@ -2878,5 +2878,15 @@
     "link_url": "audio/上海滩 - 叶丽仪.mp3",
     "link_lrc": "audio/上海滩 - 叶丽仪.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "108950",
+    "name": "就是我",
+    "singer": "林俊杰",
+    "album": "乐行者",
+    "source": "wy",
+    "link_url": "audio/就是我 - 林俊杰.mp3",
+    "link_lrc": "audio/就是我 - 林俊杰.lrc",
+    "format": "mp3"
   }
 ]
