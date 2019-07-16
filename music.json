@@ -2448,5 +2448,15 @@
     "link_url": "audio/Rather Be - Clean Bandit&Jess Glynne.mp3",
     "link_lrc": "audio/Rather Be - Clean Bandit&Jess Glynne.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "28699610",
+    "name": "My Soul,Your Beats!",
+    "singer": "Lia",
+    "album": "My Soul, Your Beats!/Brave Song",
+    "source": "wy",
+    "link_url": "audio/My Soul,Your Beats! - Lia.mp3",
+    "link_lrc": "audio/My Soul,Your Beats! - Lia.lrc",
+    "format": "mp3"
   }
 ]
