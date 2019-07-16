@@ -3368,5 +3368,15 @@
     "link_url": "audio/月牙湾 - F.I.R..mp3",
     "link_lrc": "audio/月牙湾 - F.I.R..lrc",
     "format": "mp3"
+  },
+  {
+    "id": "354465",
+    "name": "千年之恋(Unplug版)",
+    "singer": "F.I.R.",
+    "album": "光荣之役 ",
+    "source": "wy",
+    "link_url": "audio/千年之恋(Unplug版) - F.I.R..mp3",
+    "link_lrc": "audio/千年之恋(Unplug版) - F.I.R..lrc",
+    "format": "mp3"
   }
 ]
