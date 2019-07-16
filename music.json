@@ -3278,5 +3278,15 @@
     "link_url": "audio/开始懂了 - 孙燕姿.mp3",
     "link_lrc": "audio/开始懂了 - 孙燕姿.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "307472",
+    "name": "爱的主打歌",
+    "singer": "萧亚轩",
+    "album": "爱的主打歌.吻",
+    "source": "wy",
+    "link_url": "audio/爱的主打歌 - 萧亚轩.mp3",
+    "link_lrc": "audio/爱的主打歌 - 萧亚轩.lrc",
+    "format": "mp3"
   }
 ]
