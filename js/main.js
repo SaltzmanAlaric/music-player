@@ -148,11 +148,22 @@ function updateLyric(){
     }
 }
 
+function getParams(key){
+    var params = window.location.search.split('?')[1];
+    if (params) {
+        var map = params.match("(^|&)" + key + "=([^&]*)");
+        if (map) {
+            return decodeURI(map[2]);
+        }
+    }
+    return null;
+};
+
 function getPlayList(){
     var list = $("#music_list");
-
+    var songList = getParams("song") || "music";
     $.ajax({
-        url: "music.json",
+        url: songList+ ".json",
         cache: true,
         success:function(data){
             origin_json = data;
