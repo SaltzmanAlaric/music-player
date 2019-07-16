@@ -2568,5 +2568,15 @@
     "link_url": "audio/スカイクラッドの観測者 - いとうかなこ.mp3",
     "link_lrc": "audio/スカイクラッドの観測者 - いとうかなこ.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "34380473",
+    "name": "color-X 3D",
+    "singer": "徐梦圆",
+    "album": "3D-E",
+    "source": "wy",
+    "link_url": "audio/color-X 3D - 徐梦圆.mp3",
+    "link_lrc": "audio/unknow.lrc",
+    "format": "mp3"
   }
 ]
