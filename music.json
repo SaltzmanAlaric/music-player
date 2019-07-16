@@ -2778,5 +2778,15 @@
     "link_url": "audio/日不落 - 蔡依林.mp3",
     "link_lrc": "audio/日不落 - 蔡依林.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "123268",
+    "name": "别在我离开之前离开",
+    "singer": "雷诺儿",
+    "album": "别在我离开之前离开",
+    "source": "wy",
+    "link_url": "audio/别在我离开之前离开 - 雷诺儿.mp3",
+    "link_lrc": "audio/别在我离开之前离开 - 雷诺儿.lrc",
+    "format": "mp3"
   }
 ]
