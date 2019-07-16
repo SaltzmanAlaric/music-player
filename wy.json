@@ -1,15 +1,5 @@
 [
   {
-    "id": "223972",
-    "name": "街角的祝福",
-    "singer": "戴佩妮",
-    "album": "Just Sing It",
-    "source": "wy",
-    "link_url": "audio/街角的祝福 - 戴佩妮.mp3",
-    "link_lrc": "audio/街角的祝福 - 戴佩妮.lrc",
-    "format": "mp3"
-  },
-  {
     "id": "223994",
     "name": "你要的爱",
     "singer": "戴佩妮",
@@ -1477,36 +1467,6 @@
     "source": "wy",
     "link_url": "audio/のんのん姉妹 - 佐倉綾音&阿澄佳奈.mp3",
     "link_lrc": "audio/のんのん姉妹 - 佐倉綾音&阿澄佳奈.lrc",
-    "format": "mp3"
-  },
-  {
-    "id": "592473",
-    "name": "PSI-missing",
-    "singer": "川田まみ",
-    "album": "PSI-missing",
-    "source": "wy",
-    "link_url": "audio/PSI-missing - 川田まみ.mp3",
-    "link_lrc": "audio/PSI-missing - 川田まみ.lrc",
-    "format": "mp3"
-  },
-  {
-    "id": "28832323",
-    "name": "三月雨",
-    "singer": "泠鸢yousa",
-    "album": "热门华语229",
-    "source": "wy",
-    "link_url": "audio/三月雨 - 泠鸢yousa.mp3",
-    "link_lrc": "audio/三月雨 - 泠鸢yousa.lrc",
-    "format": "mp3"
-  },
-  {
-    "id": "96105",
-    "name": "笑红尘",
-    "singer": "陈淑桦",
-    "album": "东方不败之风云再起",
-    "source": "wy",
-    "link_url": "audio/笑红尘 - 陈淑桦.mp3",
-    "link_lrc": "audio/笑红尘 - 陈淑桦.lrc",
     "format": "mp3"
   }
 ]
