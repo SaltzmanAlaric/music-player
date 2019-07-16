@@ -1,25 +1,5 @@
 [
   {
-    "id": "722013",
-    "name": "緋色月下、狂咲ノ絶　-1st Anniversary Remix-",
-    "singer": "nayuta",
-    "album": "Sacred Factor",
-    "source": "wy",
-    "link_url": "audio/緋色月下、狂咲ノ絶　-1st Anniversary Remix- - nayuta.mp3",
-    "link_lrc": "audio/緋色月下、狂咲ノ絶　-1st Anniversary Remix- - nayuta.lrc",
-    "format": "mp3"
-  },
-  {
-    "id": "27946386",
-    "name": "遗憾",
-    "singer": "田馥甄",
-    "album": "热门华语194",
-    "source": "wy",
-    "link_url": "audio/遗憾 - 田馥甄.mp3",
-    "link_lrc": "audio/遗憾 - 田馥甄.lrc",
-    "format": "mp3"
-  },
-  {
     "id": "3026472",
     "name": "Burning",
     "singer": "Maria Arredondo",
@@ -1348,5 +1328,15 @@
     "link_url": "audio/のんのん姉妹 - 佐倉綾音&阿澄佳奈.mp3",
     "link_lrc": "audio/のんのん姉妹 - 佐倉綾音&阿澄佳奈.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "722013",
+    "name": "緋色月下、狂咲ノ絶　-1st Anniversary Remix-",
+    "singer": "nayuta",
+    "album": "Sacred Factor",
+    "source": "wy",
+    "link_url": "audio/緋色月下、狂咲ノ絶　-1st Anniversary Remix- - nayuta.mp3",
+    "link_lrc": "audio/緋色月下、狂咲ノ絶　-1st Anniversary Remix- - nayuta.lrc",
+    "format": "flac"
   }
 ]
