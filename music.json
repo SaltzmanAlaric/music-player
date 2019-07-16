@@ -3178,5 +3178,15 @@
     "link_url": "audio/归去来 - 希莉娜依&胡兵.mp3",
     "link_lrc": "audio/归去来 - 希莉娜依&胡兵.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "151311",
+    "name": "精忠报国",
+    "singer": "屠洪刚",
+    "album": "精忠报国",
+    "source": "wy",
+    "link_url": "audio/精忠报国 - 屠洪刚.mp3",
+    "link_lrc": "audio/精忠报国 - 屠洪刚.lrc",
+    "format": "mp3"
   }
 ]
