@@ -3078,5 +3078,15 @@
     "link_url": "audio/千千阙歌(Live) - 张国荣.mp3",
     "link_lrc": "audio/千千阙歌(Live) - 张国荣.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "152517",
+    "name": "披着羊皮的狼(国)",
+    "singer": "谭咏麟",
+    "album": "天 地",
+    "source": "wy",
+    "link_url": "audio/披着羊皮的狼(国) - 谭咏麟.mp3",
+    "link_lrc": "audio/披着羊皮的狼(国) - 谭咏麟.lrc",
+    "format": "mp3"
   }
 ]
