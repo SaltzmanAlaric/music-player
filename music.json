@@ -3578,5 +3578,15 @@
     "link_url": "audio/ごはんはおかず - 放課後ティータイム.mp3",
     "link_lrc": "audio/ごはんはおかず - 放課後ティータイム.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "22703777",
+    "name": "Lil' Goldfish",
+    "singer": "まりか",
+    "album": "Nao'ymt wit'-1st Season-",
+    "source": "wy",
+    "link_url": "audio/Lil' Goldfish - まりか.mp3",
+    "link_lrc": "audio/Lil' Goldfish - まりか.lrc",
+    "format": "mp3"
   }
 ]
