@@ -3328,5 +3328,15 @@
     "link_url": "audio/あなたに出会わなければ~夏雪冬花~ - Aimer.mp3",
     "link_lrc": "audio/あなたに出会わなければ~夏雪冬花~ - Aimer.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "409872504",
+    "name": "ninelie",
+    "singer": "Aimer&EGOIST",
+    "album": "ninelie",
+    "source": "wy",
+    "link_url": "audio/ninelie - Aimer&EGOIST.mp3",
+    "link_lrc": "audio/ninelie - Aimer&EGOIST.lrc",
+    "format": "mp3"
   }
 ]
