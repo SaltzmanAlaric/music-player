@@ -2578,5 +2578,15 @@
     "link_url": "audio/color-X 3D - 徐梦圆.mp3",
     "link_lrc": "audio/unknow.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "21253809",
+    "name": "Lucky Strike",
+    "singer": "Maroon 5",
+    "album": "Overexposed (Deluxe Version)",
+    "source": "wy",
+    "link_url": "audio/Lucky Strike - Maroon 5.mp3",
+    "link_lrc": "audio/Lucky Strike - Maroon 5.lrc",
+    "format": "mp3"
   }
 ]
