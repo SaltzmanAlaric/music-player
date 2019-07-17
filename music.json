@@ -4538,5 +4538,15 @@
     "link_url": "audio/勇往直前 - 胡伟立.mp3",
     "link_lrc": "audio/unknow.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "31654478",
+    "name": "Star Sky",
+    "singer": "Two Steps From Hell",
+    "album": "Battlecry",
+    "source": "wy",
+    "link_url": "audio/Star Sky - Two Steps From Hell.mp3",
+    "link_lrc": "audio/Star Sky - Two Steps From Hell.lrc",
+    "format": "mp3"
   }
 ]
