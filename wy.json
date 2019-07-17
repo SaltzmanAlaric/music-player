@@ -260,16 +260,6 @@
     "format": "mp3"
   },
   {
-    "id": "254499",
-    "name": "为爱痴狂",
-    "singer": "刘若英",
-    "album": "收获 新歌+精选",
-    "source": "wy",
-    "link_url": "audio/为爱痴狂 - 刘若英.mp3",
-    "link_lrc": "audio/为爱痴狂 - 刘若英.lrc",
-    "format": "mp3"
-  },
-  {
     "id": "1298130354",
     "name": "猪八戒背媳妇 (民乐合奏)",
     "singer": "华夏管弦乐团",
@@ -296,7 +286,7 @@
     "album": "功夫 电影原声大碟",
     "source": "wy",
     "link_url": "audio/英雄们战胜了大渡河 - 时乐濛.mp3",
-    "link_lrc": "audio/英雄们战胜了大渡河 - 时乐濛.lrc",
+    "link_lrc": "audio/unknow.lrc",
     "format": "mp3"
   },
   {
@@ -306,7 +296,7 @@
     "album": "唐伯虎点秋香",
     "source": "wy",
     "link_url": "audio/勇往直前 - 胡伟立.mp3",
-    "link_lrc": "audio/勇往直前 - 胡伟立.lrc",
+    "link_lrc": "audio/unknow.lrc",
     "format": "mp3"
   },
   {
@@ -316,7 +306,7 @@
     "album": "Pacific Rim: Original Motion Picture Soundtrack",
     "source": "wy",
     "link_url": "audio/Pacific Rim - Ramin Djawadi.mp3",
-    "link_lrc": "audio/Pacific Rim - Ramin Djawadi.lrc",
+    "link_lrc": "audio/unknow.lrc",
     "format": "mp3"
   },
   {
@@ -332,11 +322,11 @@
   {
     "id": "29460377",
     "name": "Empire of Angels",
-    "singer": "Thomas Bergersen",
+    "singer": "Two Steps From Hell",
     "album": "Sun",
     "source": "wy",
-    "link_url": "audio/Empire of Angels - Thomas Bergersen.mp3",
-    "link_lrc": "audio/Empire of Angels - Thomas Bergersen.lrc",
+    "link_url": "audio/Empire Of Angels - Two Steps From Hell.mp3",
+    "link_lrc": "audio/unknow.lrc",
     "format": "mp3"
   },
   {
@@ -427,6 +417,16 @@
     "source": "wy",
     "link_url": "audio/チカっとチカ千花っ♡ - 小原好美.mp3",
     "link_lrc": "audio/チカっとチカ千花っ♡ - 小原好美.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "468490582",
+    "name": "パスカル",
+    "singer": "岡部啓一&石井咲希",
+    "album": "NieR:Automata Original Soundtrack",
+    "source": "wy",
+    "link_url": "audio/パスカル - 岡部啓一&石井咲希.mp3",
+    "link_lrc": "audio/パスカル - 岡部啓一&石井咲希.lrc",
     "format": "flac"
   }
 ]
