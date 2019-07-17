@@ -3808,5 +3808,15 @@
     "link_url": "audio/LET IT OUT - 福原美穂.mp3",
     "link_lrc": "audio/LET IT OUT - 福原美穂.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "37095772",
+    "name": "Silver City",
+    "singer": "Myrne&Linying",
+    "album": " Silver City / Release Me",
+    "source": "wy",
+    "link_url": "audio/Silver City - Myrne&Linying.mp3",
+    "link_lrc": "audio/Silver City - Myrne&Linying.lrc",
+    "format": "mp3"
   }
 ]
