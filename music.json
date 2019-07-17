@@ -4008,5 +4008,15 @@
     "link_url": "audio/AIAIAI - Kizuna AI&中田ヤスタカ.mp3",
     "link_lrc": "audio/AIAIAI - Kizuna AI&中田ヤスタカ.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "563020027",
+    "name": "Funny Bear",
+    "singer": "Best Of Hits",
+    "album": "Best Of Hits Vol. 98",
+    "source": "wy",
+    "link_url": "audio/Funny Bear - Best Of Hits.mp3",
+    "link_lrc": "audio/unknow.lrc",
+    "format": "mp3"
   }
 ]
