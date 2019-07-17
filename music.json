@@ -4231,12 +4231,22 @@
   },
   {
     "id": "26218091",
-    "name": "START:DASH!!",
+    "name": "START_DASH!!",
     "singer": "μ's",
     "album": "No brand girls / START:DASH!!",
     "source": "wy",
     "link_url": "audio/START_DASH!! - μ's.mp3",
     "link_lrc": "audio/START_DASH!! - μ's.lrc",
     "format": "flac"
+  },
+  {
+    "id": "1350516869",
+    "name": "五等分の気持ち",
+    "singer": "花澤香菜&竹達彩奈&伊藤美来&佐倉綾音&水瀬いのり",
+    "album": "五等分の気持ち",
+    "source": "wy",
+    "link_url": "audio/五等分の気持ち - 花澤香菜&竹達彩奈&伊藤美来&佐倉綾音&水瀬いのり.mp3",
+    "link_lrc": "audio/五等分の気持ち - 花澤香菜&竹達彩奈&伊藤美来&佐倉綾音&水瀬いのり.lrc",
+    "format": "mp3"
   }
 ]
