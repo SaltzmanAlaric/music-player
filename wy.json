@@ -330,16 +330,6 @@
     "format": "mp3"
   },
   {
-    "id": "32958397",
-    "name": "孟姜女",
-    "singer": "聆玖",
-    "album": "孟姜女",
-    "source": "wy",
-    "link_url": "audio/孟姜女 - 聆玖.mp3",
-    "link_lrc": "audio/孟姜女 - 聆玖.lrc",
-    "format": "mp3"
-  },
-  {
     "id": "307780",
     "name": "七月七日晴",
     "singer": "许慧欣",
@@ -357,7 +347,7 @@
     "source": "wy",
     "link_url": "audio/ツキアカリのミチシルベ - ステレオポニー.mp3",
     "link_lrc": "audio/ツキアカリのミチシルベ - ステレオポニー.lrc",
-    "format": "mp3"
+    "format": "flac"
   },
   {
     "id": "651241",
@@ -377,7 +367,7 @@
     "source": "wy",
     "link_url": "audio/パルス - 佐倉綾音&釘宮理恵.mp3",
     "link_lrc": "audio/パルス - 佐倉綾音&釘宮理恵.lrc",
-    "format": "mp3"
+    "format": "flac"
   },
   {
     "id": "28406343",

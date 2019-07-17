@@ -4418,5 +4418,15 @@
     "link_url": "audio/为爱痴狂 - 刘若英.mp3",
     "link_lrc": "audio/为爱痴狂 - 刘若英.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "32958397",
+    "name": "孟姜女",
+    "singer": "聆玖",
+    "album": "孟姜女",
+    "source": "wy",
+    "link_url": "audio/孟姜女 - 聆玖.mp3",
+    "link_lrc": "audio/孟姜女 - 聆玖.lrc",
+    "format": "mp3"
   }
 ]
