@@ -3638,5 +3638,15 @@
     "link_url": "audio/Trouble Is A Friend - Lenka.mp3",
     "link_lrc": "audio/Trouble Is A Friend - Lenka.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "1217823",
+    "name": "Be What You Wanna Be",
+    "singer": "Darin",
+    "album": "Darin",
+    "source": "wy",
+    "link_url": "audio/Be What You Wanna Be - Darin.mp3",
+    "link_lrc": "audio/Be What You Wanna Be - Darin.lrc",
+    "format": "mp3"
   }
 ]
