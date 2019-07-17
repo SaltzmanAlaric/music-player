@@ -163,7 +163,7 @@ function getPlayList(){
     var list = $("#music_list");
     var songList = getParams("song") || "music";
     $.ajax({
-        url: songList+ ".json",
+        url: songList + ".json",
         cache: true,
         success:function(data){
             origin_json = data;
