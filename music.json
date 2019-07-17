@@ -3908,5 +3908,15 @@
     "link_url": "audio/なのです! - ななひら.mp3",
     "link_lrc": "audio/なのです! - ななひら.lrc",
     "format": "flac"
+  },
+  {
+    "id": "555142",
+    "name": "そばにいるね",
+    "singer": "青山テルマ",
+    "album": "そばにいるね",
+    "source": "wy",
+    "link_url": "audio/そばにいるね - 青山テルマ.mp3",
+    "link_lrc": "audio/そばにいるね - 青山テルマ.lrc",
+    "format": "flac"
   }
 ]
