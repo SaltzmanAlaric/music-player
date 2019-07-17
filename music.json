@@ -4018,5 +4018,15 @@
     "link_url": "audio/Funny Bear - Best Of Hits.mp3",
     "link_lrc": "audio/unknow.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "29561077",
+    "name": "Outside",
+    "singer": "Calvin Harris&Ellie Goulding",
+    "album": "Motion",
+    "source": "wy",
+    "link_url": "audio/Outside - Calvin Harris&Ellie Goulding.mp3",
+    "link_lrc": "audio/Outside - Calvin Harris&Ellie Goulding.lrc",
+    "format": "mp3"
   }
 ]
