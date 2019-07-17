@@ -4528,5 +4528,15 @@
     "link_url": "audio/七月七日晴 - 许慧欣.mp3",
     "link_lrc": "audio/七月七日晴 - 许慧欣.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "95796",
+    "name": "勇往直前",
+    "singer": "胡伟立",
+    "album": "唐伯虎点秋香",
+    "source": "wy",
+    "link_url": "audio/勇往直前 - 胡伟立.mp3",
+    "link_lrc": "audio/unknow.lrc",
+    "format": "mp3"
   }
 ]
