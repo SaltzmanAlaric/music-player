@@ -1,25 +1,5 @@
 [
   {
-    "id": "1361188105",
-    "name": "チカっとチカ千花っ♡",
-    "singer": "小原好美",
-    "album": "チカっとチカ千花っ♡",
-    "source": "wy",
-    "link_url": "audio/チカっとチカ千花っ♡ - 小原好美.mp3",
-    "link_lrc": "audio/チカっとチカ千花っ♡ - 小原好美.lrc",
-    "format": "mp3"
-  },
-  {
-    "id": "468490582",
-    "name": "パスカル",
-    "singer": "岡部啓一&石井咲希",
-    "album": "NieR:Automata Original Soundtrack",
-    "source": "wy",
-    "link_url": "audio/パスカル - 岡部啓一&石井咲希.mp3",
-    "link_lrc": "audio/パスカル - 岡部啓一&石井咲希.lrc",
-    "format": "mp3"
-  },
-  {
     "id": "29375305",
     "name": "つくりましょう!",
     "singer": "金田朋子&松岡由貴&樋口智恵子&田中理恵",
@@ -27,7 +7,7 @@
     "source": "wy",
     "link_url": "audio/つくりましょう! - 金田朋子&松岡由貴&樋口智恵子&田中理恵.mp3",
     "link_lrc": "audio/つくりましょう! - 金田朋子&松岡由貴&樋口智恵子&田中理恵.lrc",
-    "format": "mp3"
+    "format": "flac"
   },
   {
     "id": "436016480",
@@ -37,7 +17,7 @@
     "source": "wy",
     "link_url": "audio/404 not found - REOL.mp3",
     "link_lrc": "audio/404 not found - REOL.lrc",
-    "format": "mp3"
+    "format": "flac"
   },
   {
     "id": "224327",
@@ -117,7 +97,7 @@
     "source": "wy",
     "link_url": "audio/禁忌的边界线いけないボーダーライン-泠鸢yousa翻唱（Cover ワルキューレ，Walküre） - 泠鸢yousa.mp3",
     "link_lrc": "audio/禁忌的边界线いけないボーダーライン-泠鸢yousa翻唱（Cover ワルキューレ，Walküre） - 泠鸢yousa.lrc",
-    "format": "mp3"
+    "format": "flac"
   },
   {
     "id": "1325817338",
@@ -196,7 +176,7 @@
     "album": "遥远的某处",
     "source": "wy",
     "link_url": "audio/White - 丁可.mp3",
-    "link_lrc": "audio/White - 丁可.lrc",
+    "link_lrc": "audio/unknow.lrc",
     "format": "mp3"
   },
   {
@@ -227,7 +207,7 @@
     "source": "wy",
     "link_url": "audio/BABY! - スイートバレット.mp3",
     "link_lrc": "audio/BABY! - スイートバレット.lrc",
-    "format": "mp3"
+    "format": "flac"
   },
   {
     "id": "1313107902",
@@ -237,16 +217,6 @@
     "source": "wy",
     "link_url": "audio/君のせい - the peggies.mp3",
     "link_lrc": "audio/君のせい - the peggies.lrc",
-    "format": "mp3"
-  },
-  {
-    "id": "5239564",
-    "name": "你是我心内的一首歌",
-    "singer": "王力宏&任家萱",
-    "album": "K情歌8",
-    "source": "wy",
-    "link_url": "audio/你是我心内的一首歌 - 王力宏&任家萱.mp3",
-    "link_lrc": "audio/你是我心内的一首歌 - 王力宏&任家萱.lrc",
     "format": "mp3"
   },
   {
@@ -447,6 +417,16 @@
     "source": "wy",
     "link_url": "audio/心跳23事 - 小野道ono&2233娘.mp3",
     "link_lrc": "audio/心跳23事 - 小野道ono&2233娘.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "1361188105",
+    "name": "チカっとチカ千花っ♡",
+    "singer": "小原好美",
+    "album": "チカっとチカ千花っ♡",
+    "source": "wy",
+    "link_url": "audio/チカっとチカ千花っ♡ - 小原好美.mp3",
+    "link_lrc": "audio/チカっとチカ千花っ♡ - 小原好美.lrc",
     "format": "flac"
   }
 ]
