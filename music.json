@@ -4068,5 +4068,15 @@
     "link_url": "audio/ねぐせ - 洲崎綾.mp3",
     "link_lrc": "audio/ねぐせ - 洲崎綾.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "26219823",
+    "name": "ドラマチックマーケットライド",
+    "singer": "洲崎綾",
+    "album": "ドラマチックマーケットライド",
+    "source": "wy",
+    "link_url": "audio/ドラマチックマーケットライド - 洲崎綾.mp3",
+    "link_lrc": "audio/ドラマチックマーケットライド - 洲崎綾.lrc",
+    "format": "mp3"
   }
 ]
