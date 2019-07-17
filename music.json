@@ -4198,5 +4198,15 @@
     "link_url": "audio/Story - 西野カナ.mp3",
     "link_lrc": "audio/Story - 西野カナ.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "34923862",
+    "name": "霜雪千年",
+    "singer": "洛天依&乐正绫&COP",
+    "album": "洛天依作品集",
+    "source": "wy",
+    "link_url": "audio/霜雪千年 - 洛天依&乐正绫&COP.mp3",
+    "link_lrc": "audio/霜雪千年 - 洛天依&乐正绫&COP.lrc",
+    "format": "mp3"
   }
 ]
