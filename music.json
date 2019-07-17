@@ -4228,5 +4228,15 @@
     "link_url": "audio/Bye Bye Bye - Lovestoned.mp3",
     "link_lrc": "audio/Bye Bye Bye - Lovestoned.lrc",
     "format": "flac"
+  },
+  {
+    "id": "26218091",
+    "name": "START:DASH!!",
+    "singer": "μ's",
+    "album": "No brand girls / START:DASH!!",
+    "source": "wy",
+    "link_url": "audio/START_DASH!! - μ's.mp3",
+    "link_lrc": "audio/START_DASH!! - μ's.lrc",
+    "format": "flac"
   }
 ]
