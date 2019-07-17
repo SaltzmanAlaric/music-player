@@ -4078,5 +4078,25 @@
     "link_url": "audio/ドラマチックマーケットライド - 洲崎綾.mp3",
     "link_lrc": "audio/ドラマチックマーケットライド - 洲崎綾.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "189433",
+    "name": "虚虚实实",
+    "singer": "张卫健",
+    "album": "齐天大圣孙悟空",
+    "source": "wy",
+    "link_url": "audio/虚虚实实 - 张卫健.mp3",
+    "link_lrc": "audio/虚虚实实 - 张卫健.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "408532862",
+    "name": "Bring Back The Summer (Not Your Dope Remix)",
+    "singer": "Not Your Dope&Rain Man",
+    "album": "Bring Back The Summer (Not Your Dope Remix)",
+    "source": "wy",
+    "link_url": "audio/Bring Back The Summer (Not Your Dope Remix) - Not Your Dope&Rain Man.mp3",
+    "link_lrc": "audio/Bring Back The Summer (Not Your Dope Remix) - Not Your Dope&Rain Man.lrc",
+    "format": "mp3"
   }
 ]
