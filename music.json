@@ -3708,5 +3708,15 @@
     "link_url": "audio/ひとり旅 - 鎖那.mp3",
     "link_lrc": "audio/ひとり旅 - 鎖那.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "1304665120",
+    "name": "君がいる世界へ",
+    "singer": "鹿乃",
+    "album": "一花依世界【日文版】",
+    "source": "wy",
+    "link_url": "audio/君がいる世界へ - 鹿乃.mp3",
+    "link_lrc": "audio/君がいる世界へ - 鹿乃.lrc",
+    "format": "flac"
   }
 ]
