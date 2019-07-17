@@ -3878,5 +3878,35 @@
     "link_url": "audio/伤心太平洋 - 任贤齐.mp3",
     "link_lrc": "audio/伤心太平洋 - 任贤齐.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "444269761",
+    "name": "そらのおさんぽ",
+    "singer": "東山奈央",
+    "album": "だぶるハッピー!! 【豪華盤】",
+    "source": "wy",
+    "link_url": "audio/そらのおさんぽ - 東山奈央.mp3",
+    "link_lrc": "audio/そらのおさんぽ - 東山奈央.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "308212",
+    "name": "踏浪",
+    "singer": "徐怀钰",
+    "album": "Love",
+    "source": "wy",
+    "link_url": "audio/踏浪 - 徐怀钰.mp3",
+    "link_lrc": "audio/踏浪 - 徐怀钰.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "415787008",
+    "name": "なのです!",
+    "singer": "ななひら",
+    "album": "ボーキサイトが底をついた件",
+    "source": "wy",
+    "link_url": "audio/なのです! - ななひら.mp3",
+    "link_lrc": "audio/なのです! - ななひら.lrc",
+    "format": "flac"
   }
 ]
