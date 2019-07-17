@@ -3668,5 +3668,15 @@
     "link_url": "audio/祝你一路顺风 - 吴奇隆.mp3",
     "link_lrc": "audio/祝你一路顺风 - 吴奇隆.lrc",
     "format": "flac"
+  },
+  {
+    "id": "482172",
+    "name": "風になる",
+    "singer": "つじあやの",
+    "album": "猫の恩返し サウンドトラック",
+    "source": "wy",
+    "link_url": "audio/風になる - つじあやの.mp3",
+    "link_lrc": "audio/風になる - つじあやの.lrc",
+    "format": "mp3"
   }
 ]
