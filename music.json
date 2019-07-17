@@ -3698,5 +3698,15 @@
     "link_url": "audio/勾指起誓（Cover：ilem） - 泠鸢yousa.mp3",
     "link_lrc": "audio/勾指起誓（Cover：ilem） - 泠鸢yousa.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "1311345944",
+    "name": "ひとり旅",
+    "singer": "鎖那",
+    "album": "せなとうた",
+    "source": "wy",
+    "link_url": "audio/ひとり旅 - 鎖那.mp3",
+    "link_lrc": "audio/ひとり旅 - 鎖那.lrc",
+    "format": "mp3"
   }
 ]
