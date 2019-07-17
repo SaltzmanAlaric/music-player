@@ -4438,5 +4438,25 @@
     "link_url": "audio/のんのん姉妹 - 佐倉綾音&阿澄佳奈.mp3",
     "link_lrc": "audio/のんのん姉妹 - 佐倉綾音&阿澄佳奈.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "29375305",
+    "name": "つくりましょう!",
+    "singer": "金田朋子&松岡由貴&樋口智恵子&田中理恵",
+    "album": "あずまんが大王 VOCAL COLLECTION うたいましょ",
+    "source": "wy",
+    "link_url": "audio/つくりましょう! - 金田朋子&松岡由貴&樋口智恵子&田中理恵.mp3",
+    "link_lrc": "audio/つくりましょう! - 金田朋子&松岡由貴&樋口智恵子&田中理恵.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "224327",
+    "name": "相思引",
+    "singer": "董真",
+    "album": "返璞归贞",
+    "source": "wy",
+    "link_url": "audio/相思引 - 董真.mp3",
+    "link_lrc": "audio/相思引 - 董真.lrc",
+    "format": "mp3"
   }
 ]
