@@ -4508,5 +4508,15 @@
     "link_url": "audio/KN33S0XXX - にーそっくすす.mp3",
     "link_lrc": "audio/KN33S0XXX - にーそっくすす.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "651241",
+    "name": "Zzz",
+    "singer": "佐咲紗花",
+    "album": "Zzz",
+    "source": "wy",
+    "link_url": "audio/Zzz - 佐咲紗花.mp3",
+    "link_lrc": "audio/Zzz - 佐咲紗花.lrc",
+    "format": "mp3"
   }
 ]
