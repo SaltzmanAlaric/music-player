@@ -3828,5 +3828,15 @@
     "link_url": "audio/繁华唱遍（泠鸢翻唱版）（Cover：乐正绫 调教：纳兰寻风） - 泠鸢yousa.mp3",
     "link_lrc": "audio/繁华唱遍（泠鸢翻唱版）（Cover：乐正绫 调教：纳兰寻风） - 泠鸢yousa.lrc",
     "format": "flac"
+  },
+  {
+    "id": "29712183",
+    "name": "Happy Halloween",
+    "singer": "柊 優花&鎖那",
+    "album": "最新热歌慢摇82",
+    "source": "wy",
+    "link_url": "audio/Happy Halloween - 柊 優花&鎖那.mp3",
+    "link_lrc": "audio/Happy Halloween - 柊 優花&鎖那.lrc",
+    "format": "mp3"
   }
 ]
