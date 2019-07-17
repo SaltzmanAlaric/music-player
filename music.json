@@ -3628,5 +3628,15 @@
     "link_url": "audio/Trouble Maker - Trouble Maker.mp3",
     "link_lrc": "audio/Trouble Maker - Trouble Maker.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "16607987",
+    "name": "Trouble Is A Friend",
+    "singer": "Lenka",
+    "album": "Trouble Is A Friend",
+    "source": "wy",
+    "link_url": "audio/Trouble Is A Friend - Lenka.mp3",
+    "link_lrc": "audio/Trouble Is A Friend - Lenka.lrc",
+    "format": "mp3"
   }
 ]
