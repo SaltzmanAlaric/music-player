@@ -4218,5 +4218,15 @@
     "link_url": "audio/Best of my Love - 安田レイ.mp3",
     "link_lrc": "audio/Best of my Love - 安田レイ.lrc",
     "format": "flac"
+  },
+  {
+    "id": "4164331",
+    "name": "Bye Bye Bye",
+    "singer": "Lovestoned",
+    "album": "Rising Love",
+    "source": "wy",
+    "link_url": "audio/Bye Bye Bye - Lovestoned.mp3",
+    "link_lrc": "audio/Bye Bye Bye - Lovestoned.lrc",
+    "format": "flac"
   }
 ]
