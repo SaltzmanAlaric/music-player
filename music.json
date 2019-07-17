@@ -3958,5 +3958,15 @@
     "link_url": "audio/乱世巨星 - 陈小春.mp3",
     "link_lrc": "audio/乱世巨星 - 陈小春.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "28151022",
+    "name": "鳥の詩",
+    "singer": "Lia",
+    "album": "AIR Original SoundTrack",
+    "source": "wy",
+    "link_url": "audio/鳥の詩 - Lia.mp3",
+    "link_lrc": "audio/鳥の詩 - Lia.lrc",
+    "format": "mp3"
   }
 ]
