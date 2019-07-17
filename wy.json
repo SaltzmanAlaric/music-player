@@ -1,25 +1,5 @@
 [
   {
-    "id": "003r2dpH40aOwQ",
-    "name": "ヒトリゴト",
-    "singer": "ClariS",
-    "album": "ヒトリゴト (通常盤)",
-    "source": "qq",
-    "link_url": "audio/ヒトリゴト - ClariS.mp3",
-    "link_lrc": "audio/ヒトリゴト - ClariS.lrc",
-    "format": "mp3"
-  },
-  {
-    "id": "003tu4pE36Ktsq",
-    "name": "勾指起誓",
-    "singer": "洛天依&ilem",
-    "album": "2:3",
-    "source": "qq",
-    "link_url": "audio/勾指起誓 - 洛天依&ilem.mp3",
-    "link_lrc": "audio/勾指起誓 - 洛天依&ilem.lrc",
-    "format": "mp3"
-  },
-  {
     "id": "1350160463",
     "name": "勾指起誓（Cover：ilem）",
     "singer": "泠鸢yousa",
