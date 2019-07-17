@@ -4308,5 +4308,15 @@
     "link_url": "audio/逆浪千秋 - 言和.mp3",
     "link_lrc": "audio/逆浪千秋 - 言和.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "501755851",
+    "name": "东京不太热（Feat.洛天依）",
+    "singer": "洛天依&冰封前夕&Z新豪",
+    "album": "东京不太热【重置版】",
+    "source": "wy",
+    "link_url": "audio/东京不太热（Feat.洛天依） - 洛天依&冰封前夕&Z新豪.mp3",
+    "link_lrc": "audio/东京不太热（Feat.洛天依） - 洛天依&冰封前夕&Z新豪.lrc",
+    "format": "flac"
   }
 ]
