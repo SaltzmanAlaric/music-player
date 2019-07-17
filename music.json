@@ -3728,5 +3728,15 @@
     "link_url": "audio/アイノヨカン (TV EDIT) - 伊藤かな恵&早見沙織&小清水亜美&阿澄佳奈&豊崎愛生.mp3",
     "link_lrc": "audio/アイノヨカン (TV EDIT) - 伊藤かな恵&早見沙織&小清水亜美&阿澄佳奈&豊崎愛生.lrc",
     "format": "flac"
+  },
+  {
+    "id": "487003529",
+    "name": "Secret Link",
+    "singer": "藤田茜",
+    "album": "エロマンガ先生 キャラクターソング & サウンドトラック Vol.1",
+    "source": "wy",
+    "link_url": "audio/Secret Link - 藤田茜.mp3",
+    "link_lrc": "audio/Secret Link - 藤田茜.lrc",
+    "format": "mp3"
   }
 ]
