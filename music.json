@@ -3938,5 +3938,15 @@
     "link_url": "audio/未完成ストライド - こだまさおり.mp3",
     "link_lrc": "audio/未完成ストライド - こだまさおり.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "559760",
+    "name": "優しさの理由",
+    "singer": "ChouCho",
+    "album": "優しさの理由",
+    "source": "wy",
+    "link_url": "audio/優しさの理由 - ChouCho.mp3",
+    "link_lrc": "audio/優しさの理由 - ChouCho.lrc",
+    "format": "flac"
   }
 ]
