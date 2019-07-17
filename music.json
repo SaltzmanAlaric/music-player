@@ -3748,5 +3748,15 @@
     "link_url": "audio/Love Destiny - 堀江由衣.mp3",
     "link_lrc": "audio/Love Destiny - 堀江由衣.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "1360580812",
+    "name": "Jenny of Oldstones (Game of Thrones)",
+    "singer": "Florence + The Machine",
+    "album": "Jenny of Oldstones (Game of Thrones)",
+    "source": "wy",
+    "link_url": "audio/Jenny of Oldstones (Game of Thrones) - Florence + The Machine.mp3",
+    "link_lrc": "audio/Jenny of Oldstones (Game of Thrones) - Florence + The Machine.lrc",
+    "format": "mp3"
   }
 ]
