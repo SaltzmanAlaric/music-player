@@ -1,15 +1,5 @@
 [
   {
-    "id": "1313107902",
-    "name": "君のせい",
-    "singer": "the peggies",
-    "album": "君のせい",
-    "source": "wy",
-    "link_url": "audio/君のせい - the peggies.mp3",
-    "link_lrc": "audio/君のせい - the peggies.lrc",
-    "format": "mp3"
-  },
-  {
     "id": "863046037",
     "name": "Way Back Home",
     "singer": "SHAUN",
@@ -112,11 +102,11 @@
   {
     "id": "468490582",
     "name": "パスカル",
-    "singer": "岡部啓一&石井咲希",
+    "singer": "岡部啓一",
     "album": "NieR:Automata Original Soundtrack",
     "source": "wy",
-    "link_url": "audio/パスカル - 岡部啓一&石井咲希.mp3",
-    "link_lrc": "audio/パスカル - 岡部啓一&石井咲希.lrc",
+    "link_url": "audio/パスカル - 岡部啓一.mp3",
+    "link_lrc": "audio/パスカル - 岡部啓一.lrc",
     "format": "flac"
   }
 ]
