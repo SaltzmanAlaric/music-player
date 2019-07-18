@@ -5908,5 +5908,15 @@
     "link_url": "audio/Breathe - Fleurie.mp3",
     "link_lrc": "audio/Breathe - Fleurie.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "1313052944",
+    "name": "BABY!",
+    "singer": "スイートバレット",
+    "album": "不可思議のカルテ",
+    "source": "wy",
+    "link_url": "audio/BABY! - スイートバレット.mp3",
+    "link_lrc": "audio/BABY! - スイートバレット.lrc",
+    "format": "flac"
   }
 ]
