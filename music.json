@@ -5938,5 +5938,15 @@
     "link_url": "audio/Way Back Home - SHAUN.mp3",
     "link_lrc": "audio/Way Back Home - SHAUN.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "254589",
+    "name": "很爱很爱你",
+    "singer": "刘若英",
+    "album": "很爱很爱你",
+    "source": "wy",
+    "link_url": "audio/很爱很爱你 - 刘若英.mp3",
+    "link_lrc": "audio/很爱很爱你 - 刘若英.lrc",
+    "format": "mp3"
   }
 ]
