@@ -5928,5 +5928,15 @@
     "link_url": "audio/君のせい - the peggies.mp3",
     "link_lrc": "audio/君のせい - the peggies.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "863046037",
+    "name": "Way Back Home",
+    "singer": "SHAUN",
+    "album": "Take",
+    "source": "wy",
+    "link_url": "audio/Way Back Home - SHAUN.mp3",
+    "link_lrc": "audio/Way Back Home - SHAUN.lrc",
+    "format": "mp3"
   }
 ]
