@@ -1,25 +1,5 @@
 [
   {
-    "id": "445664293",
-    "name": "追光使者",
-    "singer": "洛天依",
-    "album": "追光使者",
-    "source": "wy",
-    "link_url": "audio/追光使者 - 洛天依.mp3",
-    "link_lrc": "audio/追光使者 - 洛天依.lrc",
-    "format": "mp3"
-  },
-  {
-    "id": "850694",
-    "name": "絶対的一方通行",
-    "singer": "めらみぽっぷ",
-    "album": "廻",
-    "source": "wy",
-    "link_url": "audio/絶対的一方通行 - めらみぽっぷ.mp3",
-    "link_lrc": "audio/絶対的一方通行 - めらみぽっぷ.lrc",
-    "format": "mp3"
-  },
-  {
     "id": "28912536",
     "name": "White",
     "singer": "丁可",
