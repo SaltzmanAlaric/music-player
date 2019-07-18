@@ -5888,5 +5888,15 @@
     "link_url": "audio/White - 丁可.mp3",
     "link_lrc": "audio/unknow.lrc",
     "format": "mp3"
+  },
+  {
+    "id": "345741",
+    "name": "触电 (完整版)",
+    "singer": "芭比",
+    "album": "摇头舞曲 3",
+    "source": "wy",
+    "link_url": "audio/触电 (完整版) - 芭比.mp3",
+    "link_lrc": "audio/触电 (完整版) - 芭比.lrc",
+    "format": "mp3"
   }
 ]
