@@ -1,5 +1,6035 @@
 [
   {
+    "id": "002SPy0035WGXQ",
+    "name": "ambiguous",
+    "singer": "GARNiDELiA",
+    "album": "ambiguous",
+    "source": "qq",
+    "link_url": "audio/ambiguous - GARNiDELiA.mp3",
+    "link_lrc": "audio/ambiguous - GARNiDELiA.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "001M0D9X1V2ELp",
+    "name": "ASH",
+    "singer": "LiSA",
+    "album": "ASH(通常盤)",
+    "source": "qq",
+    "link_url": "audio/ASH - LiSA.mp3",
+    "link_lrc": "audio/ASH - LiSA.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "004O51DB4A2mmX",
+    "name": "Bi-Li-Li Emotion",
+    "singer": "Superfly",
+    "album": "LOVE, PEACE & FIRE",
+    "source": "qq",
+    "link_url": "audio/Bi-Li-Li Emotion - Superfly.mp3",
+    "link_lrc": "audio/Bi-Li-Li Emotion - Superfly.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "002GPbm712UMQx",
+    "name": "Break Our Limit",
+    "singer": "fripSide",
+    "album": "clockwork planet",
+    "source": "qq",
+    "link_url": "audio/Break Our Limit - fripSide.mp3",
+    "link_lrc": "audio/Break Our Limit - fripSide.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "002jbAsG3rwWjC",
+    "name": "Dear My Friend -まだ見ぬ未来へ-",
+    "singer": "ELISA",
+    "album": "Dear My Friend -まだ見ぬ未来へ-",
+    "source": "qq",
+    "link_url": "audio/Dear My Friend -まだ見ぬ未来へ- - ELISA.mp3",
+    "link_lrc": "audio/Dear My Friend -まだ見ぬ未来へ- - ELISA.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "003Or63X3iXWrz",
+    "name": "Distance",
+    "singer": "村川梨衣",
+    "album": "Distance",
+    "source": "qq",
+    "link_url": "audio/Distance - 村川梨衣.mp3",
+    "link_lrc": "audio/Distance - 村川梨衣.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "000YVDGN1miNUk",
+    "name": "eternal reality",
+    "singer": "fripSide",
+    "album": "eternal reality TVアニメ(とある科学の超電磁砲S)新OPテーマ(初回限定アニメ盤)(CD+DVD)",
+    "source": "qq",
+    "link_url": "audio/eternal reality - fripSide.mp3",
+    "link_lrc": "audio/eternal reality - fripSide.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "001ZzhRs17aZ9Y",
+    "name": "Ezio's Family",
+    "singer": "Jesper Kyd",
+    "album": "Assassin's Creed 2 (Original Game Soundtrack)",
+    "source": "qq",
+    "link_url": "audio/Ezio's Family - Jesper Kyd.mp3",
+    "link_lrc": "audio/Ezio's Family - Jesper Kyd.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "001YkDeY0mw0WL",
+    "name": "fortissimo-the ultimate crisis-",
+    "singer": "fripSide",
+    "album": "fortissimo complete best album",
+    "source": "qq",
+    "link_url": "audio/fortissimo-the ultimate crisis- - fripSide.mp3",
+    "link_lrc": "audio/fortissimo-the ultimate crisis- - fripSide.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "000TvnI92ci0i7",
+    "name": "future gazer",
+    "singer": "fripSide",
+    "album": "future gazer",
+    "source": "qq",
+    "link_url": "audio/future gazer - fripSide.mp3",
+    "link_lrc": "audio/future gazer - fripSide.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "000E0ZjW1dSA4K",
+    "name": "Heaven is a Place On Earth",
+    "singer": "fripSide",
+    "album": "「劇場版ハヤテのごとく！HEAVEN IS A PLACE ON EARTH」 Original Soundtrack",
+    "source": "qq",
+    "link_url": "audio/Heaven is a Place On Earth - fripSide.mp3",
+    "link_lrc": "audio/Heaven is a Place On Earth - fripSide.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "002F2EmD45lxUe",
+    "name": "I'm believing you",
+    "singer": "fripSide",
+    "album": "sister's noise",
+    "source": "qq",
+    "link_url": "audio/I'm believing you - fripSide.mp3",
+    "link_lrc": "audio/I'm believing you - fripSide.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "000x5VXI2j8e9q",
+    "name": "Lamb",
+    "singer": "GARNiDELiA",
+    "album": "Linkage Ring",
+    "source": "qq",
+    "link_url": "audio/Lamb - GARNiDELiA.mp3",
+    "link_lrc": "audio/Lamb - GARNiDELiA.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "001vs4PY2KkWt7",
+    "name": "late in autumn",
+    "singer": "fripSide",
+    "album": "Only My Railgun",
+    "source": "qq",
+    "link_url": "audio/late in autumn - fripSide.mp3",
+    "link_lrc": "audio/late in autumn - fripSide.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "002KWeAr1awxfz",
+    "name": "LEVEL5 -judgelight-",
+    "singer": "fripSide",
+    "album": "infinite synthesis",
+    "source": "qq",
+    "link_url": "audio/LEVEL5 -judgelight- - fripSide.mp3",
+    "link_lrc": "audio/LEVEL5 -judgelight- - fripSide.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "002OIb6p15Dbcv",
+    "name": "memory of snow",
+    "singer": "fripSide",
+    "album": "LEVEL5-judgelight-",
+    "source": "qq",
+    "link_url": "audio/memory of snow - fripSide.mp3",
+    "link_lrc": "audio/memory of snow - fripSide.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "002IJg5p25G1hq",
+    "name": "My Songs Know What You Did In The Dark Light Em Up",
+    "singer": "Fall Out Boy",
+    "album": "Save Rock and Roll",
+    "source": "qq",
+    "link_url": "audio/My Songs Know What You Did In The Dark Light Em Up - Fall Out Boy.mp3",
+    "link_lrc": "audio/My Songs Know What You Did In The Dark Light Em Up - Fall Out Boy.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "000Znj3t0AYNo1",
+    "name": "PiNK CAT",
+    "singer": "GARNiDELiA",
+    "album": "MIRAI",
+    "source": "qq",
+    "link_url": "audio/PiNK CAT - GARNiDELiA.mp3",
+    "link_lrc": "audio/PiNK CAT - GARNiDELiA.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "0038w8PR0DgVt6",
+    "name": "QQ爱",
+    "singer": "王麟",
+    "album": "很傻很天真",
+    "source": "qq",
+    "link_url": "audio/QQ爱 - 王麟.mp3",
+    "link_lrc": "audio/QQ爱 - 王麟.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "000f2q1W2cA3Wp",
+    "name": "Rising Hope",
+    "singer": "LiSA",
+    "album": "Rising Hope",
+    "source": "qq",
+    "link_url": "audio/Rising Hope - LiSA.mp3",
+    "link_lrc": "audio/Rising Hope - LiSA.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "001NLpGV0c6XZg",
+    "name": "sister's noise",
+    "singer": "fripSide",
+    "album": "sister's noise",
+    "source": "qq",
+    "link_url": "audio/sister's noise - fripSide.mp3",
+    "link_lrc": "audio/sister's noise - fripSide.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "0028g8kF15iSbz",
+    "name": "Unity",
+    "singer": "TheFatRat",
+    "album": "Unity",
+    "source": "qq",
+    "link_url": "audio/Unity - TheFatRat.mp3",
+    "link_lrc": "audio/Unity - TheFatRat.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "004GGj6e0KhpAk",
+    "name": "うまるん体操",
+    "singer": "田中あいみ&影山灯&白石晴香&古川由利奈",
+    "album": "うまるん体操",
+    "source": "qq",
+    "link_url": "audio/うまるん体操 - 田中あいみ&影山灯&白石晴香&古川由利奈.mp3",
+    "link_lrc": "audio/うまるん体操 - 田中あいみ&影山灯&白石晴香&古川由利奈.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "003w78Uu3GpvCn",
+    "name": "きらめきを探しに",
+    "singer": "早見沙織",
+    "album": "ご注文はうさぎですか?? キャラクターソングシリーズ08 青山ブルーマウンテン&モカ",
+    "source": "qq",
+    "link_url": "audio/きらめきを探しに - 早見沙織.mp3",
+    "link_lrc": "audio/きらめきを探しに - 早見沙織.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "003YQWsY4DVzq2",
+    "name": "ときめきポポロン♪",
+    "singer": "水瀬いのり&徳井青空&村川梨衣",
+    "album": "ときめきポポロン♪",
+    "source": "qq",
+    "link_url": "audio/ときめきポポロン♪ - 水瀬いのり&徳井青空&村川梨衣.mp3",
+    "link_lrc": "audio/ときめきポポロン♪ - 水瀬いのり&徳井青空&村川梨衣.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "001heZ9Z1geuWP",
+    "name": "にめんせい☆ウラオモテライフ!",
+    "singer": "田中あいみ",
+    "album": "にめんせい☆ウラオモテライフ!",
+    "source": "qq",
+    "link_url": "audio/にめんせい☆ウラオモテライフ! - 田中あいみ.mp3",
+    "link_lrc": "audio/にめんせい☆ウラオモテライフ! - 田中あいみ.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "0021oeH225cDc1",
+    "name": "ノーポイッ!",
+    "singer": "Petit Rabbit’s",
+    "album": "ノーポイッ!",
+    "source": "qq",
+    "link_url": "audio/ノーポイッ! - Petit Rabbit’s.mp3",
+    "link_lrc": "audio/ノーポイッ! - Petit Rabbit’s.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "003oHXDw3dlDS4",
+    "name": "ビンクスの酒",
+    "singer": "麦わらの一味",
+    "album": "ONE PIECE ワンピース ビンクスの酒",
+    "source": "qq",
+    "link_url": "audio/ビンクスの酒 - 麦わらの一味.mp3",
+    "link_lrc": "audio/ビンクスの酒 - 麦わらの一味.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "001OlkHy0rGWZn",
+    "name": "ふ・れ・ん・ど・し・た・い",
+    "singer": "水瀬いのり&小澤亜李&M・A・O&高橋李依",
+    "album": "ふ･れ･ん･ど･し･た･い",
+    "source": "qq",
+    "link_url": "audio/ふ・れ・ん・ど・し・た・い - 水瀬いのり&小澤亜李&M・A・O&高橋李依.mp3",
+    "link_lrc": "audio/ふ・れ・ん・ど・し・た・い - 水瀬いのり&小澤亜李&M・A・O&高橋李依.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "002ucgWj0ST9Lm",
+    "name": "プレパレード",
+    "singer": "釘宮理恵&堀江由衣&喜多村英梨",
+    "album": "プレパレード",
+    "source": "qq",
+    "link_url": "audio/プレパレード - 釘宮理恵&堀江由衣&喜多村英梨.mp3",
+    "link_lrc": "audio/プレパレード - 釘宮理恵&堀江由衣&喜多村英梨.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "002AZXAW3kw54Z",
+    "name": "ユキトキ",
+    "singer": "やなぎなぎ",
+    "album": "ユキトキ TVアニメ「やはり俺の青春ラブコメはまちがっている。」オープニングテーマ",
+    "source": "qq",
+    "link_url": "audio/ユキトキ - やなぎなぎ.mp3",
+    "link_lrc": "audio/ユキトキ - やなぎなぎ.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "002fLOp82p7rgW",
+    "name": "爱",
+    "singer": "小虎队",
+    "album": "爱",
+    "source": "qq",
+    "link_url": "audio/爱 - 小虎队.mp3",
+    "link_lrc": "audio/爱 - 小虎队.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "002F6U1A3zcCen",
+    "name": "爱情专属权",
+    "singer": "龙梅子&老猫",
+    "album": "龙梅子 EP",
+    "source": "qq",
+    "link_url": "audio/爱情专属权 - 龙梅子&老猫.mp3",
+    "link_lrc": "audio/爱情专属权 - 龙梅子&老猫.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "000amRvH3wxv56",
+    "name": "安静",
+    "singer": "周杰伦",
+    "album": "范特西",
+    "source": "qq",
+    "link_url": "audio/安静 - 周杰伦.mp3",
+    "link_lrc": "audio/安静 - 周杰伦.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "001ar7551jFB4G",
+    "name": "春雨里洗过的太阳",
+    "singer": "王力宏",
+    "album": "心·跳",
+    "source": "qq",
+    "link_url": "audio/春雨里洗过的太阳 - 王力宏.mp3",
+    "link_lrc": "audio/春雨里洗过的太阳 - 王力宏.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "001cRzg92kUdjH",
+    "name": "等爱的玫瑰",
+    "singer": "凤凰传奇",
+    "album": "吉祥如意",
+    "source": "qq",
+    "link_url": "audio/等爱的玫瑰 - 凤凰传奇.mp3",
+    "link_lrc": "audio/等爱的玫瑰 - 凤凰传奇.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "0003mXKU3KZ34F",
+    "name": "粉红色的回忆",
+    "singer": "韩宝仪",
+    "album": "粉红色的回忆",
+    "source": "qq",
+    "link_url": "audio/粉红色的回忆 - 韩宝仪.mp3",
+    "link_lrc": "audio/粉红色的回忆 - 韩宝仪.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "003yRR903jJ62C",
+    "name": "离别的车站",
+    "singer": "卓依婷",
+    "album": "蜕变5·流星雨",
+    "source": "qq",
+    "link_url": "audio/离别的车站 - 卓依婷.mp3",
+    "link_lrc": "audio/离别的车站 - 卓依婷.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "0029FoMK0FGI6v",
+    "name": "财神来到我家门",
+    "singer": "卓依婷",
+    "album": "恭喜发财",
+    "source": "qq",
+    "link_url": "audio/财神来到我家门 - 卓依婷.mp3",
+    "link_lrc": "audio/财神来到我家门 - 卓依婷.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "003NjcAU08W579",
+    "name": "恭喜发财",
+    "singer": "卓依婷",
+    "album": "恭喜发财",
+    "source": "qq",
+    "link_url": "audio/恭喜发财 - 卓依婷.mp3",
+    "link_lrc": "audio/恭喜发财 - 卓依婷.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "004VIfVj1n1Z2z",
+    "name": "潮湿的心",
+    "singer": "卓依婷",
+    "album": "蜕变1少女的心情故事",
+    "source": "qq",
+    "link_url": "audio/潮湿的心 - 卓依婷.mp3",
+    "link_lrc": "audio/潮湿的心 - 卓依婷.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "002WnMIl2HlHnI",
+    "name": "蜗牛与黄鹂鸟",
+    "singer": "卓依婷",
+    "album": "校园青春乐",
+    "source": "qq",
+    "link_url": "audio/蜗牛与黄鹂鸟 - 卓依婷.mp3",
+    "link_lrc": "audio/蜗牛与黄鹂鸟 - 卓依婷.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "000kwgjr0ANOBj",
+    "name": "萍聚",
+    "singer": "卓依婷",
+    "album": "蜕变1少女的心情故事",
+    "source": "qq",
+    "link_url": "audio/萍聚 - 卓依婷.mp3",
+    "link_lrc": "audio/萍聚 - 卓依婷.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "001BnjK50RhtDJ",
+    "name": "捉泥鳅",
+    "singer": "卓依婷",
+    "album": "校园青春乐",
+    "source": "qq",
+    "link_url": "audio/捉泥鳅 - 卓依婷.mp3",
+    "link_lrc": "audio/捉泥鳅 - 卓依婷.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "002TUBbZ4dYMyq",
+    "name": "童年",
+    "singer": "卓依婷",
+    "album": "校园青春乐",
+    "source": "qq",
+    "link_url": "audio/童年 - 卓依婷.mp3",
+    "link_lrc": "audio/童年 - 卓依婷.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "003iELgu4SzlKO",
+    "name": "无·果",
+    "singer": "严艺丹",
+    "album": "无·果",
+    "source": "qq",
+    "link_url": "audio/无·果 - 严艺丹.mp3",
+    "link_lrc": "audio/无·果 - 严艺丹.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "0015ypUN1zgXSC",
+    "name": "你还欠我一个拥抱",
+    "singer": "后弦&SARA",
+    "album": "很有爱",
+    "source": "qq",
+    "link_url": "audio/你还欠我一个拥抱 - 后弦&SARA.mp3",
+    "link_lrc": "audio/你还欠我一个拥抱 - 后弦&SARA.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "002vghem1otEWQ",
+    "name": "如果这就是爱情",
+    "singer": "张靓颖",
+    "album": "我相信",
+    "source": "qq",
+    "link_url": "audio/如果这就是爱情 - 张靓颖.mp3",
+    "link_lrc": "audio/如果这就是爱情 - 张靓颖.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "001YwzJ62l1Q3X",
+    "name": "常盤台中学校",
+    "singer": "井内舞子",
+    "album": "「とある科学の超電磁砲」ORIGINAL SOUND TRACK 1",
+    "source": "qq",
+    "link_url": "audio/常盤台中学校 - 井内舞子.mp3",
+    "link_lrc": "audio/常盤台中学校 - 井内舞子.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "003uEbEr0jcW7c",
+    "name": "东风破",
+    "singer": "周杰伦",
+    "album": "叶惠美",
+    "source": "qq",
+    "link_url": "audio/东风破 - 周杰伦.mp3",
+    "link_lrc": "audio/东风破 - 周杰伦.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "003BiKB44LknC0",
+    "name": "听爸爸的话",
+    "singer": "周杰伦",
+    "album": "哎呦，不错哦",
+    "source": "qq",
+    "link_url": "audio/听爸爸的话 - 周杰伦.mp3",
+    "link_lrc": "audio/听爸爸的话 - 周杰伦.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "002MVjb31ZNK5m",
+    "name": "床边故事",
+    "singer": "周杰伦",
+    "album": "周杰伦的床边故事",
+    "source": "qq",
+    "link_url": "audio/床边故事 - 周杰伦.mp3",
+    "link_lrc": "audio/床边故事 - 周杰伦.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "001beoYX0K09xu",
+    "name": "乌克丽丽",
+    "singer": "周杰伦",
+    "album": "十二新作",
+    "source": "qq",
+    "link_url": "audio/乌克丽丽 - 周杰伦.mp3",
+    "link_lrc": "audio/乌克丽丽 - 周杰伦.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "000sxzol11raSd",
+    "name": "不该 (with aMEI)",
+    "singer": "周杰伦",
+    "album": "周杰伦的床边故事",
+    "source": "qq",
+    "link_url": "audio/不该 (with aMEI) - 周杰伦.mp3",
+    "link_lrc": "audio/不该 (with aMEI) - 周杰伦.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "003OUlho2HcRHC",
+    "name": "告白气球",
+    "singer": "周杰伦",
+    "album": "周杰伦的床边故事",
+    "source": "qq",
+    "link_url": "audio/告白气球 - 周杰伦.mp3",
+    "link_lrc": "audio/告白气球 - 周杰伦.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "003uYI3j4EDf5q",
+    "name": "土耳其冰淇淋",
+    "singer": "周杰伦",
+    "album": "周杰伦的床边故事",
+    "source": "qq",
+    "link_url": "audio/土耳其冰淇淋 - 周杰伦.mp3",
+    "link_lrc": "audio/土耳其冰淇淋 - 周杰伦.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "000oi3FX0P0F7H",
+    "name": "爸爸妈妈",
+    "singer": "王蓉",
+    "album": "多爱",
+    "source": "qq",
+    "link_url": "audio/爸爸妈妈 - 王蓉.mp3",
+    "link_lrc": "audio/爸爸妈妈 - 王蓉.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "003lQEcy4Ng0wQ",
+    "name": "一直很安静",
+    "singer": "阿桑",
+    "album": "寂寞在唱歌",
+    "source": "qq",
+    "link_url": "audio/一直很安静 - 阿桑.mp3",
+    "link_lrc": "audio/一直很安静 - 阿桑.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "002ReDzj13wRz0",
+    "name": "小小",
+    "singer": "容祖儿",
+    "album": "小小",
+    "source": "qq",
+    "link_url": "audio/小小 - 容祖儿.mp3",
+    "link_lrc": "audio/小小 - 容祖儿.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "004ND60i0f49Tf",
+    "name": "六月的雨",
+    "singer": "胡歌",
+    "album": "仙剑奇侠传 电视剧原声带",
+    "source": "qq",
+    "link_url": "audio/六月的雨 - 胡歌.mp3",
+    "link_lrc": "audio/六月的雨 - 胡歌.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "003x0p2q3vib3P",
+    "name": "逍遥叹",
+    "singer": "胡歌",
+    "album": "仙剑奇侠传 电视剧原声带",
+    "source": "qq",
+    "link_url": "audio/逍遥叹 - 胡歌.mp3",
+    "link_lrc": "audio/逍遥叹 - 胡歌.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "002HeqcH2GMiOL",
+    "name": "霍元甲",
+    "singer": "周杰伦",
+    "album": "霍元甲",
+    "source": "qq",
+    "link_url": "audio/霍元甲 - 周杰伦.mp3",
+    "link_lrc": "audio/霍元甲 - 周杰伦.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "001EVWKR2Eg0JP",
+    "name": "情深深雨濛濛",
+    "singer": "赵薇",
+    "album": "情深深雨濛濛音乐全记录",
+    "source": "qq",
+    "link_url": "audio/情深深雨濛濛 - 赵薇.mp3",
+    "link_lrc": "audio/情深深雨濛濛 - 赵薇.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "002OWHiI2iyz5o",
+    "name": "自从有了你",
+    "singer": "赵薇",
+    "album": "还珠格格音乐全记录",
+    "source": "qq",
+    "link_url": "audio/自从有了你 - 赵薇.mp3",
+    "link_lrc": "audio/自从有了你 - 赵薇.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "002XfkPO4H5RC3",
+    "name": "雨花石",
+    "singer": "李玉刚&石头",
+    "album": "雨花石",
+    "source": "qq",
+    "link_url": "audio/雨花石 - 李玉刚&石头.mp3",
+    "link_lrc": "audio/雨花石 - 李玉刚&石头.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "001A8z8h1Z6mYi",
+    "name": "新鸳鸯蝴蝶梦",
+    "singer": "董真",
+    "album": "返璞归贞",
+    "source": "qq",
+    "link_url": "audio/新鸳鸯蝴蝶梦 - 董真.mp3",
+    "link_lrc": "audio/新鸳鸯蝴蝶梦 - 董真.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "002PeWYw3Zx2sK",
+    "name": "幸福恋人",
+    "singer": "郑源&沈丹丹",
+    "album": "源情歌",
+    "source": "qq",
+    "link_url": "audio/幸福恋人 - 郑源&沈丹丹.mp3",
+    "link_lrc": "audio/幸福恋人 - 郑源&沈丹丹.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "001t1qJd0DaKOs",
+    "name": "欧若拉",
+    "singer": "张韶涵",
+    "album": "欧若拉",
+    "source": "qq",
+    "link_url": "audio/欧若拉 - 张韶涵.mp3",
+    "link_lrc": "audio/欧若拉 - 张韶涵.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "0035HZOh1kKrSB",
+    "name": "因为爱所以爱",
+    "singer": "谢霆锋",
+    "album": "了解",
+    "source": "qq",
+    "link_url": "audio/因为爱所以爱 - 谢霆锋.mp3",
+    "link_lrc": "audio/因为爱所以爱 - 谢霆锋.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "000ChWrR0SURMX",
+    "name": "谢谢你的爱1999",
+    "singer": "谢霆锋",
+    "album": "谢谢你的爱1999",
+    "source": "qq",
+    "link_url": "audio/谢谢你的爱1999 - 谢霆锋.mp3",
+    "link_lrc": "audio/谢谢你的爱1999 - 谢霆锋.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "002h62C40NbkWI",
+    "name": "改变自己",
+    "singer": "王力宏",
+    "album": "改变自己",
+    "source": "qq",
+    "link_url": "audio/改变自己 - 王力宏.mp3",
+    "link_lrc": "audio/改变自己 - 王力宏.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "002i2qSl3sIYfC",
+    "name": "山丹丹花开红艳艳",
+    "singer": "阿宝",
+    "album": "阿宝单曲集",
+    "source": "qq",
+    "link_url": "audio/山丹丹花开红艳艳 - 阿宝.mp3",
+    "link_lrc": "audio/山丹丹花开红艳艳 - 阿宝.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "0014nHTQ0CMtRm",
+    "name": "笑傲江湖",
+    "singer": "刘欢&王菲",
+    "album": "笑傲江湖央视版",
+    "source": "qq",
+    "link_url": "audio/笑傲江湖 - 刘欢&王菲.mp3",
+    "link_lrc": "audio/笑傲江湖 - 刘欢&王菲.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "000oAJGZ1FtXFt",
+    "name": "一个像夏天一个像秋天",
+    "singer": "范玮琪",
+    "album": "我们的纪念日",
+    "source": "qq",
+    "link_url": "audio/一个像夏天一个像秋天 - 范玮琪.mp3",
+    "link_lrc": "audio/一个像夏天一个像秋天 - 范玮琪.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "000zXRsS2jsGZ9",
+    "name": "情非得已",
+    "singer": "庾澄庆",
+    "album": "海啸",
+    "source": "qq",
+    "link_url": "audio/情非得已 - 庾澄庆.mp3",
+    "link_lrc": "audio/情非得已 - 庾澄庆.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "00333KqO2oqLez",
+    "name": "莫斯科没有眼泪",
+    "singer": "Twins",
+    "album": "见习爱神",
+    "source": "qq",
+    "link_url": "audio/莫斯科没有眼泪 - Twins.mp3",
+    "link_lrc": "audio/莫斯科没有眼泪 - Twins.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "0004keNm4ALABA",
+    "name": "下一站天后",
+    "singer": "蔡卓妍",
+    "album": "Touch Of Love",
+    "source": "qq",
+    "link_url": "audio/下一站天后 - 蔡卓妍.mp3",
+    "link_lrc": "audio/下一站天后 - 蔡卓妍.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "000XzRk20X0y73",
+    "name": "你爱我像谁",
+    "singer": "张卫健",
+    "album": "The Big Hits Big Four",
+    "source": "qq",
+    "link_url": "audio/你爱我像谁 - 张卫健.mp3",
+    "link_lrc": "audio/你爱我像谁 - 张卫健.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "003ziBRN4WIQuj",
+    "name": "最炫民族风",
+    "singer": "凤凰传奇",
+    "album": "最炫民族风",
+    "source": "qq",
+    "link_url": "audio/最炫民族风 - 凤凰传奇.mp3",
+    "link_lrc": "audio/最炫民族风 - 凤凰传奇.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "003W3cOz3VU0WK",
+    "name": "心痛2009",
+    "singer": "欢子",
+    "album": "其实很寂寞",
+    "source": "qq",
+    "link_url": "audio/心痛2009 - 欢子.mp3",
+    "link_lrc": "audio/心痛2009 - 欢子.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "003cPQnc2bsYcB",
+    "name": "伤不起",
+    "singer": "王麟&老猫",
+    "album": "咪咕咪咕",
+    "source": "qq",
+    "link_url": "audio/伤不起 - 王麟&老猫.mp3",
+    "link_lrc": "audio/伤不起 - 王麟&老猫.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "004ZX0AQ49Bc8Y",
+    "name": "隐形的翅膀",
+    "singer": "张韶涵",
+    "album": "潘朵拉",
+    "source": "qq",
+    "link_url": "audio/隐形的翅膀 - 张韶涵.mp3",
+    "link_lrc": "audio/隐形的翅膀 - 张韶涵.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "004Z8Ihr0JIu5s",
+    "name": "七里香",
+    "singer": "周杰伦",
+    "album": "七里香",
+    "source": "qq",
+    "link_url": "audio/七里香 - 周杰伦.mp3",
+    "link_lrc": "audio/七里香 - 周杰伦.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "001zMQr71F1Qo8",
+    "name": "夜曲",
+    "singer": "周杰伦",
+    "album": "十一月的萧邦",
+    "source": "qq",
+    "link_url": "audio/夜曲 - 周杰伦.mp3",
+    "link_lrc": "audio/夜曲 - 周杰伦.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "002qU5aY3Qu24y",
+    "name": "青花瓷",
+    "singer": "周杰伦",
+    "album": "我很忙",
+    "source": "qq",
+    "link_url": "audio/青花瓷 - 周杰伦.mp3",
+    "link_lrc": "audio/青花瓷 - 周杰伦.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "003BM7re120wtL",
+    "name": "花田错",
+    "singer": "王力宏",
+    "album": "盖世英雄",
+    "source": "qq",
+    "link_url": "audio/花田错 - 王力宏.mp3",
+    "link_lrc": "audio/花田错 - 王力宏.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "004bRWFg3fej9y",
+    "name": "彩虹",
+    "singer": "周杰伦",
+    "album": "我很忙",
+    "source": "qq",
+    "link_url": "audio/彩虹 - 周杰伦.mp3",
+    "link_lrc": "audio/彩虹 - 周杰伦.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "0048nR37350IUZ",
+    "name": "我们的纪念",
+    "singer": "李雅微",
+    "album": "我们的纪念",
+    "source": "qq",
+    "link_url": "audio/我们的纪念 - 李雅微.mp3",
+    "link_lrc": "audio/我们的纪念 - 李雅微.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "004S6lsG3uompS",
+    "name": "前前前世",
+    "singer": "RADWIMPS",
+    "album": "君の名は。",
+    "source": "qq",
+    "link_url": "audio/前前前世 - RADWIMPS.mp3",
+    "link_lrc": "audio/前前前世 - RADWIMPS.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "003bh3Wx3gGPn5",
+    "name": "痒",
+    "singer": "黄龄",
+    "album": "痒",
+    "source": "qq",
+    "link_url": "audio/痒 - 黄龄.mp3",
+    "link_lrc": "audio/痒 - 黄龄.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "003aViTL0Jvf4S",
+    "name": "到不了",
+    "singer": "范玮琪",
+    "album": "范范的世界",
+    "source": "qq",
+    "link_url": "audio/到不了 - 范玮琪.mp3",
+    "link_lrc": "audio/到不了 - 范玮琪.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "003FRy0r0wyGHl",
+    "name": "千里之外",
+    "singer": "周杰伦&费玉清",
+    "album": "依然范特西",
+    "source": "qq",
+    "link_url": "audio/千里之外 - 周杰伦&费玉清.mp3",
+    "link_lrc": "audio/千里之外 - 周杰伦&费玉清.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "0009BCJK1nRaad",
+    "name": "简单爱",
+    "singer": "周杰伦",
+    "album": "范特西",
+    "source": "qq",
+    "link_url": "audio/简单爱 - 周杰伦.mp3",
+    "link_lrc": "audio/简单爱 - 周杰伦.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "002YWMiQ2rB62Q",
+    "name": "突然的自我",
+    "singer": "伍佰&China Blue",
+    "album": "忘情1015精选辑",
+    "source": "qq",
+    "link_url": "audio/突然的自我 - 伍佰&China Blue.mp3",
+    "link_lrc": "audio/突然的自我 - 伍佰&China Blue.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "003Zl6mC43Y3Yj",
+    "name": "怒放的生命",
+    "singer": "汪峰",
+    "album": "怒放的生命",
+    "source": "qq",
+    "link_url": "audio/怒放的生命 - 汪峰.mp3",
+    "link_lrc": "audio/怒放的生命 - 汪峰.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "002JvBzg0HojOW",
+    "name": "黄种人",
+    "singer": "谢霆锋",
+    "album": "黄·锋",
+    "source": "qq",
+    "link_url": "audio/黄种人 - 谢霆锋.mp3",
+    "link_lrc": "audio/黄种人 - 谢霆锋.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "002jy48F0CQGwZ",
+    "name": "黄种人",
+    "singer": "张杰",
+    "album": "空",
+    "source": "qq",
+    "link_url": "audio/黄种人 - 张杰.mp3",
+    "link_lrc": "audio/黄种人 - 张杰.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "00452C0g2pzd2f",
+    "name": "从头再来",
+    "singer": "刘欢",
+    "album": "爱我黄河",
+    "source": "qq",
+    "link_url": "audio/从头再来 - 刘欢.mp3",
+    "link_lrc": "audio/从头再来 - 刘欢.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "0022dX4Z4TnpNr",
+    "name": "你懂得",
+    "singer": "小沈阳&沈春阳",
+    "album": "后厨 电视剧原声带",
+    "source": "qq",
+    "link_url": "audio/你懂得 - 小沈阳&沈春阳.mp3",
+    "link_lrc": "audio/你懂得 - 小沈阳&沈春阳.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "002IYcXz2Tfzur",
+    "name": "卜卦",
+    "singer": "崔子格",
+    "album": "老婆最大",
+    "source": "qq",
+    "link_url": "audio/卜卦 - 崔子格.mp3",
+    "link_lrc": "audio/卜卦 - 崔子格.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "0010pO163d2ozK",
+    "name": "心中的日月",
+    "singer": "王力宏",
+    "album": "心中的日月",
+    "source": "qq",
+    "link_url": "audio/心中的日月 - 王力宏.mp3",
+    "link_lrc": "audio/心中的日月 - 王力宏.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "002mO5DL3sotYW",
+    "name": "遗失的美好",
+    "singer": "张韶涵",
+    "album": "Over The Rainbow",
+    "source": "qq",
+    "link_url": "audio/遗失的美好 - 张韶涵.mp3",
+    "link_lrc": "audio/遗失的美好 - 张韶涵.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "004Mn2d70GRyfZ",
+    "name": "你是风儿我是沙",
+    "singer": "周杰&林心如",
+    "album": "还珠格格音乐全记录",
+    "source": "qq",
+    "link_url": "audio/你是风儿我是沙 - 周杰&林心如.mp3",
+    "link_lrc": "audio/你是风儿我是沙 - 周杰&林心如.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "000bBblC2atL9W",
+    "name": "哭了",
+    "singer": "范晓萱",
+    "album": "我要我们的",
+    "source": "qq",
+    "link_url": "audio/哭了 - 范晓萱.mp3",
+    "link_lrc": "audio/哭了 - 范晓萱.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "003xv4w313tZHV",
+    "name": "红尘客栈",
+    "singer": "周杰伦",
+    "album": "十二新作",
+    "source": "qq",
+    "link_url": "audio/红尘客栈 - 周杰伦.mp3",
+    "link_lrc": "audio/红尘客栈 - 周杰伦.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "003IjD3G3xCgJv",
+    "name": "西海情歌",
+    "singer": "刀郎",
+    "album": "刀郎Ⅲ",
+    "source": "qq",
+    "link_url": "audio/西海情歌 - 刀郎.mp3",
+    "link_lrc": "audio/西海情歌 - 刀郎.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "000lhlAi3bMmTa",
+    "name": "極楽浄土",
+    "singer": "GARNiDELiA",
+    "album": "約束 -Promise code-",
+    "source": "qq",
+    "link_url": "audio/極楽浄土 - GARNiDELiA.mp3",
+    "link_lrc": "audio/極楽浄土 - GARNiDELiA.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "003BaeCP16N0IM",
+    "name": "知道不知道",
+    "singer": "刘若英",
+    "album": "Rene",
+    "source": "qq",
+    "link_url": "audio/知道不知道 - 刘若英.mp3",
+    "link_lrc": "audio/知道不知道 - 刘若英.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "327736",
+    "name": "梁山伯与茱丽叶",
+    "singer": "卓文萱&曹格",
+    "album": "习惯",
+    "source": "wy",
+    "link_url": "audio/梁山伯与茱丽叶 - 卓文萱&曹格.mp3",
+    "link_lrc": "audio/梁山伯与茱丽叶 - 卓文萱&曹格.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "0038S1Bp1wtDLb",
+    "name": "梦醒时分",
+    "singer": "卓依婷",
+    "album": "款款柔情甜歌辑(1)",
+    "source": "qq",
+    "link_url": "audio/梦醒时分 - 卓依婷.mp3",
+    "link_lrc": "audio/梦醒时分 - 卓依婷.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "004QZEeQ1e4iGo",
+    "name": "离别的车站",
+    "singer": "赵薇",
+    "album": "情深深雨濛濛音乐全记录",
+    "source": "qq",
+    "link_url": "audio/离别的车站 - 赵薇.mp3",
+    "link_lrc": "audio/离别的车站 - 赵薇.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "003Unauj31quJ0",
+    "name": "轻轻的告诉你",
+    "singer": "杨钰莹",
+    "album": "月亮船",
+    "source": "qq",
+    "link_url": "audio/轻轻的告诉你 - 杨钰莹.mp3",
+    "link_lrc": "audio/轻轻的告诉你 - 杨钰莹.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "002hXDfk0LX9KO",
+    "name": "听妈妈的话",
+    "singer": "周杰伦",
+    "album": "依然范特西",
+    "source": "qq",
+    "link_url": "audio/听妈妈的话 - 周杰伦.mp3",
+    "link_lrc": "audio/听妈妈的话 - 周杰伦.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "001T3JAT15palI",
+    "name": "我不配",
+    "singer": "周杰伦",
+    "album": "我很忙",
+    "source": "qq",
+    "link_url": "audio/我不配 - 周杰伦.mp3",
+    "link_lrc": "audio/我不配 - 周杰伦.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "004BhQke4adHcf",
+    "name": "给我一首歌的时间",
+    "singer": "周杰伦",
+    "album": "魔杰座",
+    "source": "qq",
+    "link_url": "audio/给我一首歌的时间 - 周杰伦.mp3",
+    "link_lrc": "audio/给我一首歌的时间 - 周杰伦.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "001Js78a40BZU6",
+    "name": "算什么男人",
+    "singer": "周杰伦",
+    "album": "哎呦，不错哦",
+    "source": "qq",
+    "link_url": "audio/算什么男人 - 周杰伦.mp3",
+    "link_lrc": "audio/算什么男人 - 周杰伦.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "0042QMDR1VzSsx",
+    "name": "说好的幸福呢",
+    "singer": "周杰伦",
+    "album": "魔杰座",
+    "source": "qq",
+    "link_url": "audio/说好的幸福呢 - 周杰伦.mp3",
+    "link_lrc": "audio/说好的幸福呢 - 周杰伦.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "003rxgIM2eOFSF",
+    "name": "回到过去",
+    "singer": "周杰伦",
+    "album": "八度空间",
+    "source": "qq",
+    "link_url": "audio/回到过去 - 周杰伦.mp3",
+    "link_lrc": "audio/回到过去 - 周杰伦.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "0003uJR12qwVVV",
+    "name": "我不想说",
+    "singer": "杨钰莹",
+    "album": "SK杨钰莹",
+    "source": "qq",
+    "link_url": "audio/我不想说 - 杨钰莹.mp3",
+    "link_lrc": "audio/我不想说 - 杨钰莹.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "608669",
+    "name": "TORCH",
+    "singer": "Lia",
+    "album": "時を刻む唄/TORCH",
+    "source": "wy",
+    "link_url": "audio/TORCH - Lia.mp3",
+    "link_lrc": "audio/TORCH - Lia.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "210042",
+    "name": "说爱你",
+    "singer": "蔡依林",
+    "album": "看我72变",
+    "source": "wy",
+    "link_url": "audio/说爱你 - 蔡依林.mp3",
+    "link_lrc": "audio/说爱你 - 蔡依林.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "404543842",
+    "name": "さようならへさよなら!",
+    "singer": "μ's",
+    "album": "MOMENT RING",
+    "source": "wy",
+    "link_url": "audio/さようならへさよなら! - μ's.mp3",
+    "link_lrc": "audio/さようならへさよなら! - μ's.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "287749",
+    "name": "天黑黑",
+    "singer": "孙燕姿",
+    "album": "yanzi 同名专辑",
+    "source": "wy",
+    "link_url": "audio/天黑黑 - 孙燕姿.mp3",
+    "link_lrc": "audio/天黑黑 - 孙燕姿.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "201449",
+    "name": "威风时刻",
+    "singer": "孙耀威",
+    "album": "怀玉公主 主题曲全记录",
+    "source": "wy",
+    "link_url": "audio/威风时刻 - 孙耀威.mp3",
+    "link_lrc": "audio/威风时刻 - 孙耀威.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "31010566",
+    "name": "Sold Out",
+    "singer": "Hawk Nelson",
+    "album": "Diamonds",
+    "source": "wy",
+    "link_url": "audio/Sold Out - Hawk Nelson.mp3",
+    "link_lrc": "audio/Sold Out - Hawk Nelson.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "29764215",
+    "name": "キラリ☆ONE WAY LOVE",
+    "singer": "雨宮天",
+    "album": "キラリ☆ONE WAY LOVE",
+    "source": "wy",
+    "link_url": "audio/キラリ☆ONE WAY LOVE - 雨宮天.mp3",
+    "link_lrc": "audio/キラリ☆ONE WAY LOVE - 雨宮天.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "1368323551",
+    "name": "異世界ガールズ・トーク",
+    "singer": "原由実&雨宮天&高橋李依&悠木碧",
+    "album": "異世界かるてっと/異世界ガールズ・トーク",
+    "source": "wy",
+    "link_url": "audio/異世界ガールズ・トーク - 原由実&雨宮天&高橋李依&悠木碧.mp3",
+    "link_lrc": "audio/異世界ガールズ・トーク - 原由実&雨宮天&高橋李依&悠木碧.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "28936241",
+    "name": "Skyreach",
+    "singer": "雨宮天",
+    "album": "Skyreach",
+    "source": "wy",
+    "link_url": "audio/Skyreach - 雨宮天.mp3",
+    "link_lrc": "audio/Skyreach - 雨宮天.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "28838179",
+    "name": "ずるいよMagnetic today",
+    "singer": "徳井青空&Pile",
+    "album": "ずるいよMagnetic today",
+    "source": "wy",
+    "link_url": "audio/ずるいよMagnetic today - 徳井青空&Pile.mp3",
+    "link_lrc": "audio/ずるいよMagnetic today - 徳井青空&Pile.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "572099717",
+    "name": "Dear My Friend",
+    "singer": "MACO&鷲尾伶菜",
+    "album": "BEST LOVE MACO",
+    "source": "wy",
+    "link_url": "audio/Dear My Friend - MACO&鷲尾伶菜.mp3",
+    "link_lrc": "audio/Dear My Friend - MACO&鷲尾伶菜.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "186596",
+    "name": "神话.情话",
+    "singer": "周华健&齐豫",
+    "album": "周华健 & Friends",
+    "source": "wy",
+    "link_url": "audio/神话.情话 - 周华健&齐豫.mp3",
+    "link_lrc": "audio/神话.情话 - 周华健&齐豫.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "41645488",
+    "name": "ちいさな冒険者",
+    "singer": "雨宮天&高橋李依&茅野愛衣",
+    "album": "ちいさな冒険者",
+    "source": "wy",
+    "link_url": "audio/ちいさな冒険者 - 雨宮天&高橋李依&茅野愛衣.mp3",
+    "link_lrc": "audio/ちいさな冒険者 - 雨宮天&高橋李依&茅野愛衣.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "456175210",
+    "name": "おうちに帰りたい",
+    "singer": "雨宮天&高橋李依&茅野愛衣",
+    "album": "おうちに帰りたい",
+    "source": "wy",
+    "link_url": "audio/おうちに帰りたい - 雨宮天&高橋李依&茅野愛衣.mp3",
+    "link_lrc": "audio/おうちに帰りたい - 雨宮天&高橋李依&茅野愛衣.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "456185191",
+    "name": "TOMORROW",
+    "singer": "Machico",
+    "album": "TOMORROW",
+    "source": "wy",
+    "link_url": "audio/TOMORROW - Machico.mp3",
+    "link_lrc": "audio/TOMORROW - Machico.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "229010",
+    "name": "我只在乎你",
+    "singer": "邓丽君",
+    "album": "我只在乎你",
+    "source": "wy",
+    "link_url": "audio/我只在乎你 - 邓丽君.mp3",
+    "link_lrc": "audio/我只在乎你 - 邓丽君.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "66282",
+    "name": "浮夸",
+    "singer": "陈奕迅",
+    "album": "U-87",
+    "source": "wy",
+    "link_url": "audio/浮夸 - 陈奕迅.mp3",
+    "link_lrc": "audio/浮夸 - 陈奕迅.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "29774412",
+    "name": "海浪",
+    "singer": "陈绮贞",
+    "album": "偶然与巧合",
+    "source": "wy",
+    "link_url": "audio/海浪 - 陈绮贞.mp3",
+    "link_lrc": "audio/unknow.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "5256956",
+    "name": "放生",
+    "singer": "范逸臣",
+    "album": "再爱一次",
+    "source": "wy",
+    "link_url": "audio/放生 - 范逸臣.mp3",
+    "link_lrc": "audio/放生 - 范逸臣.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "29418363",
+    "name": "Skin Tight",
+    "singer": "Niykee Heaton",
+    "album": "Bad Intentions",
+    "source": "wy",
+    "link_url": "audio/Skin Tight - Niykee Heaton.mp3",
+    "link_lrc": "audio/Skin Tight - Niykee Heaton.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "16607998",
+    "name": "The Show",
+    "singer": "Lenka",
+    "album": "The Show",
+    "source": "wy",
+    "link_url": "audio/The Show - Lenka.mp3",
+    "link_lrc": "audio/The Show - Lenka.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "5249197",
+    "name": "叶子",
+    "singer": "阿桑",
+    "album": "我们的主打歌 3",
+    "source": "wy",
+    "link_url": "audio/叶子 - 阿桑.mp3",
+    "link_lrc": "audio/叶子 - 阿桑.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "25729605",
+    "name": "多情种",
+    "singer": "胡杨林",
+    "album": "你为何对我这么好",
+    "source": "wy",
+    "link_url": "audio/多情种 - 胡杨林.mp3",
+    "link_lrc": "audio/多情种 - 胡杨林.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "305475",
+    "name": "对花",
+    "singer": "吴琼",
+    "album": "仙女",
+    "source": "wy",
+    "link_url": "audio/对花 - 吴琼.mp3",
+    "link_lrc": "audio/对花 - 吴琼.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "28219141",
+    "name": "英雄谁属",
+    "singer": "卞留念",
+    "album": "热门华语202",
+    "source": "wy",
+    "link_url": "audio/英雄谁属 - 卞留念.mp3",
+    "link_lrc": "audio/英雄谁属 - 卞留念.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "276152",
+    "name": "用心良苦",
+    "singer": "梅艳芳",
+    "album": "永远的…梅艳芳",
+    "source": "wy",
+    "link_url": "audio/用心良苦 - 梅艳芳.mp3",
+    "link_lrc": "audio/用心良苦 - 梅艳芳.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "22650967",
+    "name": "GLORIA",
+    "singer": "YUI",
+    "album": "HOLIDAYS IN THE SUN",
+    "source": "wy",
+    "link_url": "audio/GLORIA - YUI.mp3",
+    "link_lrc": "audio/GLORIA - YUI.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "27876224",
+    "name": "God knows...",
+    "singer": "平野綾",
+    "album": "TVアニメ『涼宮ハルヒの憂鬱』 Imaginary ENOZ featuring HARUHI",
+    "source": "wy",
+    "link_url": "audio/God knows... - 平野綾.mp3",
+    "link_lrc": "audio/God knows... - 平野綾.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "368935",
+    "name": "牡丹江",
+    "singer": "南拳妈妈",
+    "album": "2号餐",
+    "source": "wy",
+    "link_url": "audio/牡丹江 - 南拳妈妈.mp3",
+    "link_lrc": "audio/牡丹江 - 南拳妈妈.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "299757",
+    "name": "红豆",
+    "singer": "王菲",
+    "album": "Eyes On Me",
+    "source": "wy",
+    "link_url": "audio/红豆 - 王菲.mp3",
+    "link_lrc": "audio/红豆 - 王菲.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "108468",
+    "name": "小酒窝",
+    "singer": "林俊杰&蔡卓妍",
+    "album": "JJ陆",
+    "source": "wy",
+    "link_url": "audio/小酒窝 - 林俊杰&蔡卓妍.mp3",
+    "link_lrc": "audio/小酒窝 - 林俊杰&蔡卓妍.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "307684",
+    "name": "最熟悉的陌生人",
+    "singer": "萧亚轩",
+    "album": "萧亚轩",
+    "source": "wy",
+    "link_url": "audio/最熟悉的陌生人 - 萧亚轩.mp3",
+    "link_lrc": "audio/最熟悉的陌生人 - 萧亚轩.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "187374",
+    "name": "我",
+    "singer": "张国荣",
+    "album": "大热",
+    "source": "wy",
+    "link_url": "audio/我 - 张国荣.mp3",
+    "link_lrc": "audio/我 - 张国荣.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "27713963",
+    "name": "好心分手",
+    "singer": "卢巧音&王力宏",
+    "album": "不能不爱…卢巧音精选",
+    "source": "wy",
+    "link_url": "audio/好心分手 - 卢巧音&王力宏.mp3",
+    "link_lrc": "audio/好心分手 - 卢巧音&王力宏.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "223873",
+    "name": "辛德瑞拉",
+    "singer": "戴佩妮",
+    "album": "So Penny",
+    "source": "wy",
+    "link_url": "audio/辛德瑞拉 - 戴佩妮.mp3",
+    "link_lrc": "audio/辛德瑞拉 - 戴佩妮.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "189986",
+    "name": "记事本",
+    "singer": "陈慧琳",
+    "album": "音乐记事本",
+    "source": "wy",
+    "link_url": "audio/记事本 - 陈慧琳.mp3",
+    "link_lrc": "audio/记事本 - 陈慧琳.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "354593",
+    "name": "我们的爱",
+    "singer": "F.I.R.",
+    "album": "F.I.R.同名专辑",
+    "source": "wy",
+    "link_url": "audio/我们的爱 - F.I.R..mp3",
+    "link_lrc": "audio/我们的爱 - F.I.R..lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "326738",
+    "name": "宝贝 (in a day)",
+    "singer": "张悬",
+    "album": "my life will…",
+    "source": "wy",
+    "link_url": "audio/宝贝 (in a day) - 张悬.mp3",
+    "link_lrc": "audio/宝贝 (in a day) - 张悬.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "255907",
+    "name": "胆小鬼",
+    "singer": "梁咏琪",
+    "album": "梁咏琪 同名专辑",
+    "source": "wy",
+    "link_url": "audio/胆小鬼 - 梁咏琪.mp3",
+    "link_lrc": "audio/胆小鬼 - 梁咏琪.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "316275",
+    "name": "爱X无限大",
+    "singer": "元若蓝",
+    "album": "爱X无限大",
+    "source": "wy",
+    "link_url": "audio/爱X无限大 - 元若蓝.mp3",
+    "link_lrc": "audio/爱X无限大 - 元若蓝.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "209758",
+    "name": "倒带",
+    "singer": "蔡依林",
+    "album": "J-Top冠军精选",
+    "source": "wy",
+    "link_url": "audio/倒带 - 蔡依林.mp3",
+    "link_lrc": "audio/倒带 - 蔡依林.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "307677",
+    "name": "Cappuccino",
+    "singer": "萧亚轩",
+    "album": "萧亚轩",
+    "source": "wy",
+    "link_url": "audio/Cappuccino - 萧亚轩.mp3",
+    "link_lrc": "audio/Cappuccino - 萧亚轩.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "361073",
+    "name": "Say Forever",
+    "singer": "JS",
+    "album": "Say Forever",
+    "source": "wy",
+    "link_url": "audio/Say Forever - JS.mp3",
+    "link_lrc": "audio/Say Forever - JS.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "238658",
+    "name": "High歌",
+    "singer": "黄龄",
+    "album": "痒",
+    "source": "wy",
+    "link_url": "audio/High歌 - 黄龄.mp3",
+    "link_lrc": "audio/High歌 - 黄龄.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "167929",
+    "name": "你若成风",
+    "singer": "许嵩",
+    "album": "许嵩单曲集",
+    "source": "wy",
+    "link_url": "audio/你若成风 - 许嵩.mp3",
+    "link_lrc": "audio/你若成风 - 许嵩.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "300410",
+    "name": "知己知彼",
+    "singer": "王菲",
+    "album": "胡思乱想",
+    "source": "wy",
+    "link_url": "audio/知己知彼 - 王菲.mp3",
+    "link_lrc": "audio/知己知彼 - 王菲.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "343031",
+    "name": "放开",
+    "singer": "爱乐团王超",
+    "album": "放开",
+    "source": "wy",
+    "link_url": "audio/放开 - 爱乐团王超.mp3",
+    "link_lrc": "audio/放开 - 爱乐团王超.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "29829489",
+    "name": "蒼空のモノローグ",
+    "singer": "日笠陽子",
+    "album": "TVアニメ「けいおん! ! 」キャラクターイメージCDシリーズ",
+    "source": "wy",
+    "link_url": "audio/蒼空のモノローグ - 日笠陽子.mp3",
+    "link_lrc": "audio/蒼空のモノローグ - 日笠陽子.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "4876565",
+    "name": "曾经最美",
+    "singer": "朱铭捷",
+    "album": "水晶之恋 偶像剧原声带",
+    "source": "wy",
+    "link_url": "audio/曾经最美 - 朱铭捷.mp3",
+    "link_lrc": "audio/曾经最美 - 朱铭捷.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "796989",
+    "name": "コミュニケーション",
+    "singer": "Perfume",
+    "album": "Spring of Life",
+    "source": "wy",
+    "link_url": "audio/コミュニケーション - Perfume.mp3",
+    "link_lrc": "audio/コミュニケーション - Perfume.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "419596411",
+    "name": "Cynic",
+    "singer": "闇音レンリ",
+    "album": "Cynic",
+    "source": "wy",
+    "link_url": "audio/Cynic - 闇音レンリ.mp3",
+    "link_lrc": "audio/Cynic - 闇音レンリ.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "26851338",
+    "name": "Stay Here Forever",
+    "singer": "Jewel",
+    "album": "Promo Only: Country Radio, March 2010",
+    "source": "wy",
+    "link_url": "audio/Stay Here Forever - Jewel.mp3",
+    "link_lrc": "audio/Stay Here Forever - Jewel.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "25730757",
+    "name": "稳稳的幸福",
+    "singer": "陈奕迅",
+    "album": "稳稳的幸福",
+    "source": "wy",
+    "link_url": "audio/稳稳的幸福 - 陈奕迅.mp3",
+    "link_lrc": "audio/稳稳的幸福 - 陈奕迅.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "27808409",
+    "name": "database feat.TAKUMA(10-FEET)",
+    "singer": "MAN WITH A MISSION",
+    "album": "database feat.TAKUMA",
+    "source": "wy",
+    "link_url": "audio/database feat.TAKUMA(10-FEET) - MAN WITH A MISSION.mp3",
+    "link_lrc": "audio/database feat.TAKUMA(10-FEET) - MAN WITH A MISSION.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "26083430",
+    "name": "Be My Friend",
+    "singer": "隣人部",
+    "album": "Be My Friend",
+    "source": "wy",
+    "link_url": "audio/Be My Friend - 隣人部.mp3",
+    "link_lrc": "audio/Be My Friend - 隣人部.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "30854398",
+    "name": "权御天下",
+    "singer": "洛天依",
+    "album": "洛天依作品集",
+    "source": "wy",
+    "link_url": "audio/权御天下 - 洛天依.mp3",
+    "link_lrc": "audio/权御天下 - 洛天依.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "29535429",
+    "name": "釘宮がサザエさんのBGM",
+    "singer": "釘宮理恵",
+    "album": "最新热歌慢摇82",
+    "source": "wy",
+    "link_url": "audio/釘宮がサザエさんのBGM - 釘宮理恵.mp3",
+    "link_lrc": "audio/釘宮がサザエさんのBGM - 釘宮理恵.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "4932760",
+    "name": "ミニモニ.ジャンケンぴょん!",
+    "singer": "釘宮理恵",
+    "album": "キャラクターソングアルバム オトギソングス BEST10",
+    "source": "wy",
+    "link_url": "audio/ミニモニ.ジャンケンぴょん! - 釘宮理恵.mp3",
+    "link_lrc": "audio/ミニモニ.ジャンケンぴょん! - 釘宮理恵.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "29498102",
+    "name": "Binarization 2014 Ft.GUMI",
+    "singer": "H.K.君(HEROAR)",
+    "album": "Binarization 2014 Ft.GUMI",
+    "source": "wy",
+    "link_url": "audio/Binarization 2014 Ft.GUMI - H.K.君(HEROAR).mp3",
+    "link_lrc": "audio/Binarization 2014 Ft.GUMI - H.K.君(HEROAR).lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "27705003",
+    "name": "残念系隣人部★★☆ (星二つ半)",
+    "singer": "友達つくり隊",
+    "album": "僕は友達が少ない 隣人部ボーカルコレクション",
+    "source": "wy",
+    "link_url": "audio/残念系隣人部★★☆ (星二つ半) - 友達つくり隊.mp3",
+    "link_lrc": "audio/残念系隣人部★★☆ (星二つ半) - 友達つくり隊.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "34367795",
+    "name": "おかえり",
+    "singer": "小岩井ことり&村川梨衣&佐倉綾音&阿澄佳奈",
+    "album": "おかえり",
+    "source": "wy",
+    "link_url": "audio/おかえり - 小岩井ことり&村川梨衣&佐倉綾音&阿澄佳奈.mp3",
+    "link_lrc": "audio/おかえり - 小岩井ことり&村川梨衣&佐倉綾音&阿澄佳奈.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "589548",
+    "name": "GO MY WAY!!(M@STER VERSION) (伊织ソロ・リミックス) (remix)",
+    "singer": "釘宮理恵",
+    "album": "THE IDOLM@STER MASTER ARTIST 08 水瀬伊织",
+    "source": "wy",
+    "link_url": "audio/GO MY WAY!!(M@STER VERSION) (伊织ソロ・リミックス) (remix) - 釘宮理恵.mp3",
+    "link_lrc": "audio/GO MY WAY!!(M@STER VERSION) (伊织ソロ・リミックス) (remix) - 釘宮理恵.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "29107447",
+    "name": "ろりこんでよかった～",
+    "singer": "ちぃむdmp☆",
+    "album": "だめぽじゃないですでんぱですっ!!",
+    "source": "wy",
+    "link_url": "audio/ろりこんでよかった～ - ちぃむdmp☆.mp3",
+    "link_lrc": "audio/ろりこんでよかった～ - ちぃむdmp☆.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "27736275",
+    "name": "See visionS",
+    "singer": "川田まみ",
+    "album": "とある魔術の楽曲目録",
+    "source": "wy",
+    "link_url": "audio/See visionS - 川田まみ.mp3",
+    "link_lrc": "audio/unknow.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "34999023",
+    "name": "旭丘分校校歌",
+    "singer": "小岩井ことり&村川梨衣&佐倉綾音&阿澄佳奈",
+    "album": "TVアニメ のんのんびより りぴーと オリジナルサウンドトラック",
+    "source": "wy",
+    "link_url": "audio/旭丘分校校歌 - 小岩井ことり&村川梨衣&佐倉綾音&阿澄佳奈.mp3",
+    "link_lrc": "audio/旭丘分校校歌 - 小岩井ことり&村川梨衣&佐倉綾音&阿澄佳奈.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "471761735",
+    "name": "ティアドロップス ～Acoustic Ver.～",
+    "singer": "愛美",
+    "album": "TVアニメ「BanG Dream!」キャラクターソング「どきどきSING OUT!」",
+    "source": "wy",
+    "link_url": "audio/ティアドロップス ～Acoustic Ver.～ - 愛美.mp3",
+    "link_lrc": "audio/ティアドロップス ～Acoustic Ver.～ - 愛美.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "776039",
+    "name": "ONE's hope",
+    "singer": "やなぎなぎ",
+    "album": "Colorful Parade",
+    "source": "wy",
+    "link_url": "audio/ONE's hope - やなぎなぎ.mp3",
+    "link_lrc": "audio/ONE's hope - やなぎなぎ.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "27684881",
+    "name": "青い栞",
+    "singer": "Galileo Galilei",
+    "album": "サークルゲーム(期間生産限定アニメ盤)",
+    "source": "wy",
+    "link_url": "audio/青い栞 - Galileo Galilei.mp3",
+    "link_lrc": "audio/青い栞 - Galileo Galilei.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "223842",
+    "name": "往前飞",
+    "singer": "戴佩妮",
+    "album": "爱疯了",
+    "source": "wy",
+    "link_url": "audio/往前飞 - 戴佩妮.mp3",
+    "link_lrc": "audio/往前飞 - 戴佩妮.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "22804060",
+    "name": "ふわふわ時間",
+    "singer": "放課後ティータイム",
+    "album": "放課後ティータイム",
+    "source": "wy",
+    "link_url": "audio/ふわふわ時間 - 放課後ティータイム.mp3",
+    "link_lrc": "audio/ふわふわ時間 - 放課後ティータイム.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "22803891",
+    "name": "U&I",
+    "singer": "放課後ティータイム",
+    "album": "放課後ティータイム II",
+    "source": "wy",
+    "link_url": "audio/U&I - 放課後ティータイム.mp3",
+    "link_lrc": "audio/U&I - 放課後ティータイム.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "26201909",
+    "name": "Go! Go! Maniac",
+    "singer": "放課後ティータイム",
+    "album": "K-ON! Music History's Box",
+    "source": "wy",
+    "link_url": "audio/Go! Go! Maniac - 放課後ティータイム.mp3",
+    "link_lrc": "audio/Go! Go! Maniac - 放課後ティータイム.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "26201877",
+    "name": "ふわふわ時間(#23『放課後!』Mix)",
+    "singer": "放課後ティータイム",
+    "album": "K-ON! Music History's Box",
+    "source": "wy",
+    "link_url": "audio/ふわふわ時間(#23『放課後!』Mix) - 放課後ティータイム.mp3",
+    "link_lrc": "audio/ふわふわ時間(#23『放課後!』Mix) - 放課後ティータイム.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "26201861",
+    "name": "Cagayake! GIRLS",
+    "singer": "桜高軽音部",
+    "album": "K-ON! Music History's Box",
+    "source": "wy",
+    "link_url": "audio/Cagayake! GIRLS - 桜高軽音部.mp3",
+    "link_lrc": "audio/Cagayake! GIRLS - 桜高軽音部.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "26201959",
+    "name": "天使にふれたよ!",
+    "singer": "豊崎愛生&日笠陽子&佐藤聡美&寿美菜子",
+    "album": "K-ON! Music History's Box",
+    "source": "wy",
+    "link_url": "audio/天使にふれたよ! - 豊崎愛生&日笠陽子&佐藤聡美&寿美菜子.mp3",
+    "link_lrc": "audio/天使にふれたよ! - 豊崎愛生&日笠陽子&佐藤聡美&寿美菜子.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "26201979",
+    "name": "NO,Thank You!",
+    "singer": "放課後ティータイム",
+    "album": "K-ON! Music History's Box",
+    "source": "wy",
+    "link_url": "audio/NO,Thank You! - 放課後ティータイム.mp3",
+    "link_lrc": "audio/NO,Thank You! - 放課後ティータイム.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "26201885",
+    "name": "Don't say _lazy_",
+    "singer": "桜高軽音部",
+    "album": "K-ON! Music History's Box",
+    "source": "wy",
+    "link_url": "audio/Don't say _lazy_ - 桜高軽音部.mp3",
+    "link_lrc": "audio/Don't say _lazy_ - 桜高軽音部.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "33252967",
+    "name": "こだまことだま",
+    "singer": "nano.RIPE",
+    "album": "こだまことだま",
+    "source": "wy",
+    "link_url": "audio/こだまことだま - nano.RIPE.mp3",
+    "link_lrc": "audio/こだまことだま - nano.RIPE.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "566226",
+    "name": "Real Force",
+    "singer": "ELISA",
+    "album": "Real Force",
+    "source": "wy",
+    "link_url": "audio/Real Force - ELISA.mp3",
+    "link_lrc": "audio/Real Force - ELISA.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "409941232",
+    "name": "Here (Chris Lorenzo Remix)",
+    "singer": "Alessia Cara&Chris Lorenzo",
+    "album": "Here (The Remixes)",
+    "source": "wy",
+    "link_url": "audio/Here (Chris Lorenzo Remix) - Alessia Cara&Chris Lorenzo.mp3",
+    "link_lrc": "audio/unknow.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "28258882",
+    "name": "Good Time (Lenno Remix)",
+    "singer": "Owl City&Carly Rae Jepsen",
+    "album": "Good Time",
+    "source": "wy",
+    "link_url": "audio/Good Time (Lenno Remix) - Owl City&Carly Rae Jepsen.mp3",
+    "link_lrc": "audio/Good Time (Lenno Remix) - Owl City&Carly Rae Jepsen.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "2313952",
+    "name": "Curiosity",
+    "singer": "Carly Rae Jepsen",
+    "album": "Curiosity",
+    "source": "wy",
+    "link_url": "audio/Curiosity - Carly Rae Jepsen.mp3",
+    "link_lrc": "audio/Curiosity - Carly Rae Jepsen.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "31918993",
+    "name": "I Really Like You",
+    "singer": "Carly Rae Jepsen",
+    "album": "Bravo Hits 89",
+    "source": "wy",
+    "link_url": "audio/I Really Like You - Carly Rae Jepsen.mp3",
+    "link_lrc": "audio/I Really Like You - Carly Rae Jepsen.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "452804780",
+    "name": "青空のラプソディ",
+    "singer": "fhána",
+    "album": "青空のラプソディ (アニメ盤)",
+    "source": "wy",
+    "link_url": "audio/青空のラプソディ - fhána.mp3",
+    "link_lrc": "audio/青空のラプソディ - fhána.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "592541",
+    "name": "JOINT",
+    "singer": "川田まみ",
+    "album": "JOINT",
+    "source": "wy",
+    "link_url": "audio/JOINT - 川田まみ.mp3",
+    "link_lrc": "audio/JOINT - 川田まみ.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "167942",
+    "name": "王妃",
+    "singer": "萧敬腾",
+    "album": "王妃",
+    "source": "wy",
+    "link_url": "audio/王妃 - 萧敬腾.mp3",
+    "link_lrc": "audio/王妃 - 萧敬腾.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "30953009",
+    "name": "See You Again",
+    "singer": "Wiz Khalifa&Charlie Puth",
+    "album": "Furious 7 (Original Motion Picture Soundtrack)",
+    "source": "wy",
+    "link_url": "audio/See You Again - Wiz Khalifa&Charlie Puth.mp3",
+    "link_lrc": "audio/See You Again - Wiz Khalifa&Charlie Puth.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "448917086",
+    "name": "Eyecatch! Too much!",
+    "singer": "戸松遥&日笠陽子&雨宮天",
+    "album": "Eyecatch! Too much! / 無重力フィーバー",
+    "source": "wy",
+    "link_url": "audio/Eyecatch! Too much! - 戸松遥&日笠陽子&雨宮天.mp3",
+    "link_lrc": "audio/Eyecatch! Too much! - 戸松遥&日笠陽子&雨宮天.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "28564198",
+    "name": "スキスキ絶頂症",
+    "singer": "koyori&GUMI",
+    "album": "Youthfull",
+    "source": "wy",
+    "link_url": "audio/スキスキ絶頂症 - koyori&GUMI.mp3",
+    "link_lrc": "audio/スキスキ絶頂症 - koyori&GUMI.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "27562927",
+    "name": "好春光",
+    "singer": "吴彤",
+    "album": "好春光",
+    "source": "wy",
+    "link_url": "audio/好春光 - 吴彤.mp3",
+    "link_lrc": "audio/好春光 - 吴彤.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "276294",
+    "name": "相思",
+    "singer": "毛阿敏",
+    "album": "腔.调",
+    "source": "wy",
+    "link_url": "audio/相思 - 毛阿敏.mp3",
+    "link_lrc": "audio/相思 - 毛阿敏.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "29816860",
+    "name": "brave heart",
+    "singer": "宮崎歩",
+    "album": "brave heart",
+    "source": "wy",
+    "link_url": "audio/brave heart - 宮崎歩.mp3",
+    "link_lrc": "audio/brave heart - 宮崎歩.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "393695",
+    "name": "市集",
+    "singer": "胡伟立",
+    "album": "武侠音乐精装特辑",
+    "source": "wy",
+    "link_url": "audio/市集 - 胡伟立.mp3",
+    "link_lrc": "audio/unknow.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "30260225",
+    "name": "欢乐斗地主背景音乐",
+    "singer": "小旭音乐",
+    "album": "热门华语259",
+    "source": "wy",
+    "link_url": "audio/欢乐斗地主背景音乐 - 小旭音乐.mp3",
+    "link_lrc": "audio/unknow.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "784594",
+    "name": "NARUTO Main Theme",
+    "singer": "六三四",
+    "album": "NARUTO -ナルト- オリジナルサウンドトラック",
+    "source": "wy",
+    "link_url": "audio/NARUTO Main Theme - 六三四.mp3",
+    "link_lrc": "audio/unknow.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "3950546",
+    "name": "It's My Life",
+    "singer": "Bon Jovi",
+    "album": "It's My Life",
+    "source": "wy",
+    "link_url": "audio/It's My Life - Bon Jovi.mp3",
+    "link_lrc": "audio/It's My Life - Bon Jovi.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "4017240",
+    "name": "Intro_ The Dawn",
+    "singer": "Dreamtale",
+    "album": "Beyond Reality",
+    "source": "wy",
+    "link_url": "audio/Intro_ The Dawn - Dreamtale.mp3",
+    "link_lrc": "audio/Intro_ The Dawn - Dreamtale.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "407759199",
+    "name": "布谷鸟",
+    "singer": "安子与九妹",
+    "album": "对酒当歌",
+    "source": "wy",
+    "link_url": "audio/布谷鸟 - 安子与九妹.mp3",
+    "link_lrc": "audio/布谷鸟 - 安子与九妹.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "22706980",
+    "name": "渚",
+    "singer": "麻枝准",
+    "album": "CLANNAD ORIGINAL SOUNDTRACK",
+    "source": "wy",
+    "link_url": "audio/渚 - 麻枝准.mp3",
+    "link_lrc": "audio/unknow.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "25935619",
+    "name": "神様お願い",
+    "singer": "ハナエ",
+    "album": "神様はじめました／神様お願い",
+    "source": "wy",
+    "link_url": "audio/神様お願い - ハナエ.mp3",
+    "link_lrc": "audio/神様お願い - ハナエ.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "475279331",
+    "name": "adrenaline!!!",
+    "singer": "TrySail",
+    "album": "adrenaline!!!",
+    "source": "wy",
+    "link_url": "audio/adrenaline!!! - TrySail.mp3",
+    "link_lrc": "audio/adrenaline!!! - TrySail.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "760533",
+    "name": "だんご大家族",
+    "singer": "真理絵&茶太&Morrigan&Rio",
+    "album": "メグメル/だんご大家族",
+    "source": "wy",
+    "link_url": "audio/だんご大家族 - 真理絵&茶太&Morrigan&Rio.mp3",
+    "link_lrc": "audio/だんご大家族 - 真理絵&茶太&Morrigan&Rio.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "258679",
+    "name": "诺言",
+    "singer": "李翊君",
+    "album": "诺言",
+    "source": "wy",
+    "link_url": "audio/诺言 - 李翊君.mp3",
+    "link_lrc": "audio/诺言 - 李翊君.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "640295",
+    "name": "梦笑顔",
+    "singer": "茶太",
+    "album": "茶太 Works Best II",
+    "source": "wy",
+    "link_url": "audio/梦笑顔 - 茶太.mp3",
+    "link_lrc": "audio/梦笑顔 - 茶太.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "26115345",
+    "name": "にんじゃりばんばん",
+    "singer": "きゃりーぱみゅぱみゅ",
+    "album": "にんじゃりばんばん",
+    "source": "wy",
+    "link_url": "audio/にんじゃりばんばん - きゃりーぱみゅぱみゅ.mp3",
+    "link_lrc": "audio/にんじゃりばんばん - きゃりーぱみゅぱみゅ.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "4921208",
+    "name": "めてお☆いんぱくと(Full Version.)",
+    "singer": "田村ゆかり",
+    "album": "～俺の妹がこんなに可愛いわけがない コンプリートコレクション+～俺妹コンプ+!",
+    "source": "wy",
+    "link_url": "audio/めてお☆いんぱくと(Full Version.) - 田村ゆかり.mp3",
+    "link_lrc": "audio/めてお☆いんぱくと(Full Version.) - 田村ゆかり.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "27591757",
+    "name": "Beauty and a Beat",
+    "singer": "Alex Goot&Kurt Hugo Schneider",
+    "album": "Beauty And A Beat",
+    "source": "wy",
+    "link_url": "audio/Beauty and a Beat - Alex Goot&Kurt Hugo Schneider.mp3",
+    "link_lrc": "audio/Beauty and a Beat - Alex Goot&Kurt Hugo Schneider.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "28828613",
+    "name": "SABLE",
+    "singer": "ナノ",
+    "album": "INFINITY≠ZERO/SABLE",
+    "source": "wy",
+    "link_url": "audio/SABLE - ナノ.mp3",
+    "link_lrc": "audio/SABLE - ナノ.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "21609173",
+    "name": "Freaking Me Out",
+    "singer": "Simple Plan&Alex Gaskarth",
+    "album": "Get Your Heart On!",
+    "source": "wy",
+    "link_url": "audio/Freaking Me Out - Simple Plan&Alex Gaskarth.mp3",
+    "link_lrc": "audio/Freaking Me Out - Simple Plan&Alex Gaskarth.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "376828",
+    "name": "武装的蔷薇",
+    "singer": "神木与瞳",
+    "album": "为你而活",
+    "source": "wy",
+    "link_url": "audio/武装的蔷薇 - 神木与瞳.mp3",
+    "link_lrc": "audio/武装的蔷薇 - 神木与瞳.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "297778",
+    "name": "睫毛弯弯",
+    "singer": "王心凌",
+    "album": "Cyndi With U",
+    "source": "wy",
+    "link_url": "audio/睫毛弯弯 - 王心凌.mp3",
+    "link_lrc": "audio/睫毛弯弯 - 王心凌.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "003r2dpH40aOwQ",
+    "name": "ヒトリゴト",
+    "singer": "ClariS",
+    "album": "ヒトリゴト (通常盤)",
+    "source": "qq",
+    "link_url": "audio/ヒトリゴト - ClariS.mp3",
+    "link_lrc": "audio/ヒトリゴト - ClariS.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "DC2AF6C29F33996332F04E1049523D87",
+    "name": "Everybody",
+    "singer": "Backstreet Boys",
+    "album": "BillBoard Top 100 Of 1998",
+    "source": "kg",
+    "link_url": "audio/Everybody - Backstreet Boys.mp3",
+    "link_lrc": "audio/Everybody - Backstreet Boys.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "610212",
+    "name": "ジャスミン",
+    "singer": "牧野由依",
+    "album": "アムリタ",
+    "source": "wy",
+    "link_url": "audio/ジャスミン - 牧野由依.mp3",
+    "link_lrc": "audio/ジャスミン - 牧野由依.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "656958",
+    "name": "Over The Future feat.SHIHO",
+    "singer": "戸松遥",
+    "album": "絶対可怜チルドレン キャラクターCD 3rd session 三宫紫穂",
+    "source": "wy",
+    "link_url": "audio/Over The Future feat.SHIHO - 戸松遥.mp3",
+    "link_lrc": "audio/Over The Future feat.SHIHO - 戸松遥.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "36025613",
+    "name": "Still",
+    "singer": "茶太",
+    "album": "Wish feat.茶太&中恵光城",
+    "source": "wy",
+    "link_url": "audio/Still - 茶太.mp3",
+    "link_lrc": "audio/Still - 茶太.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "640790",
+    "name": "呜咽",
+    "singer": "茶太",
+    "album": "茶太 Works Best",
+    "source": "wy",
+    "link_url": "audio/呜咽 - 茶太.mp3",
+    "link_lrc": "audio/呜咽 - 茶太.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "28126251",
+    "name": "ずっと、",
+    "singer": "AYUSE KOZUE",
+    "album": "ずっと、",
+    "source": "wy",
+    "link_url": "audio/ずっと、 - AYUSE KOZUE.mp3",
+    "link_lrc": "audio/ずっと、 - AYUSE KOZUE.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "28941711",
+    "name": "drop pop candy",
+    "singer": "れをる&ギガP",
+    "album": "No title−",
+    "source": "wy",
+    "link_url": "audio/drop pop candy - れをる&ギガP.mp3",
+    "link_lrc": "audio/drop pop candy - れをる&ギガP.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "B4CB2E5869BEDB7CBF50BB884CEB6637",
+    "name": "名前のない怪物",
+    "singer": "EGOIST",
+    "album": "名前のない怪物",
+    "source": "kg",
+    "link_url": "audio/名前のない怪物 - EGOIST.mp3",
+    "link_lrc": "audio/名前のない怪物 - EGOIST.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "1936601",
+    "name": "I'm Alive",
+    "singer": "Shinedown",
+    "album": "Avengers Assemble (Music from and Inspired by the Motion Picture)",
+    "source": "wy",
+    "link_url": "audio/I'm Alive - Shinedown.mp3",
+    "link_lrc": "audio/I'm Alive - Shinedown.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "28547202",
+    "name": "星くずこすぷれ☆うぃっち!です!・おめが",
+    "singer": "久野美咲",
+    "album": "answer / 星くずこすぷれ☆うぃっち!です!・おめが",
+    "source": "wy",
+    "link_url": "audio/星くずこすぷれ☆うぃっち!です!・おめが - 久野美咲.mp3",
+    "link_lrc": "audio/星くずこすぷれ☆うぃっち!です!・おめが - 久野美咲.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "28629028",
+    "name": "ふたりのきもちのほんとのひみつ",
+    "singer": "愛殺寶貝",
+    "album": "キルミーのベイベー!/ふたりのきもちのほんとのひみつ 【起】盤",
+    "source": "wy",
+    "link_url": "audio/ふたりのきもちのほんとのひみつ - 愛殺寶貝.mp3",
+    "link_lrc": "audio/ふたりのきもちのほんとのひみつ - 愛殺寶貝.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "22441762",
+    "name": "Teenage Dream",
+    "singer": "Katy Perry",
+    "album": "Teenage Dream",
+    "source": "wy",
+    "link_url": "audio/Teenage Dream - Katy Perry.mp3",
+    "link_lrc": "audio/Teenage Dream - Katy Perry.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "25870568",
+    "name": "Star Drop",
+    "singer": "菅原纱由理（THE SxPLAY）",
+    "album": "Open The Gate",
+    "source": "wy",
+    "link_url": "audio/Star Drop - 菅原纱由理（THE SxPLAY）.mp3",
+    "link_lrc": "audio/Star Drop - 菅原纱由理（THE SxPLAY）.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "26082104",
+    "name": "Rolling star",
+    "singer": "YUI",
+    "album": "Rolling star",
+    "source": "wy",
+    "link_url": "audio/Rolling star - YUI.mp3",
+    "link_lrc": "audio/Rolling star - YUI.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "28661719",
+    "name": "ゴールデンタイムラバー",
+    "singer": "スキマスイッチ",
+    "album": "ゴールデンタイムラバー",
+    "source": "wy",
+    "link_url": "audio/ゴールデンタイムラバー - スキマスイッチ.mp3",
+    "link_lrc": "audio/ゴールデンタイムラバー - スキマスイッチ.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "30621618",
+    "name": "蜀绣",
+    "singer": "李宇春",
+    "album": "蜀绣",
+    "source": "wy",
+    "link_url": "audio/蜀绣 - 李宇春.mp3",
+    "link_lrc": "audio/蜀绣 - 李宇春.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "101913",
+    "name": "闯将令",
+    "singer": "于会咏&胡登桃",
+    "album": "功夫 电影原声大碟",
+    "source": "wy",
+    "link_url": "audio/闯将令 - 于会咏&胡登桃.mp3",
+    "link_lrc": "audio/unknow.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "168091",
+    "name": "蓝莲花",
+    "singer": "许巍",
+    "album": "时光.漫步",
+    "source": "wy",
+    "link_url": "audio/蓝莲花 - 许巍.mp3",
+    "link_lrc": "audio/蓝莲花 - 许巍.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "29583959",
+    "name": "Wonderful Wonder World",
+    "singer": "Yun_chi",
+    "album": "Wonderful Wonder World*",
+    "source": "wy",
+    "link_url": "audio/Wonderful Wonder World - Yun_chi.mp3",
+    "link_lrc": "audio/Wonderful Wonder World - Yun_chi.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "873684",
+    "name": "ラヴァーズ",
+    "singer": "7!!",
+    "album": "ラヴァーズ",
+    "source": "wy",
+    "link_url": "audio/ラヴァーズ - 7!!.mp3",
+    "link_lrc": "audio/ラヴァーズ - 7!!.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "3560369",
+    "name": "Floorfiller",
+    "singer": "A_Teens",
+    "album": "A-Teens: Greatest Hits 1999-2004",
+    "source": "wy",
+    "link_url": "audio/Floorfiller - A_Teens.mp3",
+    "link_lrc": "audio/Floorfiller - A_Teens.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "156329",
+    "name": "转弯",
+    "singer": "吴奇隆",
+    "album": "2003国语影音全记录",
+    "source": "wy",
+    "link_url": "audio/转弯 - 吴奇隆.mp3",
+    "link_lrc": "audio/转弯 - 吴奇隆.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "5247681",
+    "name": "非你莫属",
+    "singer": "林依晨",
+    "album": "台剧万岁",
+    "source": "wy",
+    "link_url": "audio/非你莫属 - 林依晨.mp3",
+    "link_lrc": "audio/非你莫属 - 林依晨.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "5253735",
+    "name": "不得不爱",
+    "singer": "弦子&潘玮柏",
+    "album": "我们的主打歌 2",
+    "source": "wy",
+    "link_url": "audio/不得不爱 - 弦子&潘玮柏.mp3",
+    "link_lrc": "audio/不得不爱 - 弦子&潘玮柏.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "28892231",
+    "name": "无法原谅",
+    "singer": "李佳璐",
+    "album": "回家的诱惑 电视原声带",
+    "source": "wy",
+    "link_url": "audio/无法原谅 - 李佳璐.mp3",
+    "link_lrc": "audio/无法原谅 - 李佳璐.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "167850",
+    "name": "庐州月",
+    "singer": "许嵩",
+    "album": "寻雾启示",
+    "source": "wy",
+    "link_url": "audio/庐州月 - 许嵩.mp3",
+    "link_lrc": "audio/庐州月 - 许嵩.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "5134011",
+    "name": "Pretty Boy",
+    "singer": "M2M",
+    "album": "Love 101 : 101 Ways To Say I Love You",
+    "source": "wy",
+    "link_url": "audio/Pretty Boy - M2M.mp3",
+    "link_lrc": "audio/Pretty Boy - M2M.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "375328",
+    "name": "小情歌",
+    "singer": "苏打绿",
+    "album": "小宇宙",
+    "source": "wy",
+    "link_url": "audio/小情歌 - 苏打绿.mp3",
+    "link_lrc": "audio/小情歌 - 苏打绿.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "4083642",
+    "name": "She",
+    "singer": "Groove Coverage",
+    "album": "Best Of Groove Coverage",
+    "source": "wy",
+    "link_url": "audio/She - Groove Coverage.mp3",
+    "link_lrc": "audio/She - Groove Coverage.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "255831",
+    "name": "心悸",
+    "singer": "刘亦菲",
+    "album": "首张国语专辑",
+    "source": "wy",
+    "link_url": "audio/心悸 - 刘亦菲.mp3",
+    "link_lrc": "audio/心悸 - 刘亦菲.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "265053",
+    "name": "烟雨唱扬州",
+    "singer": "李殊",
+    "album": "感动的心",
+    "source": "wy",
+    "link_url": "audio/烟雨唱扬州 - 李殊.mp3",
+    "link_lrc": "audio/烟雨唱扬州 - 李殊.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "156524",
+    "name": "特别的爱给特别的你",
+    "singer": "伍思凯",
+    "album": "分享",
+    "source": "wy",
+    "link_url": "audio/特别的爱给特别的你 - 伍思凯.mp3",
+    "link_lrc": "audio/特别的爱给特别的你 - 伍思凯.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "3950909",
+    "name": "Magic Melody",
+    "singer": "Befour",
+    "album": "All 4 One",
+    "source": "wy",
+    "link_url": "audio/Magic Melody - Befour.mp3",
+    "link_lrc": "audio/Magic Melody - Befour.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "16501053",
+    "name": "Barbie Girl",
+    "singer": "Aqua",
+    "album": "Aquarium",
+    "source": "wy",
+    "link_url": "audio/Barbie Girl - Aqua.mp3",
+    "link_lrc": "audio/Barbie Girl - Aqua.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "64317",
+    "name": "因为爱情",
+    "singer": "陈奕迅&王菲",
+    "album": "Stranger Under My Skin",
+    "source": "wy",
+    "link_url": "audio/因为爱情 - 陈奕迅&王菲.mp3",
+    "link_lrc": "audio/因为爱情 - 陈奕迅&王菲.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "29535043",
+    "name": "醉清风 (2005版)",
+    "singer": "弦子",
+    "album": "醉清风 2005版",
+    "source": "wy",
+    "link_url": "audio/醉清风 (2005版) - 弦子.mp3",
+    "link_lrc": "audio/醉清风 (2005版) - 弦子.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "22200079",
+    "name": "我的未来式",
+    "singer": "郭采洁",
+    "album": "隐形超人",
+    "source": "wy",
+    "link_url": "audio/我的未来式 - 郭采洁.mp3",
+    "link_lrc": "audio/我的未来式 - 郭采洁.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "25643359",
+    "name": "龙的传人",
+    "singer": "王力宏",
+    "album": "音乐进化论",
+    "source": "wy",
+    "link_url": "audio/龙的传人 - 王力宏.mp3",
+    "link_lrc": "audio/龙的传人 - 王力宏.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "376824",
+    "name": "为你而活",
+    "singer": "神木与瞳",
+    "album": "为你而活",
+    "source": "wy",
+    "link_url": "audio/为你而活 - 神木与瞳.mp3",
+    "link_lrc": "audio/为你而活 - 神木与瞳.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "299445",
+    "name": "流年",
+    "singer": "王菲",
+    "album": "你王菲所以我王菲",
+    "source": "wy",
+    "link_url": "audio/流年 - 王菲.mp3",
+    "link_lrc": "audio/流年 - 王菲.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "236263",
+    "name": "爱情女神",
+    "singer": "郭美美",
+    "album": "我的答铃",
+    "source": "wy",
+    "link_url": "audio/爱情女神 - 郭美美.mp3",
+    "link_lrc": "audio/爱情女神 - 郭美美.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "002ZsqUP23QLwV",
+    "name": "Butterfly",
+    "singer": "Smile. DK",
+    "album": "Smile",
+    "source": "qq",
+    "link_url": "audio/Butterfly - Smile. DK.mp3",
+    "link_lrc": "audio/Butterfly - Smile. DK.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "003XPmiG3eMglL",
+    "name": "寂寞沙洲冷",
+    "singer": "周传雄",
+    "album": "星空下的传说",
+    "source": "qq",
+    "link_url": "audio/寂寞沙洲冷 - 周传雄.mp3",
+    "link_lrc": "audio/寂寞沙洲冷 - 周传雄.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "002Kk6Jq3QAqvO",
+    "name": "快乐崇拜",
+    "singer": "潘玮柏&张韶涵",
+    "album": "WuHa",
+    "source": "qq",
+    "link_url": "audio/快乐崇拜 - 潘玮柏&张韶涵.mp3",
+    "link_lrc": "audio/快乐崇拜 - 潘玮柏&张韶涵.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "003FubtH1mPNNO",
+    "name": "丁香花",
+    "singer": "唐磊",
+    "album": "丁香花",
+    "source": "qq",
+    "link_url": "audio/丁香花 - 唐磊.mp3",
+    "link_lrc": "audio/丁香花 - 唐磊.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "001zceWX0NRV4L",
+    "name": "最后一次",
+    "singer": "薛晓枫",
+    "album": "雪雨风",
+    "source": "qq",
+    "link_url": "audio/最后一次 - 薛晓枫.mp3",
+    "link_lrc": "audio/最后一次 - 薛晓枫.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "002KjiHo3p7pAq",
+    "name": "英雄寞",
+    "singer": "郑中基",
+    "album": "怪胎",
+    "source": "qq",
+    "link_url": "audio/英雄寞 - 郑中基.mp3",
+    "link_lrc": "audio/英雄寞 - 郑中基.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "28959183",
+    "name": "我只能爱你",
+    "singer": "彭青",
+    "album": "射雕英雄传08版 电视原声带",
+    "source": "wy",
+    "link_url": "audio/我只能爱你 - 彭青.mp3",
+    "link_lrc": "audio/我只能爱你 - 彭青.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "86360",
+    "name": "忘记时间",
+    "singer": "胡歌",
+    "album": "仙剑奇侠传三 电视原声带",
+    "source": "wy",
+    "link_url": "audio/忘记时间 - 胡歌.mp3",
+    "link_lrc": "audio/忘记时间 - 胡歌.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "213358",
+    "name": "希望",
+    "singer": "陈慧琳",
+    "album": "Especial Kelly",
+    "source": "wy",
+    "link_url": "audio/希望 - 陈慧琳.mp3",
+    "link_lrc": "audio/希望 - 陈慧琳.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "254017",
+    "name": "爱死了昨天",
+    "singer": "李慧珍",
+    "album": "爱死了",
+    "source": "wy",
+    "link_url": "audio/爱死了昨天 - 李慧珍.mp3",
+    "link_lrc": "audio/爱死了昨天 - 李慧珍.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "000dh7bP0UKWW6",
+    "name": "Only Happy When It Rains",
+    "singer": "Garbage",
+    "album": "Garbage(20th Anniversary Standard Edition (Remastered))",
+    "source": "qq",
+    "link_url": "audio/Only Happy When It Rains - Garbage.mp3",
+    "link_lrc": "audio/Only Happy When It Rains - Garbage.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "003GxI1D05L89F",
+    "name": "Come And Get Your Love",
+    "singer": "Redbone",
+    "album": "Guardians of the Galaxy: Awesome Mix Vol. 1 (Original Motion Picture Soundtrack)",
+    "source": "qq",
+    "link_url": "audio/Come And Get Your Love - Redbone.mp3",
+    "link_lrc": "audio/Come And Get Your Love - Redbone.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "22808574",
+    "name": "恋の魔法",
+    "singer": "倖田來未",
+    "album": "Kingdom",
+    "source": "wy",
+    "link_url": "audio/恋の魔法 - 倖田來未.mp3",
+    "link_lrc": "audio/恋の魔法 - 倖田來未.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "172886",
+    "name": "分手那天",
+    "singer": "徐靖博",
+    "album": "分手那天",
+    "source": "wy",
+    "link_url": "audio/分手那天 - 徐靖博.mp3",
+    "link_lrc": "audio/分手那天 - 徐靖博.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "26214326",
+    "name": "告白日和、です!",
+    "singer": "内田彩&久保ユリカ",
+    "album": "告白日和、です!",
+    "source": "wy",
+    "link_url": "audio/告白日和、です! - 内田彩&久保ユリカ.mp3",
+    "link_lrc": "audio/告白日和、です! - 内田彩&久保ユリカ.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "31460013",
+    "name": "いのちの名前",
+    "singer": "泠鸢yousa",
+    "album": "最新热歌慢摇95",
+    "source": "wy",
+    "link_url": "audio/いのちの名前 - 泠鸢yousa.mp3",
+    "link_lrc": "audio/いのちの名前 - 泠鸢yousa.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "473440587",
+    "name": "上下上下",
+    "singer": "洛天依",
+    "album": "上下上下",
+    "source": "wy",
+    "link_url": "audio/上下上下 - 洛天依.mp3",
+    "link_lrc": "audio/上下上下 - 洛天依.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "212253",
+    "name": "人生何处不相逢",
+    "singer": "陈慧娴",
+    "album": "今天的爱人是谁",
+    "source": "wy",
+    "link_url": "audio/人生何处不相逢 - 陈慧娴.mp3",
+    "link_lrc": "audio/人生何处不相逢 - 陈慧娴.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "1375127394",
+    "name": "故人泪（Cover：麦小兜）",
+    "singer": "泠鸢yousa&KBShinya",
+    "album": "【泠鸢翻唱2019】",
+    "source": "wy",
+    "link_url": "audio/故人泪（Cover：麦小兜） - 泠鸢yousa&KBShinya.mp3",
+    "link_lrc": "audio/故人泪（Cover：麦小兜） - 泠鸢yousa&KBShinya.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "515715377",
+    "name": "交织together-泠鸢SOLO版（Cover hanser、泠鸢yousa）",
+    "singer": "泠鸢yousa",
+    "album": "泠鸢yousa原创单曲",
+    "source": "wy",
+    "link_url": "audio/交织together-泠鸢SOLO版（Cover hanser、泠鸢yousa） - 泠鸢yousa.mp3",
+    "link_lrc": "audio/交织together-泠鸢SOLO版（Cover hanser、泠鸢yousa） - 泠鸢yousa.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "34341245",
+    "name": "Bilibili耶！",
+    "singer": "洛天依",
+    "album": "洛天依作品集",
+    "source": "wy",
+    "link_url": "audio/Bilibili耶！ - 洛天依.mp3",
+    "link_lrc": "audio/Bilibili耶！ - 洛天依.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "430062903",
+    "name": "哔哩哔哩耶 BILIBILI耶 幸福就在你身边",
+    "singer": "泠鸢yousa&泠鸢yousaの呆萌忆【管理团队】",
+    "album": "哔哩哔哩耶 BILIBILI耶 幸福就在你身边",
+    "source": "wy",
+    "link_url": "audio/哔哩哔哩耶 BILIBILI耶 幸福就在你身边 - 泠鸢yousa&泠鸢yousaの呆萌忆【管理团队】.mp3",
+    "link_lrc": "audio/哔哩哔哩耶 BILIBILI耶 幸福就在你身边 - 泠鸢yousa&泠鸢yousaの呆萌忆【管理团队】.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "444803276",
+    "name": "超远距链接【茜色诗集】",
+    "singer": "泠鸢yousa",
+    "album": "茜色诗集",
+    "source": "wy",
+    "link_url": "audio/超远距链接【茜色诗集】 - 泠鸢yousa.mp3",
+    "link_lrc": "audio/超远距链接【茜色诗集】 - 泠鸢yousa.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "457750941",
+    "name": "泼墨漓江【茜色诗集】",
+    "singer": "泠鸢yousa",
+    "album": "唯美古风",
+    "source": "wy",
+    "link_url": "audio/泼墨漓江【茜色诗集】 - 泠鸢yousa.mp3",
+    "link_lrc": "audio/泼墨漓江【茜色诗集】 - 泠鸢yousa.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "504686858",
+    "name": "如一",
+    "singer": "银临",
+    "album": "蚍蜉渡海",
+    "source": "wy",
+    "link_url": "audio/如一 - 银临.mp3",
+    "link_lrc": "audio/如一 - 银临.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "4874976",
+    "name": "勇敢的幸福",
+    "singer": "Sweety",
+    "album": "绿光森林(绿光有氧加值版)",
+    "source": "wy",
+    "link_url": "audio/勇敢的幸福 - Sweety.mp3",
+    "link_lrc": "audio/勇敢的幸福 - Sweety.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "355992",
+    "name": "追梦赤子心",
+    "singer": "GALA",
+    "album": "追梦痴子心",
+    "source": "wy",
+    "link_url": "audio/追梦赤子心 - GALA.mp3",
+    "link_lrc": "audio/追梦赤子心 - GALA.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "22340835",
+    "name": "We Belong",
+    "singer": "Pat Benatar",
+    "album": "Best Shots",
+    "source": "wy",
+    "link_url": "audio/We Belong - Pat Benatar.mp3",
+    "link_lrc": "audio/We Belong - Pat Benatar.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "1298797994",
+    "name": "Ashes (from _Deadpool 2_ Motion Picture Soundtrack)",
+    "singer": "Celine Dion",
+    "album": "Deadpool 2 (Original Motion Picture Soundtrack) [Deluxe - Super Duper Cut]",
+    "source": "wy",
+    "link_url": "audio/Ashes (from _Deadpool 2_ Motion Picture Soundtrack) - Celine Dion.mp3",
+    "link_lrc": "audio/Ashes (from _Deadpool 2_ Motion Picture Soundtrack) - Celine Dion.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "430062898",
+    "name": "神武雨霖铃",
+    "singer": "泠鸢yousa&泠鸢yousaの呆萌忆【管理团队】",
+    "album": "神武雨霖铃-2016神气威武",
+    "source": "wy",
+    "link_url": "audio/神武雨霖铃 - 泠鸢yousa&泠鸢yousaの呆萌忆【管理团队】.mp3",
+    "link_lrc": "audio/神武雨霖铃 - 泠鸢yousa&泠鸢yousaの呆萌忆【管理团队】.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "436016472",
+    "name": "コノヨLoading...",
+    "singer": "REOL",
+    "album": "Σ",
+    "source": "wy",
+    "link_url": "audio/コノヨLoading... - REOL.mp3",
+    "link_lrc": "audio/コノヨLoading... - REOL.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "28160606",
+    "name": "回レ！雪月花 (小紫Ver.)",
+    "singer": "小倉唯",
+    "album": "TVアニメ「機巧少女は傷つかない」Blu-ray第1巻特典CD スペシャルソング",
+    "source": "wy",
+    "link_url": "audio/回レ！雪月花 (小紫Ver.) - 小倉唯.mp3",
+    "link_lrc": "audio/回レ！雪月花 (小紫Ver.) - 小倉唯.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "239188",
+    "name": "没那么简单",
+    "singer": "黄小琥",
+    "album": "简单/不简单",
+    "source": "wy",
+    "link_url": "audio/没那么简单 - 黄小琥.mp3",
+    "link_lrc": "audio/没那么简单 - 黄小琥.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "239164",
+    "name": "顺其自然",
+    "singer": "黄小琥",
+    "album": "如果能.....重来",
+    "source": "wy",
+    "link_url": "audio/顺其自然 - 黄小琥.mp3",
+    "link_lrc": "audio/顺其自然 - 黄小琥.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "300063",
+    "name": "我也不想这样",
+    "singer": "王菲",
+    "album": "王菲",
+    "source": "wy",
+    "link_url": "audio/我也不想这样 - 王菲.mp3",
+    "link_lrc": "audio/我也不想这样 - 王菲.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "624670",
+    "name": "夕顔",
+    "singer": "能登麻美子",
+    "album": "スクールランブル:塚本八雲",
+    "source": "wy",
+    "link_url": "audio/夕顔 - 能登麻美子.mp3",
+    "link_lrc": "audio/夕顔 - 能登麻美子.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "19572271",
+    "name": "Gotta Have You",
+    "singer": "The Weepies",
+    "album": "Say I Am You",
+    "source": "wy",
+    "link_url": "audio/Gotta Have You - The Weepies.mp3",
+    "link_lrc": "audio/Gotta Have You - The Weepies.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "29178366",
+    "name": "ルフィ猛攻!",
+    "singer": "浜口史郎",
+    "album": "ONE PIECE Log Collection \"SABAODY\" サウンドトラック",
+    "source": "wy",
+    "link_url": "audio/ルフィ猛攻! - 浜口史郎.mp3",
+    "link_lrc": "audio/unknow.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "424264956",
+    "name": "ピカチュウのうた",
+    "singer": "大谷育江",
+    "album": "ピカチュウのうた",
+    "source": "wy",
+    "link_url": "audio/ピカチュウのうた - 大谷育江.mp3",
+    "link_lrc": "audio/ピカチュウのうた - 大谷育江.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "21038559",
+    "name": "Just Dance",
+    "singer": "Lady Gaga&Colby O'Donis&RedOne",
+    "album": "The Fame",
+    "source": "wy",
+    "link_url": "audio/Just Dance - Lady Gaga&Colby O'Donis&RedOne.mp3",
+    "link_lrc": "audio/Just Dance - Lady Gaga&Colby O'Donis&RedOne.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "3019798",
+    "name": "Zombies on Your Lawn",
+    "singer": "Laura Shigihara",
+    "album": "Plants vs. Zombies",
+    "source": "wy",
+    "link_url": "audio/Zombies on Your Lawn - Laura Shigihara.mp3",
+    "link_lrc": "audio/Zombies on Your Lawn - Laura Shigihara.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "457053283",
+    "name": "China-Opera",
+    "singer": "小悦悦",
+    "album": "China-Opera",
+    "source": "wy",
+    "link_url": "audio/China-Opera - 小悦悦.mp3",
+    "link_lrc": "audio/unknow.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "001kMWiH0Arag7",
+    "name": "宴がはじまる!",
+    "singer": "三澤康広",
+    "album": "TVアニメ「干物妹! うまるちゃん」オリジナル・サウンドトラック",
+    "source": "qq",
+    "link_url": "audio/宴がはじまる! - 三澤康広.mp3",
+    "link_lrc": "audio/宴がはじまる! - 三澤康広.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "0016iEOi4S1PRA",
+    "name": "ちゃおちゃお▽ﾄﾞﾙﾁｪ",
+    "singer": "吉田有里",
+    "album": "TVアニメ「未確認で進行形」 未確認でキャラソン03 三峰真白 starring 吉田有里",
+    "source": "qq",
+    "link_url": "audio/ちゃおちゃお▽ﾄﾞﾙﾁｪ - 吉田有里.mp3",
+    "link_lrc": "audio/ちゃおちゃお▽ﾄﾞﾙﾁｪ - 吉田有里.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "490602922",
+    "name": "Deep Blue Townへおいでよ",
+    "singer": "内田彩&内田真礼&佐倉綾音",
+    "album": "DEEP BLUE TOWNへおいでよ",
+    "source": "wy",
+    "link_url": "audio/Deep Blue Townへおいでよ - 内田彩&内田真礼&佐倉綾音.mp3",
+    "link_lrc": "audio/Deep Blue Townへおいでよ - 内田彩&内田真礼&佐倉綾音.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "418708385",
+    "name": "ミチノチモシーキミノキモチ",
+    "singer": "森永千才",
+    "album": "TVアニメ「あんハピ♪」キャラクターソングシリーズ2",
+    "source": "wy",
+    "link_url": "audio/ミチノチモシーキミノキモチ - 森永千才.mp3",
+    "link_lrc": "audio/ミチノチモシーキミノキモチ - 森永千才.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "518808634",
+    "name": "LEAVE",
+    "singer": "SaMZIng",
+    "album": "LEAVE",
+    "source": "wy",
+    "link_url": "audio/LEAVE - SaMZIng.mp3",
+    "link_lrc": "audio/unknow.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "357253",
+    "name": "穷开心",
+    "singer": "花儿乐队",
+    "album": "花龄盛会",
+    "source": "wy",
+    "link_url": "audio/穷开心 - 花儿乐队.mp3",
+    "link_lrc": "audio/穷开心 - 花儿乐队.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "26101820",
+    "name": "あんずのうた",
+    "singer": "五十嵐裕美",
+    "album": "THE iDOLM@STER CINDERELLA MASTER 002 Anzu Futaba",
+    "source": "wy",
+    "link_url": "audio/あんずのうた - 五十嵐裕美.mp3",
+    "link_lrc": "audio/あんずのうた - 五十嵐裕美.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "547976490",
+    "name": "爱了很久的朋友",
+    "singer": "田馥甄",
+    "album": "爱了很久的朋友",
+    "source": "wy",
+    "link_url": "audio/爱了很久的朋友 - 田馥甄.mp3",
+    "link_lrc": "audio/爱了很久的朋友 - 田馥甄.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "300058",
+    "name": "闷",
+    "singer": "王菲",
+    "album": "王菲",
+    "source": "wy",
+    "link_url": "audio/闷 - 王菲.mp3",
+    "link_lrc": "audio/闷 - 王菲.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "426881693",
+    "name": "グンマー☆ ザ ミラクル",
+    "singer": "桃箱",
+    "album": "プチリズム。",
+    "source": "wy",
+    "link_url": "audio/グンマー☆ ザ ミラクル - 桃箱.mp3",
+    "link_lrc": "audio/グンマー☆ ザ ミラクル - 桃箱.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "29777035",
+    "name": "嘟嘟噜",
+    "singer": "花澤香菜",
+    "album": "最新热歌慢摇87",
+    "source": "wy",
+    "link_url": "audio/嘟嘟噜 - 花澤香菜.mp3",
+    "link_lrc": "audio/嘟嘟噜 - 花澤香菜.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "551502895",
+    "name": "《perpetual wishes～守护永恒的爱》",
+    "singer": "fripSide",
+    "album": "仙境传说RO -守护永恒的爱",
+    "source": "wy",
+    "link_url": "audio/《perpetual wishes～守护永恒的爱》 - fripSide.mp3",
+    "link_lrc": "audio/《perpetual wishes～守护永恒的爱》 - fripSide.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "530986904",
+    "name": "寻词",
+    "singer": "程依芸",
+    "album": "寻秦记 电视原声带",
+    "source": "wy",
+    "link_url": "audio/寻词 - 程依芸.mp3",
+    "link_lrc": "audio/寻词 - 程依芸.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "239682",
+    "name": "蝴蝶泉边",
+    "singer": "黄雅莉",
+    "album": "崽崽",
+    "source": "wy",
+    "link_url": "audio/蝴蝶泉边 - 黄雅莉.mp3",
+    "link_lrc": "audio/蝴蝶泉边 - 黄雅莉.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "26110531",
+    "name": "Suki Kirai ! Suki !!!",
+    "singer": "釘宮理恵",
+    "album": "Suki Kirai ! Suki !!!",
+    "source": "wy",
+    "link_url": "audio/Suki Kirai ! Suki !!! - 釘宮理恵.mp3",
+    "link_lrc": "audio/Suki Kirai ! Suki !!! - 釘宮理恵.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "27583241",
+    "name": "Sing You To Sleep",
+    "singer": "Matt Cab",
+    "album": "Love Stories",
+    "source": "wy",
+    "link_url": "audio/Sing You To Sleep - Matt Cab.mp3",
+    "link_lrc": "audio/Sing You To Sleep - Matt Cab.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "2587456",
+    "name": "I’m Fine",
+    "singer": "Emily Hearn",
+    "album": "Red Balloon",
+    "source": "wy",
+    "link_url": "audio/I’m Fine - Emily Hearn.mp3",
+    "link_lrc": "audio/I’m Fine - Emily Hearn.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "440208476",
+    "name": "That Girl",
+    "singer": "Olly Murs",
+    "album": "24 HRS (Deluxe)",
+    "source": "wy",
+    "link_url": "audio/That Girl - Olly Murs.mp3",
+    "link_lrc": "audio/That Girl - Olly Murs.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "191254",
+    "name": "天下",
+    "singer": "张杰",
+    "album": "明天过后",
+    "source": "wy",
+    "link_url": "audio/天下 - 张杰.mp3",
+    "link_lrc": "audio/天下 - 张杰.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "185726",
+    "name": "再见",
+    "singer": "张震岳",
+    "album": "再见",
+    "source": "wy",
+    "link_url": "audio/再见 - 张震岳.mp3",
+    "link_lrc": "audio/再见 - 张震岳.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "468882985",
+    "name": "Shape of You",
+    "singer": "J.Fla",
+    "album": "Blossom",
+    "source": "wy",
+    "link_url": "audio/Shape of You - J.Fla.mp3",
+    "link_lrc": "audio/Shape of You - J.Fla.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "5271858",
+    "name": "难念的经",
+    "singer": "周华健",
+    "album": "电视剧歌曲大全",
+    "source": "wy",
+    "link_url": "audio/难念的经 - 周华健.mp3",
+    "link_lrc": "audio/难念的经 - 周华健.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "256469",
+    "name": "爱江山更爱美人",
+    "singer": "李丽芬",
+    "album": "李丽芬的东西(爱不释手)",
+    "source": "wy",
+    "link_url": "audio/爱江山更爱美人 - 李丽芬.mp3",
+    "link_lrc": "audio/爱江山更爱美人 - 李丽芬.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "86363",
+    "name": "此生不换",
+    "singer": "青鸟飞鱼",
+    "album": "仙剑奇侠传三 电视原声带",
+    "source": "wy",
+    "link_url": "audio/此生不换 - 青鸟飞鱼.mp3",
+    "link_lrc": "audio/此生不换 - 青鸟飞鱼.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "255020",
+    "name": "刀马旦",
+    "singer": "李玟&周杰伦",
+    "album": "Promise",
+    "source": "wy",
+    "link_url": "audio/刀马旦 - 李玟&周杰伦.mp3",
+    "link_lrc": "audio/刀马旦 - 李玟&周杰伦.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "115502",
+    "name": "红日",
+    "singer": "李克勤",
+    "album": "红日",
+    "source": "wy",
+    "link_url": "audio/红日 - 李克勤.mp3",
+    "link_lrc": "audio/红日 - 李克勤.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "28409875",
+    "name": "神武雨霖铃（神武）",
+    "singer": "小旭音乐",
+    "album": "小旭音乐精选集（一）",
+    "source": "wy",
+    "link_url": "audio/神武雨霖铃（神武） - 小旭音乐.mp3",
+    "link_lrc": "audio/神武雨霖铃（神武） - 小旭音乐.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "554191055",
+    "name": "学猫叫",
+    "singer": "小潘潘（潘柚彤）&小峰峰（陈峰）",
+    "album": "学猫叫",
+    "source": "wy",
+    "link_url": "audio/学猫叫 - 小潘潘（潘柚彤）&小峰峰（陈峰）.mp3",
+    "link_lrc": "audio/学猫叫 - 小潘潘（潘柚彤）&小峰峰（陈峰）.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "22817048",
+    "name": "Not Alone",
+    "singer": "朴政珉",
+    "album": "Not Alone",
+    "source": "wy",
+    "link_url": "audio/Not Alone - 朴政珉.mp3",
+    "link_lrc": "audio/Not Alone - 朴政珉.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "274859",
+    "name": "一瞬间",
+    "singer": "丽江小倩",
+    "album": "倩语倩寻",
+    "source": "wy",
+    "link_url": "audio/一瞬间 - 丽江小倩.mp3",
+    "link_lrc": "audio/一瞬间 - 丽江小倩.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "474246285",
+    "name": "心里有鬼（Cover 洛天依）",
+    "singer": "Hanser",
+    "album": "Hanser唱的歌（180924为止",
+    "source": "wy",
+    "link_url": "audio/心里有鬼（Cover 洛天依） - Hanser.mp3",
+    "link_lrc": "audio/心里有鬼（Cover 洛天依） - Hanser.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "28830337",
+    "name": "I LOVE U",
+    "singer": "阿良良木健&洛天依",
+    "album": "末日DISCO",
+    "source": "wy",
+    "link_url": "audio/I LOVE U - 阿良良木健&洛天依.mp3",
+    "link_lrc": "audio/I LOVE U - 阿良良木健&洛天依.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "480823627",
+    "name": "采茶纪（七人唱见双声道）",
+    "singer": "ShakingHigh&倪莫问&少年霜&奶叔SHu&管珩心&谣君&洛少爷",
+    "album": "采茶纪（七人唱见双声道/ShakingHigh Bootleg）",
+    "source": "wy",
+    "link_url": "audio/采茶纪（七人唱见双声道） - ShakingHigh&倪莫问&少年霜&奶叔SHu&管珩心&谣君&洛少爷.mp3",
+    "link_lrc": "audio/采茶纪（七人唱见双声道） - ShakingHigh&倪莫问&少年霜&奶叔SHu&管珩心&谣君&洛少爷.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "333278",
+    "name": "还是让你走 (国)",
+    "singer": "周丽淇",
+    "album": "Redefine",
+    "source": "wy",
+    "link_url": "audio/还是让你走 (国) - 周丽淇.mp3",
+    "link_lrc": "audio/还是让你走 (国) - 周丽淇.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "86279",
+    "name": "情歌王",
+    "singer": "古巨基",
+    "album": "我还是你的 - 情歌王",
+    "source": "wy",
+    "link_url": "audio/情歌王 - 古巨基.mp3",
+    "link_lrc": "audio/情歌王 - 古巨基.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "65766",
+    "name": "富士山下",
+    "singer": "陈奕迅",
+    "album": "What's Going On…?",
+    "source": "wy",
+    "link_url": "audio/富士山下 - 陈奕迅.mp3",
+    "link_lrc": "audio/富士山下 - 陈奕迅.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "29932154",
+    "name": "キミヱゴサーチ",
+    "singer": "日南結里&小澤亜李",
+    "album": "ミライプリズム",
+    "source": "wy",
+    "link_url": "audio/キミヱゴサーチ - 日南結里&小澤亜李.mp3",
+    "link_lrc": "audio/キミヱゴサーチ - 日南結里&小澤亜李.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "28191523",
+    "name": "約束の絆",
+    "singer": "種田梨沙&茅原実里&山岡ゆり",
+    "album": "TVアニメ 境界の彼方 オリジナルサウンドトラック",
+    "source": "wy",
+    "link_url": "audio/約束の絆 - 種田梨沙&茅原実里&山岡ゆり.mp3",
+    "link_lrc": "audio/約束の絆 - 種田梨沙&茅原実里&山岡ゆり.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "448741128",
+    "name": "オレンジ",
+    "singer": "Machico",
+    "album": "COLORS II -RML-",
+    "source": "wy",
+    "link_url": "audio/オレンジ - Machico.mp3",
+    "link_lrc": "audio/オレンジ - Machico.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "33111738",
+    "name": "Future style",
+    "singer": "新田恵海&内田彩&三森すずこ",
+    "album": "僕たちはひとつの光 / Future style",
+    "source": "wy",
+    "link_url": "audio/Future style - 新田恵海&内田彩&三森すずこ.mp3",
+    "link_lrc": "audio/Future style - 新田恵海&内田彩&三森すずこ.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "39224244",
+    "name": "狐言",
+    "singer": "河图&洛天依",
+    "album": "狐言",
+    "source": "wy",
+    "link_url": "audio/狐言 - 河图&洛天依.mp3",
+    "link_lrc": "audio/狐言 - 河图&洛天依.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "554241230",
+    "name": "ファティマ",
+    "singer": "いとうかなこ",
+    "album": "ファティマ",
+    "source": "wy",
+    "link_url": "audio/ファティマ - いとうかなこ.mp3",
+    "link_lrc": "audio/ファティマ - いとうかなこ.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "26608719",
+    "name": "紅蓮の弓矢",
+    "singer": "Linked Horizon",
+    "album": "自由への進撃",
+    "source": "wy",
+    "link_url": "audio/紅蓮の弓矢 - Linked Horizon.mp3",
+    "link_lrc": "audio/紅蓮の弓矢 - Linked Horizon.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "1317623797",
+    "name": "东方不败 feat.洛天依",
+    "singer": "Bana-X&筠箫",
+    "album": "东方不败【VOCALOID】",
+    "source": "wy",
+    "link_url": "audio/东方不败 feat.洛天依 - Bana-X&筠箫.mp3",
+    "link_lrc": "audio/东方不败 feat.洛天依 - Bana-X&筠箫.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "34609107",
+    "name": "恋愛サーキュレーション (双声道版)",
+    "singer": "花澤香菜&釘宮理恵",
+    "album": "最新热歌慢摇116",
+    "source": "wy",
+    "link_url": "audio/恋愛サーキュレーション (双声道版) - 花澤香菜&釘宮理恵.mp3",
+    "link_lrc": "audio/恋愛サーキュレーション (双声道版) - 花澤香菜&釘宮理恵.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "420125697",
+    "name": "STYX HELIX【Re：从零开始的异世界生活 ED】",
+    "singer": "三无MarBlue",
+    "album": "最新热歌慢摇92",
+    "source": "wy",
+    "link_url": "audio/STYX HELIX【Re：从零开始的异世界生活 ED】 - 三无MarBlue.mp3",
+    "link_lrc": "audio/STYX HELIX【Re：从零开始的异世界生活 ED】 - 三无MarBlue.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "33599403",
+    "name": "拼凑的断音 (翻唱版)",
+    "singer": "Hanser",
+    "album": "最新热歌慢摇105",
+    "source": "wy",
+    "link_url": "audio/拼凑的断音 (翻唱版) - Hanser.mp3",
+    "link_lrc": "audio/拼凑的断音 (翻唱版) - Hanser.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "1302601503",
+    "name": "【bilibili音乐】一话一世界 《一花依世界》方言合唱版",
+    "singer": "雪霏岚岚&早木旋子&张小她&倒悬的橘子&双笙&宁采臣丶在唱歌&A路人&漆柚&YUKIri&warma&LKs&洛天依&乐正绫",
+    "album": "【bilibili音乐出品】一话一世界（《一花依世界》方言合唱版/bilibili好乡音活动曲）",
+    "source": "wy",
+    "link_url": "audio/【bilibili音乐】一话一世界 《一花依世界》方言合唱版 - 雪霏岚岚&早木旋子&张小她&倒悬的橘子&双笙&宁采臣丶在唱歌&A路人&漆柚&YUKIri&warma&LKs&洛天依&乐正绫.mp3",
+    "link_lrc": "audio/【bilibili音乐】一话一世界 《一花依世界》方言合唱版 - 雪霏岚岚&早木旋子&张小她&倒悬的橘子&双笙&宁采臣丶在唱歌&A路人&漆柚&YUKIri&warma&LKs&洛天依&乐正绫.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "29922173",
+    "name": "给我一个吻",
+    "singer": "杨子姗",
+    "album": "重返20岁 电影原声带",
+    "source": "wy",
+    "link_url": "audio/给我一个吻 - 杨子姗.mp3",
+    "link_lrc": "audio/给我一个吻 - 杨子姗.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "28095742",
+    "name": "Rather Be",
+    "singer": "Clean Bandit&Jess Glynne",
+    "album": "Rather Be",
+    "source": "wy",
+    "link_url": "audio/Rather Be - Clean Bandit&Jess Glynne.mp3",
+    "link_lrc": "audio/Rather Be - Clean Bandit&Jess Glynne.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "28699610",
+    "name": "My Soul,Your Beats!",
+    "singer": "Lia",
+    "album": "My Soul, Your Beats!/Brave Song",
+    "source": "wy",
+    "link_url": "audio/My Soul,Your Beats! - Lia.mp3",
+    "link_lrc": "audio/My Soul,Your Beats! - Lia.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "257972",
+    "name": "沙漠寂寞",
+    "singer": "李翊君",
+    "album": "永远的朋友典藏系列",
+    "source": "wy",
+    "link_url": "audio/沙漠寂寞 - 李翊君.mp3",
+    "link_lrc": "audio/沙漠寂寞 - 李翊君.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "144378",
+    "name": "死不了",
+    "singer": "任贤齐",
+    "album": "为爱走天涯",
+    "source": "wy",
+    "link_url": "audio/死不了 - 任贤齐.mp3",
+    "link_lrc": "audio/死不了 - 任贤齐.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "33251440",
+    "name": "湖光水色调",
+    "singer": "戴荃",
+    "album": "湖光水色调",
+    "source": "wy",
+    "link_url": "audio/湖光水色调 - 戴荃.mp3",
+    "link_lrc": "audio/湖光水色调 - 戴荃.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "441116322",
+    "name": "その時、Fantastic Girl!",
+    "singer": "内田真礼",
+    "album": "ガールフレンド(仮) キャラクターソングシリーズ Vol.01",
+    "source": "wy",
+    "link_url": "audio/その時、Fantastic Girl! - 内田真礼.mp3",
+    "link_lrc": "audio/その時、Fantastic Girl! - 内田真礼.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "1331819040",
+    "name": "狂浪",
+    "singer": "花姐",
+    "album": "狂浪",
+    "source": "wy",
+    "link_url": "audio/狂浪 - 花姐.mp3",
+    "link_lrc": "audio/狂浪 - 花姐.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "343054",
+    "name": "天涯",
+    "singer": "爱乐团王超",
+    "album": "天涯",
+    "source": "wy",
+    "link_url": "audio/天涯 - 爱乐团王超.mp3",
+    "link_lrc": "audio/天涯 - 爱乐团王超.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "26619367",
+    "name": "奔跑",
+    "singer": "羽·泉",
+    "album": "拾伍 重唱集",
+    "source": "wy",
+    "link_url": "audio/奔跑 - 羽·泉.mp3",
+    "link_lrc": "audio/奔跑 - 羽·泉.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "255294",
+    "name": "我很快乐",
+    "singer": "刘惜君",
+    "album": "爱情花园",
+    "source": "wy",
+    "link_url": "audio/我很快乐 - 刘惜君.mp3",
+    "link_lrc": "audio/我很快乐 - 刘惜君.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "26418130",
+    "name": "时间煮雨",
+    "singer": "郁可唯",
+    "album": "时间煮雨",
+    "source": "wy",
+    "link_url": "audio/时间煮雨 - 郁可唯.mp3",
+    "link_lrc": "audio/时间煮雨 - 郁可唯.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "34380471",
+    "name": "3D RUN",
+    "singer": "徐梦圆",
+    "album": "3D-E",
+    "source": "wy",
+    "link_url": "audio/3D RUN - 徐梦圆.mp3",
+    "link_lrc": "audio/unknow.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "26584165",
+    "name": "スカイクラッドの観測者",
+    "singer": "いとうかなこ",
+    "album": "STEINS;GATE VOCAL BEST",
+    "source": "wy",
+    "link_url": "audio/スカイクラッドの観測者 - いとうかなこ.mp3",
+    "link_lrc": "audio/スカイクラッドの観測者 - いとうかなこ.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "34380473",
+    "name": "color-X 3D",
+    "singer": "徐梦圆",
+    "album": "3D-E",
+    "source": "wy",
+    "link_url": "audio/color-X 3D - 徐梦圆.mp3",
+    "link_lrc": "audio/unknow.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "21253809",
+    "name": "Lucky Strike",
+    "singer": "Maroon 5",
+    "album": "Overexposed (Deluxe Version)",
+    "source": "wy",
+    "link_url": "audio/Lucky Strike - Maroon 5.mp3",
+    "link_lrc": "audio/Lucky Strike - Maroon 5.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "28987626",
+    "name": "Animals",
+    "singer": "Maroon 5",
+    "album": "Animals",
+    "source": "wy",
+    "link_url": "audio/Animals - Maroon 5.mp3",
+    "link_lrc": "audio/Animals - Maroon 5.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "29019227",
+    "name": "Sugar",
+    "singer": "Maroon 5",
+    "album": "V",
+    "source": "wy",
+    "link_url": "audio/Sugar - Maroon 5.mp3",
+    "link_lrc": "audio/Sugar - Maroon 5.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "30431838",
+    "name": "SUPER ASSISTANT LOVE SONG",
+    "singer": "釘宮理恵",
+    "album": "TVアニメ「マンガ家さんとアシスタントさんと」キャラクターソング&ミニドラマ Vol.3",
+    "source": "wy",
+    "link_url": "audio/SUPER ASSISTANT LOVE SONG - 釘宮理恵.mp3",
+    "link_lrc": "audio/SUPER ASSISTANT LOVE SONG - 釘宮理恵.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "5255650",
+    "name": "伤痕",
+    "singer": "林忆莲",
+    "album": "我们的主打歌",
+    "source": "wy",
+    "link_url": "audio/伤痕 - 林忆莲.mp3",
+    "link_lrc": "audio/伤痕 - 林忆莲.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "17112299",
+    "name": "Call Me Maybe",
+    "singer": "Carly Rae Jepsen",
+    "album": "Call Me Maybe",
+    "source": "wy",
+    "link_url": "audio/Call Me Maybe - Carly Rae Jepsen.mp3",
+    "link_lrc": "audio/Call Me Maybe - Carly Rae Jepsen.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "34779260",
+    "name": "中二也要弹钢琴",
+    "singer": "徐梦圆",
+    "album": "曾经的纯音乐",
+    "source": "wy",
+    "link_url": "audio/中二也要弹钢琴 - 徐梦圆.mp3",
+    "link_lrc": "audio/unknow.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "41500546",
+    "name": "China-X",
+    "singer": "徐梦圆",
+    "album": "Change",
+    "source": "wy",
+    "link_url": "audio/China-X - 徐梦圆.mp3",
+    "link_lrc": "audio/unknow.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "214626",
+    "name": "不如跳舞",
+    "singer": "陈慧琳",
+    "album": "飞吧",
+    "source": "wy",
+    "link_url": "audio/不如跳舞 - 陈慧琳.mp3",
+    "link_lrc": "audio/不如跳舞 - 陈慧琳.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "25713022",
+    "name": "我的歌声里",
+    "singer": "曲婉婷",
+    "album": "Everything In The World (白金庆功版)",
+    "source": "wy",
+    "link_url": "audio/我的歌声里 - 曲婉婷.mp3",
+    "link_lrc": "audio/我的歌声里 - 曲婉婷.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "376417",
+    "name": "一生有你",
+    "singer": "水木年华",
+    "album": "一生有你",
+    "source": "wy",
+    "link_url": "audio/一生有你 - 水木年华.mp3",
+    "link_lrc": "audio/一生有你 - 水木年华.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "206388",
+    "name": "桜モダン",
+    "singer": "阿兰",
+    "album": "明日への讃歌",
+    "source": "wy",
+    "link_url": "audio/桜モダン - 阿兰.mp3",
+    "link_lrc": "audio/桜モダン - 阿兰.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "306664",
+    "name": "身骑白马",
+    "singer": "徐佳莹",
+    "album": "LaLa首张创作专辑",
+    "source": "wy",
+    "link_url": "audio/身骑白马 - 徐佳莹.mp3",
+    "link_lrc": "audio/身骑白马 - 徐佳莹.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "25713024",
+    "name": "没有什么不同",
+    "singer": "曲婉婷",
+    "album": "Everything In The World (白金庆功版)",
+    "source": "wy",
+    "link_url": "audio/没有什么不同 - 曲婉婷.mp3",
+    "link_lrc": "audio/没有什么不同 - 曲婉婷.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "407759201",
+    "name": "小嫦娥",
+    "singer": "安子与九妹",
+    "album": "对酒当歌",
+    "source": "wy",
+    "link_url": "audio/小嫦娥 - 安子与九妹.mp3",
+    "link_lrc": "audio/小嫦娥 - 安子与九妹.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "306719",
+    "name": "城里的月光",
+    "singer": "许美静",
+    "album": "完美静选",
+    "source": "wy",
+    "link_url": "audio/城里的月光 - 许美静.mp3",
+    "link_lrc": "audio/城里的月光 - 许美静.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "190381",
+    "name": "水手",
+    "singer": "郑智化",
+    "album": "私房歌",
+    "source": "wy",
+    "link_url": "audio/水手 - 郑智化.mp3",
+    "link_lrc": "audio/水手 - 郑智化.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "82932",
+    "name": "一剪梅",
+    "singer": "费玉清",
+    "album": "一剪梅",
+    "source": "wy",
+    "link_url": "audio/一剪梅 - 费玉清.mp3",
+    "link_lrc": "audio/一剪梅 - 费玉清.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "176403",
+    "name": "我相信",
+    "singer": "杨培安",
+    "album": "午夜两点半的我",
+    "source": "wy",
+    "link_url": "audio/我相信 - 杨培安.mp3",
+    "link_lrc": "audio/我相信 - 杨培安.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "209643",
+    "name": "日不落",
+    "singer": "蔡依林",
+    "album": "特务J",
+    "source": "wy",
+    "link_url": "audio/日不落 - 蔡依林.mp3",
+    "link_lrc": "audio/日不落 - 蔡依林.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "123268",
+    "name": "别在我离开之前离开",
+    "singer": "雷诺儿",
+    "album": "别在我离开之前离开",
+    "source": "wy",
+    "link_url": "audio/别在我离开之前离开 - 雷诺儿.mp3",
+    "link_lrc": "audio/别在我离开之前离开 - 雷诺儿.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "305020",
+    "name": "爱情错觉",
+    "singer": "王娅",
+    "album": "爱情错觉",
+    "source": "wy",
+    "link_url": "audio/爱情错觉 - 王娅.mp3",
+    "link_lrc": "audio/爱情错觉 - 王娅.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "86357",
+    "name": "生生世世爱",
+    "singer": "吴雨霏",
+    "album": "仙剑奇侠传三 电视原声带",
+    "source": "wy",
+    "link_url": "audio/生生世世爱 - 吴雨霏.mp3",
+    "link_lrc": "audio/生生世世爱 - 吴雨霏.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "31341931",
+    "name": "賭神",
+    "singer": "卢冠廷",
+    "album": "赌神 电影原声",
+    "source": "wy",
+    "link_url": "audio/賭神 - 卢冠廷.mp3",
+    "link_lrc": "audio/unknow.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "276220",
+    "name": "下辈子如果我还记得你",
+    "singer": "马郁",
+    "album": "恋人絮语",
+    "source": "wy",
+    "link_url": "audio/下辈子如果我还记得你 - 马郁.mp3",
+    "link_lrc": "audio/下辈子如果我还记得你 - 马郁.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "301474",
+    "name": "飞舞",
+    "singer": "王冰洋",
+    "album": "飞舞",
+    "source": "wy",
+    "link_url": "audio/飞舞 - 王冰洋.mp3",
+    "link_lrc": "audio/飞舞 - 王冰洋.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "700032",
+    "name": "夕日",
+    "singer": "茶太",
+    "album": "音楽ピューパとやさしい世界",
+    "source": "wy",
+    "link_url": "audio/夕日 - 茶太.mp3",
+    "link_lrc": "audio/夕日 - 茶太.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "209326",
+    "name": "旅行的意义",
+    "singer": "陈绮贞",
+    "album": "旅行的意义",
+    "source": "wy",
+    "link_url": "audio/旅行的意义 - 陈绮贞.mp3",
+    "link_lrc": "audio/旅行的意义 - 陈绮贞.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "209235",
+    "name": "华丽的冒险",
+    "singer": "陈绮贞",
+    "album": "华丽的冒险",
+    "source": "wy",
+    "link_url": "audio/华丽的冒险 - 陈绮贞.mp3",
+    "link_lrc": "audio/华丽的冒险 - 陈绮贞.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "320950",
+    "name": "上海滩",
+    "singer": "叶丽仪",
+    "album": "上海滩",
+    "source": "wy",
+    "link_url": "audio/上海滩 - 叶丽仪.mp3",
+    "link_lrc": "audio/上海滩 - 叶丽仪.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "108950",
+    "name": "就是我",
+    "singer": "林俊杰",
+    "album": "乐行者",
+    "source": "wy",
+    "link_url": "audio/就是我 - 林俊杰.mp3",
+    "link_lrc": "audio/就是我 - 林俊杰.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "236412",
+    "name": "青青河边草",
+    "singer": "高胜美",
+    "album": "经典金选2",
+    "source": "wy",
+    "link_url": "audio/青青河边草 - 高胜美.mp3",
+    "link_lrc": "audio/青青河边草 - 高胜美.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "224326",
+    "name": "铁齿铜牙纪晓岚",
+    "singer": "戴娆",
+    "album": "锦上添花",
+    "source": "wy",
+    "link_url": "audio/铁齿铜牙纪晓岚 - 戴娆.mp3",
+    "link_lrc": "audio/铁齿铜牙纪晓岚 - 戴娆.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "201487",
+    "name": "渡情",
+    "singer": "左宏元&张慧清",
+    "album": "新白娘子传奇 电视原声带",
+    "source": "wy",
+    "link_url": "audio/渡情 - 左宏元&张慧清.mp3",
+    "link_lrc": "audio/渡情 - 左宏元&张慧清.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "113634",
+    "name": "小李飞刀",
+    "singer": "罗文",
+    "album": "小李飞刀",
+    "source": "wy",
+    "link_url": "audio/小李飞刀 - 罗文.mp3",
+    "link_lrc": "audio/小李飞刀 - 罗文.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "201485",
+    "name": "千年等一回",
+    "singer": "高胜美",
+    "album": "新白娘子传奇 电视原声带",
+    "source": "wy",
+    "link_url": "audio/千年等一回 - 高胜美.mp3",
+    "link_lrc": "audio/千年等一回 - 高胜美.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "189907",
+    "name": "花香",
+    "singer": "周传雄",
+    "album": "Dubbing 1987-2003新歌+经典",
+    "source": "wy",
+    "link_url": "audio/花香 - 周传雄.mp3",
+    "link_lrc": "audio/花香 - 周传雄.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "151436",
+    "name": "霸王别姬",
+    "singer": "屠洪刚",
+    "album": "霸王别姬",
+    "source": "wy",
+    "link_url": "audio/霸王别姬 - 屠洪刚.mp3",
+    "link_lrc": "audio/霸王别姬 - 屠洪刚.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "93666",
+    "name": "向天再借五百年",
+    "singer": "韩磊",
+    "album": "向天再借五百年",
+    "source": "wy",
+    "link_url": "audio/向天再借五百年 - 韩磊.mp3",
+    "link_lrc": "audio/向天再借五百年 - 韩磊.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "283846",
+    "name": "加速度",
+    "singer": "瞿颖",
+    "album": "加速度",
+    "source": "wy",
+    "link_url": "audio/加速度 - 瞿颖.mp3",
+    "link_lrc": "audio/加速度 - 瞿颖.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "29999506",
+    "name": "莫失莫忘",
+    "singer": "麦振鸿",
+    "album": "武侠音乐系列之后悔莫及",
+    "source": "wy",
+    "link_url": "audio/莫失莫忘 - 麦振鸿.mp3",
+    "link_lrc": "audio/unknow.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "34766018",
+    "name": "Bravely You(36分钟循环版)",
+    "singer": "Lia",
+    "album": "最新热歌慢摇116",
+    "source": "wy",
+    "link_url": "audio/Bravely You(36分钟循环版) - Lia.mp3",
+    "link_lrc": "audio/Bravely You(36分钟循环版) - Lia.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "85798",
+    "name": "甘心情愿",
+    "singer": "郭峰",
+    "album": "经典郭峰1980-2000",
+    "source": "wy",
+    "link_url": "audio/甘心情愿 - 郭峰.mp3",
+    "link_lrc": "audio/甘心情愿 - 郭峰.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "857896",
+    "name": "A Little Story",
+    "singer": "Valentin",
+    "album": "My View",
+    "source": "wy",
+    "link_url": "audio/A Little Story - Valentin.mp3",
+    "link_lrc": "audio/A Little Story - Valentin.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "289552",
+    "name": "猜",
+    "singer": "斯琴高丽&顾峰",
+    "album": "更好",
+    "source": "wy",
+    "link_url": "audio/猜 - 斯琴高丽&顾峰.mp3",
+    "link_lrc": "audio/猜 - 斯琴高丽&顾峰.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "86369",
+    "name": "偏爱",
+    "singer": "张芸京",
+    "album": "仙剑奇侠传三 电视原声带",
+    "source": "wy",
+    "link_url": "audio/偏爱 - 张芸京.mp3",
+    "link_lrc": "audio/偏爱 - 张芸京.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "188204",
+    "name": "沉默是金",
+    "singer": "张国荣",
+    "album": "Ultimate",
+    "source": "wy",
+    "link_url": "audio/沉默是金 - 张国荣.mp3",
+    "link_lrc": "audio/沉默是金 - 张国荣.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "188175",
+    "name": "倩女幽魂",
+    "singer": "张国荣",
+    "album": "Ultimate",
+    "source": "wy",
+    "link_url": "audio/倩女幽魂 - 张国荣.mp3",
+    "link_lrc": "audio/倩女幽魂 - 张国荣.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "26620756",
+    "name": "当爱已成往事",
+    "singer": "张国荣",
+    "album": "最红",
+    "source": "wy",
+    "link_url": "audio/当爱已成往事 - 张国荣.mp3",
+    "link_lrc": "audio/当爱已成往事 - 张国荣.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "188459",
+    "name": "千千阙歌(Live)",
+    "singer": "张国荣",
+    "album": "张国荣告别乐坛演唱会",
+    "source": "wy",
+    "link_url": "audio/千千阙歌(Live) - 张国荣.mp3",
+    "link_lrc": "audio/千千阙歌(Live) - 张国荣.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "152517",
+    "name": "披着羊皮的狼(国)",
+    "singer": "谭咏麟",
+    "album": "天 地",
+    "source": "wy",
+    "link_url": "audio/披着羊皮的狼(国) - 谭咏麟.mp3",
+    "link_lrc": "audio/披着羊皮的狼(国) - 谭咏麟.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "152392",
+    "name": "讲不出再见",
+    "singer": "谭咏麟",
+    "album": "二十年白金畅销金曲全记录",
+    "source": "wy",
+    "link_url": "audio/讲不出再见 - 谭咏麟.mp3",
+    "link_lrc": "audio/讲不出再见 - 谭咏麟.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "28838055",
+    "name": "再见悲哀",
+    "singer": "林忆莲",
+    "album": "我最喜爱的Eric Kwok作品展",
+    "source": "wy",
+    "link_url": "audio/再见悲哀 - 林忆莲.mp3",
+    "link_lrc": "audio/再见悲哀 - 林忆莲.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "308740",
+    "name": "如意",
+    "singer": "香香",
+    "album": "香飘飘",
+    "source": "wy",
+    "link_url": "audio/如意 - 香香.mp3",
+    "link_lrc": "audio/如意 - 香香.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "308678",
+    "name": "命运",
+    "singer": "香香",
+    "album": "命运.为了爱",
+    "source": "wy",
+    "link_url": "audio/命运 - 香香.mp3",
+    "link_lrc": "audio/命运 - 香香.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "308746",
+    "name": "摇篮曲",
+    "singer": "香香",
+    "album": "香飘飘",
+    "source": "wy",
+    "link_url": "audio/摇篮曲 - 香香.mp3",
+    "link_lrc": "audio/摇篮曲 - 香香.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "308783",
+    "name": "泉水",
+    "singer": "香香",
+    "album": "猪之歌",
+    "source": "wy",
+    "link_url": "audio/泉水 - 香香.mp3",
+    "link_lrc": "audio/泉水 - 香香.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "5265523",
+    "name": "老鼠爱大米",
+    "singer": "香香",
+    "album": "老鼠爱大米 28网络大赢家",
+    "source": "wy",
+    "link_url": "audio/老鼠爱大米 - 香香.mp3",
+    "link_lrc": "audio/老鼠爱大米 - 香香.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "28378115",
+    "name": "美丽的神话",
+    "singer": "胡歌&白冰",
+    "album": "《神话》电视原声带",
+    "source": "wy",
+    "link_url": "audio/美丽的神话 - 胡歌&白冰.mp3",
+    "link_lrc": "audio/美丽的神话 - 胡歌&白冰.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "5276250",
+    "name": "归去来",
+    "singer": "希莉娜依&胡兵",
+    "album": "红星六号",
+    "source": "wy",
+    "link_url": "audio/归去来 - 希莉娜依&胡兵.mp3",
+    "link_lrc": "audio/归去来 - 希莉娜依&胡兵.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "151311",
+    "name": "精忠报国",
+    "singer": "屠洪刚",
+    "album": "精忠报国",
+    "source": "wy",
+    "link_url": "audio/精忠报国 - 屠洪刚.mp3",
+    "link_lrc": "audio/精忠报国 - 屠洪刚.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "27646919",
+    "name": "风中的承诺",
+    "singer": "李翊君",
+    "album": "情歌传唱天后",
+    "source": "wy",
+    "link_url": "audio/风中的承诺 - 李翊君.mp3",
+    "link_lrc": "audio/风中的承诺 - 李翊君.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "5271927",
+    "name": "将军令",
+    "singer": "群星",
+    "album": "民乐合奏十大名曲",
+    "source": "wy",
+    "link_url": "audio/将军令 - 群星.mp3",
+    "link_lrc": "audio/unknow.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "255677",
+    "name": "为你我受冷风吹 (Live)",
+    "singer": "林忆莲",
+    "album": "Sandy Lam Concert MMXI 演唱会",
+    "source": "wy",
+    "link_url": "audio/为你我受冷风吹 (Live) - 林忆莲.mp3",
+    "link_lrc": "audio/为你我受冷风吹 (Live) - 林忆莲.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "276936",
+    "name": "阴天",
+    "singer": "莫文蔚",
+    "album": "就 i Karen 莫文蔚精选",
+    "source": "wy",
+    "link_url": "audio/阴天 - 莫文蔚.mp3",
+    "link_lrc": "audio/阴天 - 莫文蔚.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "306959",
+    "name": "闪闪惹人爱",
+    "singer": "萧亚轩",
+    "album": "钻石糖",
+    "source": "wy",
+    "link_url": "audio/闪闪惹人爱 - 萧亚轩.mp3",
+    "link_lrc": "audio/闪闪惹人爱 - 萧亚轩.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "287035",
+    "name": "遇见",
+    "singer": "孙燕姿",
+    "album": "经典全纪录(主打精华版)",
+    "source": "wy",
+    "link_url": "audio/遇见 - 孙燕姿.mp3",
+    "link_lrc": "audio/遇见 - 孙燕姿.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "327555",
+    "name": "牵手",
+    "singer": "张惠妹",
+    "album": "牵手",
+    "source": "wy",
+    "link_url": "audio/牵手 - 张惠妹.mp3",
+    "link_lrc": "audio/牵手 - 张惠妹.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "287063",
+    "name": "我怀念的",
+    "singer": "孙燕姿",
+    "album": "逆光",
+    "source": "wy",
+    "link_url": "audio/我怀念的 - 孙燕姿.mp3",
+    "link_lrc": "audio/我怀念的 - 孙燕姿.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "287719",
+    "name": "开始懂了",
+    "singer": "孙燕姿",
+    "album": "我要的幸福",
+    "source": "wy",
+    "link_url": "audio/开始懂了 - 孙燕姿.mp3",
+    "link_lrc": "audio/开始懂了 - 孙燕姿.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "307472",
+    "name": "爱的主打歌",
+    "singer": "萧亚轩",
+    "album": "爱的主打歌.吻",
+    "source": "wy",
+    "link_url": "audio/爱的主打歌 - 萧亚轩.mp3",
+    "link_lrc": "audio/爱的主打歌 - 萧亚轩.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "300422",
+    "name": "蓝色时分",
+    "singer": "王菲",
+    "album": "胡思乱想",
+    "source": "wy",
+    "link_url": "audio/蓝色时分 - 王菲.mp3",
+    "link_lrc": "audio/蓝色时分 - 王菲.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "276129",
+    "name": "一生爱你千百回",
+    "singer": "梅艳芳",
+    "album": "永远的…梅艳芳",
+    "source": "wy",
+    "link_url": "audio/一生爱你千百回 - 梅艳芳.mp3",
+    "link_lrc": "audio/一生爱你千百回 - 梅艳芳.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "406072136",
+    "name": "Eclipse",
+    "singer": "Jim Yosef",
+    "album": "Eclipse",
+    "source": "wy",
+    "link_url": "audio/Eclipse - Jim Yosef.mp3",
+    "link_lrc": "audio/unknow.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "560079",
+    "name": "あなたに出会わなければ~夏雪冬花~",
+    "singer": "Aimer",
+    "album": "あなたに出会わなければ~夏雪冬花~/星屑ビーナス",
+    "source": "wy",
+    "link_url": "audio/あなたに出会わなければ~夏雪冬花~ - Aimer.mp3",
+    "link_lrc": "audio/あなたに出会わなければ~夏雪冬花~ - Aimer.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "409872504",
+    "name": "ninelie",
+    "singer": "Aimer&EGOIST",
+    "album": "ninelie",
+    "source": "wy",
+    "link_url": "audio/ninelie - Aimer&EGOIST.mp3",
+    "link_lrc": "audio/ninelie - Aimer&EGOIST.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "135848",
+    "name": "涛声依旧",
+    "singer": "毛宁",
+    "album": "请让我的情感留在你身边",
+    "source": "wy",
+    "link_url": "audio/涛声依旧 - 毛宁.mp3",
+    "link_lrc": "audio/涛声依旧 - 毛宁.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "307081",
+    "name": "表白",
+    "singer": "萧亚轩",
+    "album": "1087",
+    "source": "wy",
+    "link_url": "audio/表白 - 萧亚轩.mp3",
+    "link_lrc": "audio/表白 - 萧亚轩.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "354352",
+    "name": "月牙湾",
+    "singer": "F.I.R.",
+    "album": "爱.歌姬",
+    "source": "wy",
+    "link_url": "audio/月牙湾 - F.I.R..mp3",
+    "link_lrc": "audio/月牙湾 - F.I.R..lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "354465",
+    "name": "千年之恋(Unplug版)",
+    "singer": "F.I.R.",
+    "album": "光荣之役",
+    "source": "wy",
+    "link_url": "audio/千年之恋(Unplug版) - F.I.R..mp3",
+    "link_lrc": "audio/千年之恋(Unplug版) - F.I.R..lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "5236304",
+    "name": "你的微笑",
+    "singer": "F.I.R.",
+    "album": "爱恨一百年",
+    "source": "wy",
+    "link_url": "audio/你的微笑 - F.I.R..mp3",
+    "link_lrc": "audio/你的微笑 - F.I.R..lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "5265725",
+    "name": "防空洞",
+    "singer": "戴佩妮",
+    "album": "闭上眼睛去旅行 3",
+    "source": "wy",
+    "link_url": "audio/防空洞 - 戴佩妮.mp3",
+    "link_lrc": "audio/防空洞 - 戴佩妮.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "224000",
+    "name": "怎样",
+    "singer": "戴佩妮",
+    "album": "怎样",
+    "source": "wy",
+    "link_url": "audio/怎样 - 戴佩妮.mp3",
+    "link_lrc": "audio/怎样 - 戴佩妮.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "223972",
+    "name": "街角的祝福",
+    "singer": "戴佩妮",
+    "album": "Just Sing It",
+    "source": "wy",
+    "link_url": "audio/街角的祝福 - 戴佩妮.mp3",
+    "link_lrc": "audio/街角的祝福 - 戴佩妮.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "223994",
+    "name": "你要的爱",
+    "singer": "戴佩妮",
+    "album": "怎样",
+    "source": "wy",
+    "link_url": "audio/你要的爱 - 戴佩妮.mp3",
+    "link_lrc": "audio/你要的爱 - 戴佩妮.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "300404",
+    "name": "天与地",
+    "singer": "王菲",
+    "album": "胡思乱想",
+    "source": "wy",
+    "link_url": "audio/天与地 - 王菲.mp3",
+    "link_lrc": "audio/天与地 - 王菲.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "300360",
+    "name": "誓言",
+    "singer": "王菲",
+    "album": "天空",
+    "source": "wy",
+    "link_url": "audio/誓言 - 王菲.mp3",
+    "link_lrc": "audio/誓言 - 王菲.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "299116",
+    "name": "约定",
+    "singer": "王菲",
+    "album": "情菲得意 The 1st Complete Collection",
+    "source": "wy",
+    "link_url": "audio/约定 - 王菲.mp3",
+    "link_lrc": "audio/约定 - 王菲.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "300383",
+    "name": "平凡最浪漫",
+    "singer": "王菲",
+    "album": "讨好自己",
+    "source": "wy",
+    "link_url": "audio/平凡最浪漫 - 王菲.mp3",
+    "link_lrc": "audio/平凡最浪漫 - 王菲.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "300197",
+    "name": "暧昧",
+    "singer": "王菲",
+    "album": "Di-Dar",
+    "source": "wy",
+    "link_url": "audio/暧昧 - 王菲.mp3",
+    "link_lrc": "audio/暧昧 - 王菲.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "300234",
+    "name": "又见炊烟",
+    "singer": "王菲",
+    "album": "菲靡靡之音",
+    "source": "wy",
+    "link_url": "audio/又见炊烟 - 王菲.mp3",
+    "link_lrc": "audio/又见炊烟 - 王菲.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "300066",
+    "name": "怀念",
+    "singer": "王菲",
+    "album": "王菲",
+    "source": "wy",
+    "link_url": "audio/怀念 - 王菲.mp3",
+    "link_lrc": "audio/怀念 - 王菲.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "299090",
+    "name": "爱与痛的边缘",
+    "singer": "王菲",
+    "album": "情菲得意 The 1st Complete Collection",
+    "source": "wy",
+    "link_url": "audio/爱与痛的边缘 - 王菲.mp3",
+    "link_lrc": "audio/爱与痛的边缘 - 王菲.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "298880",
+    "name": "容易受伤的女人",
+    "singer": "王菲",
+    "album": "阿菲正传",
+    "source": "wy",
+    "link_url": "audio/容易受伤的女人 - 王菲.mp3",
+    "link_lrc": "audio/容易受伤的女人 - 王菲.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "229214",
+    "name": "你怎么说",
+    "singer": "邓丽君",
+    "album": "邓丽君十五周年",
+    "source": "wy",
+    "link_url": "audio/你怎么说 - 邓丽君.mp3",
+    "link_lrc": "audio/你怎么说 - 邓丽君.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "289565",
+    "name": "犯错",
+    "singer": "斯琴高丽&顾峰",
+    "album": "斯琴高丽的伤心",
+    "source": "wy",
+    "link_url": "audio/犯错 - 斯琴高丽&顾峰.mp3",
+    "link_lrc": "audio/犯错 - 斯琴高丽&顾峰.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "27946386",
+    "name": "遗憾",
+    "singer": "田馥甄",
+    "album": "热门华语194",
+    "source": "wy",
+    "link_url": "audio/遗憾 - 田馥甄.mp3",
+    "link_lrc": "audio/遗憾 - 田馥甄.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "3026472",
+    "name": "Burning",
+    "singer": "Maria Arredondo",
+    "album": "Not Going Under",
+    "source": "wy",
+    "link_url": "audio/Burning - Maria Arredondo.mp3",
+    "link_lrc": "audio/Burning - Maria Arredondo.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "41554649",
+    "name": "TALK",
+    "singer": "Sammi Sanchez",
+    "album": "TALK",
+    "source": "wy",
+    "link_url": "audio/TALK - Sammi Sanchez.mp3",
+    "link_lrc": "audio/TALK - Sammi Sanchez.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "22803904",
+    "name": "ごはんはおかず",
+    "singer": "放課後ティータイム",
+    "album": "放課後ティータイム II",
+    "source": "wy",
+    "link_url": "audio/ごはんはおかず - 放課後ティータイム.mp3",
+    "link_lrc": "audio/ごはんはおかず - 放課後ティータイム.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "22703777",
+    "name": "Lil' Goldfish",
+    "singer": "まりか",
+    "album": "Nao'ymt wit'-1st Season-",
+    "source": "wy",
+    "link_url": "audio/Lil' Goldfish - まりか.mp3",
+    "link_lrc": "audio/Lil' Goldfish - まりか.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "542415956",
+    "name": "遇梦记(洛天依ver.)",
+    "singer": "純白P",
+    "album": "遇梦记",
+    "source": "wy",
+    "link_url": "audio/遇梦记(洛天依ver.) - 純白P.mp3",
+    "link_lrc": "audio/遇梦记(洛天依ver.) - 純白P.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "1338264578",
+    "name": "花びらたちのマーチ",
+    "singer": "Aimer",
+    "album": "I beg you / 花びらたちのマーチ / Sailing",
+    "source": "wy",
+    "link_url": "audio/花びらたちのマーチ - Aimer.mp3",
+    "link_lrc": "audio/花びらたちのマーチ - Aimer.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "537787665",
+    "name": "室内系的TrackMaker（Cover nicamoq）",
+    "singer": "Hanser",
+    "album": "Hanser唱的歌（180924为止",
+    "source": "wy",
+    "link_url": "audio/室内系的TrackMaker（Cover nicamoq） - Hanser.mp3",
+    "link_lrc": "audio/室内系的TrackMaker（Cover nicamoq） - Hanser.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "22843672",
+    "name": "Trouble Maker",
+    "singer": "Trouble Maker",
+    "album": "Trouble Maker",
+    "source": "wy",
+    "link_url": "audio/Trouble Maker - Trouble Maker.mp3",
+    "link_lrc": "audio/Trouble Maker - Trouble Maker.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "16607987",
+    "name": "Trouble Is A Friend",
+    "singer": "Lenka",
+    "album": "Trouble Is A Friend",
+    "source": "wy",
+    "link_url": "audio/Trouble Is A Friend - Lenka.mp3",
+    "link_lrc": "audio/Trouble Is A Friend - Lenka.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "1217823",
+    "name": "Be What You Wanna Be",
+    "singer": "Darin",
+    "album": "Darin",
+    "source": "wy",
+    "link_url": "audio/Be What You Wanna Be - Darin.mp3",
+    "link_lrc": "audio/Be What You Wanna Be - Darin.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "425684779",
+    "name": "Yunomi--インドア系ならトラックメイカー (Fdby Remix)",
+    "singer": "Yunomi&nicamoq&Fdby",
+    "album": "インドア系ならトラックメイカー (Fdby Remix)",
+    "source": "wy",
+    "link_url": "audio/Yunomi--インドア系ならトラックメイカー (Fdby Remix) - Yunomi&nicamoq&Fdby.mp3",
+    "link_lrc": "audio/Yunomi--インドア系ならトラックメイカー (Fdby Remix) - Yunomi&nicamoq&Fdby.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "5232855",
+    "name": "祝你一路顺风",
+    "singer": "吴奇隆",
+    "album": "一人一首成名曲",
+    "source": "wy",
+    "link_url": "audio/祝你一路顺风 - 吴奇隆.mp3",
+    "link_lrc": "audio/祝你一路顺风 - 吴奇隆.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "482172",
+    "name": "風になる",
+    "singer": "つじあやの",
+    "album": "猫の恩返し サウンドトラック",
+    "source": "wy",
+    "link_url": "audio/風になる - つじあやの.mp3",
+    "link_lrc": "audio/風になる - つじあやの.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "003tu4pE36Ktsq",
+    "name": "勾指起誓",
+    "singer": "洛天依&ilem",
+    "album": "2:3",
+    "source": "qq",
+    "link_url": "audio/勾指起誓 - 洛天依&ilem.mp3",
+    "link_lrc": "audio/勾指起誓 - 洛天依&ilem.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "1350160463",
+    "name": "勾指起誓（Cover：ilem）",
+    "singer": "泠鸢yousa",
+    "album": "【泠鸢翻唱2019】",
+    "source": "wy",
+    "link_url": "audio/勾指起誓（Cover：ilem） - 泠鸢yousa.mp3",
+    "link_lrc": "audio/勾指起誓（Cover：ilem） - 泠鸢yousa.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "1311345944",
+    "name": "ひとり旅",
+    "singer": "鎖那",
+    "album": "せなとうた",
+    "source": "wy",
+    "link_url": "audio/ひとり旅 - 鎖那.mp3",
+    "link_lrc": "audio/ひとり旅 - 鎖那.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "1304665120",
+    "name": "君がいる世界へ",
+    "singer": "鹿乃",
+    "album": "一花依世界【日文版】",
+    "source": "wy",
+    "link_url": "audio/君がいる世界へ - 鹿乃.mp3",
+    "link_lrc": "audio/君がいる世界へ - 鹿乃.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "473462",
+    "name": "アイノヨカン (TV EDIT)",
+    "singer": "伊藤かな恵&早見沙織&小清水亜美&阿澄佳奈&豊崎愛生",
+    "album": "神のみぞ知るセカイII Original Soundtrack",
+    "source": "wy",
+    "link_url": "audio/アイノヨカン (TV EDIT) - 伊藤かな恵&早見沙織&小清水亜美&阿澄佳奈&豊崎愛生.mp3",
+    "link_lrc": "audio/アイノヨカン (TV EDIT) - 伊藤かな恵&早見沙織&小清水亜美&阿澄佳奈&豊崎愛生.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "487003529",
+    "name": "Secret Link",
+    "singer": "藤田茜",
+    "album": "エロマンガ先生 キャラクターソング & サウンドトラック Vol.1",
+    "source": "wy",
+    "link_url": "audio/Secret Link - 藤田茜.mp3",
+    "link_lrc": "audio/Secret Link - 藤田茜.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "574712",
+    "name": "Love Destiny",
+    "singer": "堀江由衣",
+    "album": "Love Destiny",
+    "source": "wy",
+    "link_url": "audio/Love Destiny - 堀江由衣.mp3",
+    "link_lrc": "audio/Love Destiny - 堀江由衣.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "1360580812",
+    "name": "Jenny of Oldstones (Game of Thrones)",
+    "singer": "Florence + The Machine",
+    "album": "Jenny of Oldstones (Game of Thrones)",
+    "source": "wy",
+    "link_url": "audio/Jenny of Oldstones (Game of Thrones) - Florence + The Machine.mp3",
+    "link_lrc": "audio/Jenny of Oldstones (Game of Thrones) - Florence + The Machine.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "450795499",
+    "name": "なんでもないや 没什么大不了的（Cover：Radwimps）",
+    "singer": "Akie秋绘",
+    "album": "冬氤。2016-17",
+    "source": "wy",
+    "link_url": "audio/なんでもないや 没什么大不了的（Cover：Radwimps） - Akie秋绘.mp3",
+    "link_lrc": "audio/なんでもないや 没什么大不了的（Cover：Radwimps） - Akie秋绘.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "4949087",
+    "name": "ホーリーナイト",
+    "singer": "釘宮理恵&喜多村英梨",
+    "album": "とらドラ! キャラクターソングアルバム",
+    "source": "wy",
+    "link_url": "audio/ホーリーナイト - 釘宮理恵&喜多村英梨.mp3",
+    "link_lrc": "audio/ホーリーナイト - 釘宮理恵&喜多村英梨.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "421870344",
+    "name": "孙尚香",
+    "singer": "洛天依&乐正绫&空气凝",
+    "album": "纪念",
+    "source": "wy",
+    "link_url": "audio/孙尚香 - 洛天依&乐正绫&空气凝.mp3",
+    "link_lrc": "audio/孙尚香 - 洛天依&乐正绫&空气凝.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "1346676131",
+    "name": "勾指起誓英文版（人声版）（Cover：ilem）",
+    "singer": "A路人&葵花fa&封茗囧菌",
+    "album": "勾指起誓英文版",
+    "source": "wy",
+    "link_url": "audio/勾指起誓英文版（人声版）（Cover：ilem） - A路人&葵花fa&封茗囧菌.mp3",
+    "link_lrc": "audio/勾指起誓英文版（人声版）（Cover：ilem） - A路人&葵花fa&封茗囧菌.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "571330",
+    "name": "LET IT OUT",
+    "singer": "福原美穂",
+    "album": "LET IT OUT",
+    "source": "wy",
+    "link_url": "audio/LET IT OUT - 福原美穂.mp3",
+    "link_lrc": "audio/LET IT OUT - 福原美穂.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "37095772",
+    "name": "Silver City",
+    "singer": "Myrne&Linying",
+    "album": " Silver City / Release Me",
+    "source": "wy",
+    "link_url": "audio/Silver City - Myrne&Linying.mp3",
+    "link_lrc": "audio/Silver City - Myrne&Linying.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "1344874921",
+    "name": "繁华唱遍（泠鸢翻唱版）（Cover：乐正绫 调教：纳兰寻风）",
+    "singer": "泠鸢yousa",
+    "album": "【泠鸢翻唱2019】",
+    "source": "wy",
+    "link_url": "audio/繁华唱遍（泠鸢翻唱版）（Cover：乐正绫 调教：纳兰寻风） - 泠鸢yousa.mp3",
+    "link_lrc": "audio/繁华唱遍（泠鸢翻唱版）（Cover：乐正绫 调教：纳兰寻风） - 泠鸢yousa.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "29712183",
+    "name": "Happy Halloween",
+    "singer": "柊 優花&鎖那",
+    "album": "最新热歌慢摇82",
+    "source": "wy",
+    "link_url": "audio/Happy Halloween - 柊 優花&鎖那.mp3",
+    "link_lrc": "audio/Happy Halloween - 柊 優花&鎖那.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "33516492",
+    "name": "ハルシアン",
+    "singer": "Reol",
+    "album": "極彩色",
+    "source": "wy",
+    "link_url": "audio/ハルシアン - Reol.mp3",
+    "link_lrc": "audio/ハルシアン - Reol.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "469904986",
+    "name": "杏花弦外雨（Cover 西国之海妖&CRITTY）",
+    "singer": "朵芊&EEEEEcho",
+    "album": "杏花弦外雨",
+    "source": "wy",
+    "link_url": "audio/杏花弦外雨（Cover 西国之海妖&CRITTY） - 朵芊&EEEEEcho.mp3",
+    "link_lrc": "audio/杏花弦外雨（Cover 西国之海妖&CRITTY） - 朵芊&EEEEEcho.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "31967335",
+    "name": "太陽曰く燃えよカオス",
+    "singer": "後ろから這いより隊G",
+    "album": "『這いよれ! ニャル子さん』ベストセレクションミニアルバム「邪選曲たち」",
+    "source": "wy",
+    "link_url": "audio/太陽曰く燃えよカオス - 後ろから這いより隊G.mp3",
+    "link_lrc": "audio/太陽曰く燃えよカオス - 後ろから這いより隊G.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "5271857",
+    "name": "伤心太平洋",
+    "singer": "任贤齐",
+    "album": "电视剧歌曲大全",
+    "source": "wy",
+    "link_url": "audio/伤心太平洋 - 任贤齐.mp3",
+    "link_lrc": "audio/伤心太平洋 - 任贤齐.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "444269761",
+    "name": "そらのおさんぽ",
+    "singer": "東山奈央",
+    "album": "だぶるハッピー!! 【豪華盤】",
+    "source": "wy",
+    "link_url": "audio/そらのおさんぽ - 東山奈央.mp3",
+    "link_lrc": "audio/そらのおさんぽ - 東山奈央.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "308212",
+    "name": "踏浪",
+    "singer": "徐怀钰",
+    "album": "Love",
+    "source": "wy",
+    "link_url": "audio/踏浪 - 徐怀钰.mp3",
+    "link_lrc": "audio/踏浪 - 徐怀钰.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "415787008",
+    "name": "なのです!",
+    "singer": "ななひら",
+    "album": "ボーキサイトが底をついた件",
+    "source": "wy",
+    "link_url": "audio/なのです! - ななひら.mp3",
+    "link_lrc": "audio/なのです! - ななひら.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "555142",
+    "name": "そばにいるね",
+    "singer": "青山テルマ",
+    "album": "そばにいるね",
+    "source": "wy",
+    "link_url": "audio/そばにいるね - 青山テルマ.mp3",
+    "link_lrc": "audio/そばにいるね - 青山テルマ.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "29027620",
+    "name": "연애의 조건",
+    "singer": "BESTie",
+    "album": "Mini Album Digital Repackage",
+    "source": "wy",
+    "link_url": "audio/연애의 조건 - BESTie.mp3",
+    "link_lrc": "audio/연애의 조건 - BESTie.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "608129",
+    "name": "未完成ストライド",
+    "singer": "こだまさおり",
+    "album": "未完成ストライド",
+    "source": "wy",
+    "link_url": "audio/未完成ストライド - こだまさおり.mp3",
+    "link_lrc": "audio/未完成ストライド - こだまさおり.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "559760",
+    "name": "優しさの理由",
+    "singer": "ChouCho",
+    "album": "優しさの理由",
+    "source": "wy",
+    "link_url": "audio/優しさの理由 - ChouCho.mp3",
+    "link_lrc": "audio/優しさの理由 - ChouCho.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "4878122",
+    "name": "乱世巨星",
+    "singer": "陈小春",
+    "album": "古惑仔最强精选集",
+    "source": "wy",
+    "link_url": "audio/乱世巨星 - 陈小春.mp3",
+    "link_lrc": "audio/乱世巨星 - 陈小春.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "28151022",
+    "name": "鳥の詩",
+    "singer": "Lia",
+    "album": "AIR Original SoundTrack",
+    "source": "wy",
+    "link_url": "audio/鳥の詩 - Lia.mp3",
+    "link_lrc": "audio/鳥の詩 - Lia.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "550364401",
+    "name": "九尾妖狐",
+    "singer": "PoKeR&洛天依",
+    "album": "九尾妖狐",
+    "source": "wy",
+    "link_url": "audio/九尾妖狐 - PoKeR&洛天依.mp3",
+    "link_lrc": "audio/九尾妖狐 - PoKeR&洛天依.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "1329515566",
+    "name": "三千烛华夜（乐正绫ver.）",
+    "singer": "乐正绫",
+    "album": "三千烛华夜",
+    "source": "wy",
+    "link_url": "audio/三千烛华夜（乐正绫ver.） - 乐正绫.mp3",
+    "link_lrc": "audio/三千烛华夜（乐正绫ver.） - 乐正绫.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "27908599",
+    "name": "前尘如梦",
+    "singer": "洛天依",
+    "album": " 热门华语136",
+    "source": "wy",
+    "link_url": "audio/前尘如梦 - 洛天依.mp3",
+    "link_lrc": "audio/前尘如梦 - 洛天依.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "1353381404",
+    "name": "AIAIAI",
+    "singer": "Kizuna AI&中田ヤスタカ",
+    "album": "AIAIAI",
+    "source": "wy",
+    "link_url": "audio/AIAIAI - Kizuna AI&中田ヤスタカ.mp3",
+    "link_lrc": "audio/AIAIAI - Kizuna AI&中田ヤスタカ.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "563020027",
+    "name": "Funny Bear",
+    "singer": "Best Of Hits",
+    "album": "Best Of Hits Vol. 98",
+    "source": "wy",
+    "link_url": "audio/Funny Bear - Best Of Hits.mp3",
+    "link_lrc": "audio/unknow.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "29561077",
+    "name": "Outside",
+    "singer": "Calvin Harris&Ellie Goulding",
+    "album": "Motion",
+    "source": "wy",
+    "link_url": "audio/Outside - Calvin Harris&Ellie Goulding.mp3",
+    "link_lrc": "audio/Outside - Calvin Harris&Ellie Goulding.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "493786003",
+    "name": "小城谣（Cover 胡碧乔）",
+    "singer": "朵芊&毛儿",
+    "album": "小城谣",
+    "source": "wy",
+    "link_url": "audio/小城谣（Cover 胡碧乔） - 朵芊&毛儿.mp3",
+    "link_lrc": "audio/小城谣（Cover 胡碧乔） - 朵芊&毛儿.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "28566210",
+    "name": "Boom Clap",
+    "singer": "Charli XCX",
+    "album": "The Fault In Our Stars (Music From the Motion Picture)",
+    "source": "wy",
+    "link_url": "audio/Boom Clap - Charli XCX.mp3",
+    "link_lrc": "audio/Boom Clap - Charli XCX.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "28457717",
+    "name": "こいのうた",
+    "singer": "洲崎綾",
+    "album": "プリンシプル",
+    "source": "wy",
+    "link_url": "audio/こいのうた - 洲崎綾.mp3",
+    "link_lrc": "audio/こいのうた - 洲崎綾.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "26125629",
+    "name": "ねぐせ",
+    "singer": "洲崎綾",
+    "album": "ねぐせ",
+    "source": "wy",
+    "link_url": "audio/ねぐせ - 洲崎綾.mp3",
+    "link_lrc": "audio/ねぐせ - 洲崎綾.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "26219823",
+    "name": "ドラマチックマーケットライド",
+    "singer": "洲崎綾",
+    "album": "ドラマチックマーケットライド",
+    "source": "wy",
+    "link_url": "audio/ドラマチックマーケットライド - 洲崎綾.mp3",
+    "link_lrc": "audio/ドラマチックマーケットライド - 洲崎綾.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "189433",
+    "name": "虚虚实实",
+    "singer": "张卫健",
+    "album": "齐天大圣孙悟空",
+    "source": "wy",
+    "link_url": "audio/虚虚实实 - 张卫健.mp3",
+    "link_lrc": "audio/虚虚实实 - 张卫健.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "408532862",
+    "name": "Bring Back The Summer (Not Your Dope Remix)",
+    "singer": "Not Your Dope&Rain Man",
+    "album": "Bring Back The Summer (Not Your Dope Remix)",
+    "source": "wy",
+    "link_url": "audio/Bring Back The Summer (Not Your Dope Remix) - Not Your Dope&Rain Man.mp3",
+    "link_lrc": "audio/Bring Back The Summer (Not Your Dope Remix) - Not Your Dope&Rain Man.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "25714102",
+    "name": "一个人想着一个人",
+    "singer": "曾沛慈",
+    "album": "终极一班2 电视原声带",
+    "source": "wy",
+    "link_url": "audio/一个人想着一个人 - 曾沛慈.mp3",
+    "link_lrc": "audio/一个人想着一个人 - 曾沛慈.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "424496997",
+    "name": "是萝莉控真是太好了（Cover 初音ミク）",
+    "singer": "东京塔子&Hanser",
+    "album": "Tawako日语",
+    "source": "wy",
+    "link_url": "audio/是萝莉控真是太好了（Cover 初音ミク） - 东京塔子&Hanser.mp3",
+    "link_lrc": "audio/是萝莉控真是太好了（Cover 初音ミク） - 东京塔子&Hanser.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "30031108",
+    "name": "天龙八部间奏曲",
+    "singer": "武聆音雄",
+    "album": "武侠音乐系列之双雄对峙（截取版）",
+    "source": "wy",
+    "link_url": "audio/天龙八部间奏曲 - 武聆音雄.mp3",
+    "link_lrc": "audio/unknow.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "520461943",
+    "name": "動く、動く",
+    "singer": "水瀬いのり&久保ユリカ",
+    "album": "動く、動く",
+    "source": "wy",
+    "link_url": "audio/動く、動く - 水瀬いのり&久保ユリカ.mp3",
+    "link_lrc": "audio/動く、動く - 水瀬いのり&久保ユリカ.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "24269596",
+    "name": "The Riddle (Radio Edit)",
+    "singer": "Prezioso & Marvin",
+    "album": "40 Christmas Dance Hits",
+    "source": "wy",
+    "link_url": "audio/The Riddle (Radio Edit) - Prezioso & Marvin.mp3",
+    "link_lrc": "audio/The Riddle (Radio Edit) - Prezioso & Marvin.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "520461955",
+    "name": "More One Night",
+    "singer": "久保ユリカ&水瀬いのり",
+    "album": "More One Night",
+    "source": "wy",
+    "link_url": "audio/More One Night - 久保ユリカ&水瀬いのり.mp3",
+    "link_lrc": "audio/More One Night - 久保ユリカ&水瀬いのり.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "1313354324",
+    "name": "出山",
+    "singer": "花粥&胜娚",
+    "album": "粥请客（四）",
+    "source": "wy",
+    "link_url": "audio/出山 - 花粥&胜娚.mp3",
+    "link_lrc": "audio/出山 - 花粥&胜娚.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "1349275373",
+    "name": "大氿歌",
+    "singer": "ilem&洛天依",
+    "album": "2:3",
+    "source": "wy",
+    "link_url": "audio/大氿歌 - ilem&洛天依.mp3",
+    "link_lrc": "audio/大氿歌 - ilem&洛天依.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "1349959772",
+    "name": "大氿歌 (国风版)",
+    "singer": "戴荃&ilem",
+    "album": "2:3",
+    "source": "wy",
+    "link_url": "audio/大氿歌 (国风版) - 戴荃&ilem.mp3",
+    "link_lrc": "audio/大氿歌 (国风版) - 戴荃&ilem.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "26432340",
+    "name": "Story",
+    "singer": "西野カナ",
+    "album": "Believe",
+    "source": "wy",
+    "link_url": "audio/Story - 西野カナ.mp3",
+    "link_lrc": "audio/Story - 西野カナ.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "34923862",
+    "name": "霜雪千年",
+    "singer": "洛天依&乐正绫&COP",
+    "album": "洛天依作品集",
+    "source": "wy",
+    "link_url": "audio/霜雪千年 - 洛天依&乐正绫&COP.mp3",
+    "link_lrc": "audio/霜雪千年 - 洛天依&乐正绫&COP.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "26590305",
+    "name": "Best of my Love",
+    "singer": "安田レイ",
+    "album": "Best of my Love (期間限定生産盤)",
+    "source": "wy",
+    "link_url": "audio/Best of my Love - 安田レイ.mp3",
+    "link_lrc": "audio/Best of my Love - 安田レイ.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "4164331",
+    "name": "Bye Bye Bye",
+    "singer": "Lovestoned",
+    "album": "Rising Love",
+    "source": "wy",
+    "link_url": "audio/Bye Bye Bye - Lovestoned.mp3",
+    "link_lrc": "audio/Bye Bye Bye - Lovestoned.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "26218091",
+    "name": "START_DASH!!",
+    "singer": "μ's",
+    "album": "No brand girls / START:DASH!!",
+    "source": "wy",
+    "link_url": "audio/START_DASH!! - μ's.mp3",
+    "link_lrc": "audio/START_DASH!! - μ's.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "1350516869",
+    "name": "五等分の気持ち",
+    "singer": "花澤香菜&竹達彩奈&伊藤美来&佐倉綾音&水瀬いのり",
+    "album": "五等分の気持ち",
+    "source": "wy",
+    "link_url": "audio/五等分の気持ち - 花澤香菜&竹達彩奈&伊藤美来&佐倉綾音&水瀬いのり.mp3",
+    "link_lrc": "audio/五等分の気持ち - 花澤香菜&竹達彩奈&伊藤美来&佐倉綾音&水瀬いのり.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "30780433",
+    "name": "Luv Letter (Wisp X Remix)",
+    "singer": "Wisp X",
+    "album": "Luv Letter (Wisp X Remix)",
+    "source": "wy",
+    "link_url": "audio/Luv Letter (Wisp X Remix) - Wisp X.mp3",
+    "link_lrc": "audio/unknow.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "35307106",
+    "name": "妄想税",
+    "singer": "鎖那",
+    "album": "最新热歌慢摇116",
+    "source": "wy",
+    "link_url": "audio/妄想税 - 鎖那.mp3",
+    "link_lrc": "audio/妄想税 - 鎖那.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "1321602273",
+    "name": "Siti Badriah-emang aku syantik（可有道 _ Siti Badriah remix）",
+    "singer": "可有道&Siti Badriah",
+    "album": "emang aku syantik",
+    "source": "wy",
+    "link_url": "audio/Siti Badriah-emang aku syantik（可有道 _ Siti Badriah remix） - 可有道&Siti Badriah.mp3",
+    "link_lrc": "audio/Siti Badriah-emang aku syantik（可有道 _ Siti Badriah remix） - 可有道&Siti Badriah.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "1340108360",
+    "name": "【初音ミク、洛天依】改革春风吹满地（念诗之王）【日语填词版】（Cover：小可儿）",
+    "singer": "A型君&初音ミク&洛天依",
+    "album": "【初音ミク、洛天依】改革春风吹满地（念诗之王）【日语填词版】",
+    "source": "wy",
+    "link_url": "audio/【初音ミク、洛天依】改革春风吹满地（念诗之王）【日语填词版】（Cover：小可儿） - A型君&初音ミク&洛天依.mp3",
+    "link_lrc": "audio/【初音ミク、洛天依】改革春风吹满地（念诗之王）【日语填词版】（Cover：小可儿） - A型君&初音ミク&洛天依.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "460528",
+    "name": "白金ディスコ",
+    "singer": "井口裕香",
+    "album": "白金ディスコ & 「偽物語」劇伴音楽集 其ノ參",
+    "source": "wy",
+    "link_url": "audio/白金ディスコ - 井口裕香.mp3",
+    "link_lrc": "audio/白金ディスコ - 井口裕香.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "542364335",
+    "name": "逆浪千秋",
+    "singer": "言和",
+    "album": "逆浪千秋",
+    "source": "wy",
+    "link_url": "audio/逆浪千秋 - 言和.mp3",
+    "link_lrc": "audio/逆浪千秋 - 言和.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "501755851",
+    "name": "东京不太热（Feat.洛天依）",
+    "singer": "洛天依&冰封前夕&Z新豪",
+    "album": "东京不太热【重置版】",
+    "source": "wy",
+    "link_url": "audio/东京不太热（Feat.洛天依） - 洛天依&冰封前夕&Z新豪.mp3",
+    "link_lrc": "audio/东京不太热（Feat.洛天依） - 洛天依&冰封前夕&Z新豪.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "31140522",
+    "name": "普通DISCO",
+    "singer": "洛天依&言和&ilem",
+    "album": "普通DISCO",
+    "source": "wy",
+    "link_url": "audio/普通DISCO - 洛天依&言和&ilem.mp3",
+    "link_lrc": "audio/普通DISCO - 洛天依&言和&ilem.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "92565",
+    "name": "男儿当自强 (狮王争霸之大合唱)",
+    "singer": "Tam Sik Hay&Donald Cheung",
+    "album": "黄飞鸿系列电影原声精装版",
+    "source": "wy",
+    "link_url": "audio/男儿当自强 (狮王争霸之大合唱) - Tam Sik Hay&Donald Cheung.mp3",
+    "link_lrc": "audio/男儿当自强 (狮王争霸之大合唱) - Tam Sik Hay&Donald Cheung.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "212233",
+    "name": "千千阙歌",
+    "singer": "陈慧娴",
+    "album": "千千阙歌",
+    "source": "wy",
+    "link_url": "audio/千千阙歌 - 陈慧娴.mp3",
+    "link_lrc": "audio/千千阙歌 - 陈慧娴.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "30064351",
+    "name": "Immortals",
+    "singer": "Fall Out Boy",
+    "album": "Big Hero 6 (Original Score)",
+    "source": "wy",
+    "link_url": "audio/Immortals - Fall Out Boy.mp3",
+    "link_lrc": "audio/Immortals - Fall Out Boy.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "76140",
+    "name": "醉酒狂歌",
+    "singer": "曹骏",
+    "album": "星愿",
+    "source": "wy",
+    "link_url": "audio/醉酒狂歌 - 曹骏.mp3",
+    "link_lrc": "audio/醉酒狂歌 - 曹骏.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "76138",
+    "name": "娘恩",
+    "singer": "曹骏",
+    "album": "星愿",
+    "source": "wy",
+    "link_url": "audio/娘恩 - 曹骏.mp3",
+    "link_lrc": "audio/娘恩 - 曹骏.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "76136",
+    "name": "神仙哪里好",
+    "singer": "曹骏",
+    "album": "星愿",
+    "source": "wy",
+    "link_url": "audio/神仙哪里好 - 曹骏.mp3",
+    "link_lrc": "audio/神仙哪里好 - 曹骏.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "1320697603",
+    "name": "Fading",
+    "singer": "Alle Farben&Ilira",
+    "album": "Fading",
+    "source": "wy",
+    "link_url": "audio/Fading - Alle Farben&Ilira.mp3",
+    "link_lrc": "audio/Fading - Alle Farben&Ilira.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "5239564",
+    "name": "你是我心内的一首歌",
+    "singer": "王力宏&任家萱",
+    "album": "K情歌8",
+    "source": "wy",
+    "link_url": "audio/你是我心内的一首歌 - 王力宏&任家萱.mp3",
+    "link_lrc": "audio/你是我心内的一首歌 - 王力宏&任家萱.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "254499",
+    "name": "为爱痴狂",
+    "singer": "刘若英",
+    "album": "收获 新歌+精选",
+    "source": "wy",
+    "link_url": "audio/为爱痴狂 - 刘若英.mp3",
+    "link_lrc": "audio/为爱痴狂 - 刘若英.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "32958397",
+    "name": "孟姜女",
+    "singer": "聆玖",
+    "album": "孟姜女",
+    "source": "wy",
+    "link_url": "audio/孟姜女 - 聆玖.mp3",
+    "link_lrc": "audio/孟姜女 - 聆玖.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "28406343",
+    "name": "のんのん姉妹",
+    "singer": "佐倉綾音&阿澄佳奈",
+    "album": "のんのん姉妹",
+    "source": "wy",
+    "link_url": "audio/のんのん姉妹 - 佐倉綾音&阿澄佳奈.mp3",
+    "link_lrc": "audio/のんのん姉妹 - 佐倉綾音&阿澄佳奈.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "29375305",
+    "name": "つくりましょう!",
+    "singer": "金田朋子&松岡由貴&樋口智恵子&田中理恵",
+    "album": "あずまんが大王 VOCAL COLLECTION うたいましょ",
+    "source": "wy",
+    "link_url": "audio/つくりましょう! - 金田朋子&松岡由貴&樋口智恵子&田中理恵.mp3",
+    "link_lrc": "audio/つくりましょう! - 金田朋子&松岡由貴&樋口智恵子&田中理恵.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "224327",
+    "name": "相思引",
+    "singer": "董真",
+    "album": "返璞归贞",
+    "source": "wy",
+    "link_url": "audio/相思引 - 董真.mp3",
+    "link_lrc": "audio/相思引 - 董真.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "26060065",
+    "name": "Counting Stars",
+    "singer": "OneRepublic",
+    "album": "Native (Deluxe Version)",
+    "source": "wy",
+    "link_url": "audio/Counting Stars - OneRepublic.mp3",
+    "link_lrc": "audio/Counting Stars - OneRepublic.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "501302894",
+    "name": "家有儿女过场插曲",
+    "singer": "群星",
+    "album": "热门华语7",
+    "source": "wy",
+    "link_url": "audio/家有儿女过场插曲 - 群星.mp3",
+    "link_lrc": "audio/unknow.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "26201862",
+    "name": "ふわふわ時間 (Single Ver.)",
+    "singer": "桜高軽音部",
+    "album": "K-ON! Music History's Box",
+    "source": "wy",
+    "link_url": "audio/ふわふわ時間 (Single Ver.) - 桜高軽音部.mp3",
+    "link_lrc": "audio/ふわふわ時間 (Single Ver.) - 桜高軽音部.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "436016478",
+    "name": "DetaramE KiddinG",
+    "singer": "REOL",
+    "album": "Σ",
+    "source": "wy",
+    "link_url": "audio/DetaramE KiddinG - REOL.mp3",
+    "link_lrc": "audio/DetaramE KiddinG - REOL.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "28838493",
+    "name": "KN33S0XXX",
+    "singer": "にーそっくすす",
+    "album": "精霊剣舞祭",
+    "source": "wy",
+    "link_url": "audio/KN33S0XXX - にーそっくすす.mp3",
+    "link_lrc": "audio/KN33S0XXX - にーそっくすす.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "651241",
+    "name": "Zzz",
+    "singer": "佐咲紗花",
+    "album": "Zzz",
+    "source": "wy",
+    "link_url": "audio/Zzz - 佐咲紗花.mp3",
+    "link_lrc": "audio/Zzz - 佐咲紗花.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "307780",
+    "name": "七月七日晴",
+    "singer": "许慧欣",
+    "album": "万中选一",
+    "source": "wy",
+    "link_url": "audio/七月七日晴 - 许慧欣.mp3",
+    "link_lrc": "audio/七月七日晴 - 许慧欣.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "95796",
+    "name": "勇往直前",
+    "singer": "胡伟立",
+    "album": "唐伯虎点秋香",
+    "source": "wy",
+    "link_url": "audio/勇往直前 - 胡伟立.mp3",
+    "link_lrc": "audio/unknow.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "31654478",
+    "name": "Star Sky",
+    "singer": "Two Steps From Hell",
+    "album": "Battlecry",
+    "source": "wy",
+    "link_url": "audio/Star Sky - Two Steps From Hell.mp3",
+    "link_lrc": "audio/Star Sky - Two Steps From Hell.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "26625301",
+    "name": "Pacific Rim",
+    "singer": "Ramin Djawadi",
+    "album": "Pacific Rim: Original Motion Picture Soundtrack",
+    "source": "wy",
+    "link_url": "audio/Pacific Rim - Ramin Djawadi.mp3",
+    "link_lrc": "audio/unknow.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "101918",
+    "name": "英雄们战胜了大渡河",
+    "singer": "时乐濛",
+    "album": "功夫 电影原声大碟",
+    "source": "wy",
+    "link_url": "audio/英雄们战胜了大渡河 - 时乐濛.mp3",
+    "link_lrc": "audio/unknow.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "29460377",
+    "name": "Empire of Angels",
+    "singer": "Two Steps From Hell",
+    "album": "Sun",
+    "source": "wy",
+    "link_url": "audio/Empire Of Angels - Two Steps From Hell.mp3",
+    "link_lrc": "audio/unknow.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "5271923",
+    "name": "金蛇狂舞",
+    "singer": "群星",
+    "album": "民乐合奏十大名曲",
+    "source": "wy",
+    "link_url": "audio/金蛇狂舞 - 群星.mp3",
+    "link_lrc": "audio/unknow.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "436016480",
+    "name": "404 not found",
+    "singer": "REOL",
+    "album": "Σ",
+    "source": "wy",
+    "link_url": "audio/404 not found - REOL.mp3",
+    "link_lrc": "audio/404 not found - REOL.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "463699673",
+    "name": "太阳系DISCO（Cover miku）",
+    "singer": "Hanser&YUKIri",
+    "album": "Hanser唱的歌（180924为止",
+    "source": "wy",
+    "link_url": "audio/太阳系DISCO（Cover miku） - Hanser&YUKIri.mp3",
+    "link_lrc": "audio/太阳系DISCO（Cover miku） - Hanser&YUKIri.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "444745400",
+    "name": "禁忌的边界线いけないボーダーライン-泠鸢yousa翻唱（Cover ワルキューレ，Walküre）",
+    "singer": "泠鸢yousa",
+    "album": "泠鸢yousa【翻唱第二辑】",
+    "source": "wy",
+    "link_url": "audio/禁忌的边界线いけないボーダーライン-泠鸢yousa翻唱（Cover ワルキューレ，Walküre） - 泠鸢yousa.mp3",
+    "link_lrc": "audio/禁忌的边界线いけないボーダーライン-泠鸢yousa翻唱（Cover ワルキューレ，Walküre） - 泠鸢yousa.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "1325817338",
+    "name": "江东·伯言志",
+    "singer": "米里&洛天依&乐正龙牙",
+    "album": "江东",
+    "source": "wy",
+    "link_url": "audio/江东·伯言志 - 米里&洛天依&乐正龙牙.mp3",
+    "link_lrc": "audio/江东·伯言志 - 米里&洛天依&乐正龙牙.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "28445467",
+    "name": "小鸡哔哔",
+    "singer": "洛天依",
+    "album": "洛天依小鸡哔哔",
+    "source": "wy",
+    "link_url": "audio/小鸡哔哔 - 洛天依.mp3",
+    "link_lrc": "audio/小鸡哔哔 - 洛天依.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "32897672",
+    "name": "操戈天下2.0",
+    "singer": "洛天依",
+    "album": "洛天依作品集",
+    "source": "wy",
+    "link_url": "audio/操戈天下2.0 - 洛天依.mp3",
+    "link_lrc": "audio/操戈天下2.0 - 洛天依.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "40915689",
+    "name": "プラトニック・ラヴ",
+    "singer": "鹿乃",
+    "album": "メリー",
+    "source": "wy",
+    "link_url": "audio/プラトニック・ラヴ - 鹿乃.mp3",
+    "link_lrc": "audio/プラトニック・ラヴ - 鹿乃.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "404543406",
+    "name": "九九八十一",
+    "singer": "乐正绫",
+    "album": "九九八十一",
+    "source": "wy",
+    "link_url": "audio/九九八十一 - 乐正绫.mp3",
+    "link_lrc": "audio/九九八十一 - 乐正绫.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "445664293",
+    "name": "追光使者",
+    "singer": "洛天依",
+    "album": "追光使者",
+    "source": "wy",
+    "link_url": "audio/追光使者 - 洛天依.mp3",
+    "link_lrc": "audio/追光使者 - 洛天依.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "850694",
+    "name": "絶対的一方通行",
+    "singer": "めらみぽっぷ",
+    "album": "廻",
+    "source": "wy",
+    "link_url": "audio/絶対的一方通行 - めらみぽっぷ.mp3",
+    "link_lrc": "audio/絶対的一方通行 - めらみぽっぷ.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "28912536",
+    "name": "White",
+    "singer": "丁可",
+    "album": "遥远的某处",
+    "source": "wy",
+    "link_url": "audio/White - 丁可.mp3",
+    "link_lrc": "audio/unknow.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "345741",
+    "name": "触电 (完整版)",
+    "singer": "芭比",
+    "album": "摇头舞曲 3",
+    "source": "wy",
+    "link_url": "audio/触电 (完整版) - 芭比.mp3",
+    "link_lrc": "audio/触电 (完整版) - 芭比.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "414586202",
+    "name": "Breathe",
+    "singer": "Fleurie",
+    "album": "Breathe",
+    "source": "wy",
+    "link_url": "audio/Breathe - Fleurie.mp3",
+    "link_lrc": "audio/Breathe - Fleurie.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "1313052944",
+    "name": "BABY!",
+    "singer": "スイートバレット",
+    "album": "不可思議のカルテ",
+    "source": "wy",
+    "link_url": "audio/BABY! - スイートバレット.mp3",
+    "link_lrc": "audio/BABY! - スイートバレット.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "1313107902",
+    "name": "君のせい",
+    "singer": "the peggies",
+    "album": "君のせい",
+    "source": "wy",
+    "link_url": "audio/君のせい - the peggies.mp3",
+    "link_lrc": "audio/君のせい - the peggies.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "863046037",
+    "name": "Way Back Home",
+    "singer": "SHAUN",
+    "album": "Take",
+    "source": "wy",
+    "link_url": "audio/Way Back Home - SHAUN.mp3",
+    "link_lrc": "audio/Way Back Home - SHAUN.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "254589",
+    "name": "很爱很爱你",
+    "singer": "刘若英",
+    "album": "很爱很爱你",
+    "source": "wy",
+    "link_url": "audio/很爱很爱你 - 刘若英.mp3",
+    "link_lrc": "audio/很爱很爱你 - 刘若英.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "254574",
+    "name": "后来",
+    "singer": "刘若英",
+    "album": "我等你",
+    "source": "wy",
+    "link_url": "audio/后来 - 刘若英.mp3",
+    "link_lrc": "audio/后来 - 刘若英.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "4875691",
+    "name": "当爱在靠近",
+    "singer": "刘若英",
+    "album": "向左走向右走 电视原声带",
+    "source": "wy",
+    "link_url": "audio/当爱在靠近 - 刘若英.mp3",
+    "link_lrc": "audio/当爱在靠近 - 刘若英.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "1298130354",
+    "name": "猪八戒背媳妇 (民乐合奏)",
+    "singer": "华夏管弦乐团",
+    "album": "西游记 电视连续剧音乐",
+    "source": "wy",
+    "link_url": "audio/猪八戒背媳妇 (民乐合奏) - 华夏管弦乐团.mp3",
+    "link_lrc": "audio/unknow.lrc",
+    "format": "mp3"
+  },
+  {
+    "id": "818316",
+    "name": "ツキアカリのミチシルベ",
+    "singer": "ステレオポニー",
+    "album": "ツキアカリのミチシルベ",
+    "source": "wy",
+    "link_url": "audio/ツキアカリのミチシルベ - ステレオポニー.mp3",
+    "link_lrc": "audio/ツキアカリのミチシルベ - ステレオポニー.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "36198569",
+    "name": "パルス",
+    "singer": "佐倉綾音&釘宮理恵",
+    "album": "パルス",
+    "source": "wy",
+    "link_url": "audio/パルス - 佐倉綾音&釘宮理恵.mp3",
+    "link_lrc": "audio/パルス - 佐倉綾音&釘宮理恵.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "722013",
+    "name": "緋色月下、狂咲ノ絶　-1st Anniversary Remix-",
+    "singer": "nayuta",
+    "album": "Sacred Factor",
+    "source": "wy",
+    "link_url": "audio/緋色月下、狂咲ノ絶　-1st Anniversary Remix- - nayuta.mp3",
+    "link_lrc": "audio/緋色月下、狂咲ノ絶　-1st Anniversary Remix- - nayuta.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "1299295064",
+    "name": "心跳23事",
+    "singer": "小野道ono&2233娘",
+    "album": "心跳23事",
+    "source": "wy",
+    "link_url": "audio/心跳23事 - 小野道ono&2233娘.mp3",
+    "link_lrc": "audio/心跳23事 - 小野道ono&2233娘.lrc",
+    "format": "flac"
+  },
+  {
+    "id": "1361188105",
+    "name": "チカっとチカ千花っ♡",
+    "singer": "小原好美",
+    "album": "チカっとチカ千花っ♡",
+    "source": "wy",
+    "link_url": "audio/チカっとチカ千花っ♡ - 小原好美.mp3",
+    "link_lrc": "audio/チカっとチカ千花っ♡ - 小原好美.lrc",
+    "format": "flac"
+  },
+  {
     "id": "468490582",
     "name": "パスカル",
     "singer": "岡部啓一",
